@@ -594,8 +594,14 @@ if __name__ == "__main__":
     # ===============================
     # SAVE OUTPUT
     # ===============================
+    updated_time = datetime.now(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d %I:%M:%S %p")
+    data  = {
+        "last_updated": updated_time,
+        "shows": final_output
+    }
+    
     with open(grouped_file, "w", encoding="utf-8") as f:
-        json.dump(final_output, f, indent=2)
+        json.dump(data, f, indent=2)
 
     print(f"💾 Grouped data saved to {grouped_file}")
 
