@@ -29,7 +29,6 @@ print(f"🎬 Using DATE = {DATE} (PST)")
 MAX_WORKERS = 25  # For showtime fetching multiprocessing
 CONCURRENCY = 45  # For async seat fetching concurrency
 ZIP_FILE = "zipcodes.txt"
-ERROR_FILE_DEAD = "errored_seats.json"
 
 KNOWN_LANGUAGES = [
     "English",
@@ -373,6 +372,7 @@ if __name__ == "__main__":
 
     main_file = os.path.join(out_dir, f"{TARGET_MOVIE_ID}_{DATE}.json")
     error_file = os.path.join(out_dir, f"{TARGET_MOVIE_ID}_{DATE}_errors.json")
+    grouped_file = os.path.join(out_dir, f"{TARGET_MOVIE_ID}_{DATE}_grouped.json")
 
     # Load previous saved data if exists
     existing = {}
@@ -594,8 +594,10 @@ if __name__ == "__main__":
     # ===============================
     # SAVE OUTPUT
     # ===============================
-    with open("grouped_output.json", "w", encoding="utf-8") as f:
+    with open(grouped_file, "w", encoding="utf-8") as f:
         json.dump(final_output, f, indent=2)
+
+    print(f"💾 Grouped data saved to {grouped_file}")
 
     total_gross = round(
         sum(s["finalGrossRevenueUSD"] for s in final_output), 2
