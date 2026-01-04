@@ -594,7 +594,7 @@ if __name__ == "__main__":
     # ===============================
     # SAVE OUTPUT
     # ===============================
-    updated_time = datetime.now(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d %I:%M:%S %p")
+    updated_time = datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d %I:%M:%S %p IST")
     data  = {
         "last_updated": updated_time,
         "shows": final_output
