@@ -1,0 +1,2053 @@
+{
+  "last_updated": "2026-01-04 03:52:24 PM",
+  "errors": [
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528263859,
+      "date": "2026-01-08+16:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02111",
+      "theater_name": "AMC Boston Common 19",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528263860,
+      "date": "2026-01-08+20:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528221117,
+      "date": "2026-01-08+14:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Elizabeth",
+      "zip": "07201",
+      "theater_name": "AMC Jersey Gardens 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528221118,
+      "date": "2026-01-08+18:20",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Cherry Hill",
+      "zip": "08002",
+      "theater_name": "AMC Cherry Hill 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528376817,
+      "date": "2026-01-08+16:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Cherry Hill",
+      "zip": "08002",
+      "theater_name": "AMC Cherry Hill 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528376818,
+      "date": "2026-01-08+20:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Turnersville",
+      "zip": "08012",
+      "theater_name": "Regal Cross Keys",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 526661127,
+      "date": "2026-01-08+13:05",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Turnersville",
+      "zip": "08012",
+      "theater_name": "Regal Cross Keys",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 526661128,
+      "date": "2026-01-08+15:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NJ",
+      "city": "Turnersville",
+      "zip": "08012",
+      "theater_name": "Regal Cross Keys",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 526661129,
+      "date": "2026-01-08+19:40",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22314",
+      "theater_name": "AMC Hoffman Center 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527797282,
+      "date": "2026-01-08+16:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22314",
+      "theater_name": "AMC Hoffman Center 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527797281,
+      "date": "2026-01-08+20:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "VA",
+      "city": "Hampton",
+      "zip": "23666",
+      "theater_name": "AMC Hampton Towne Centre 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528311058,
+      "date": "2026-01-08+15:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "VA",
+      "city": "Hampton",
+      "zip": "23666",
+      "theater_name": "AMC Hampton Towne Centre 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528311057,
+      "date": "2026-01-08+20:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528286769,
+      "date": "2026-01-08+14:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528286768,
+      "date": "2026-01-08+18:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528330120,
+      "date": "2026-01-08+15:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528330119,
+      "date": "2026-01-08+19:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528276386,
+      "date": "2026-01-08+15:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528276385,
+      "date": "2026-01-08+19:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528200582,
+      "date": "2026-01-08+16:20",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528200584,
+      "date": "2026-01-08+19:40",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "West Melbourne",
+      "zip": "32904",
+      "theater_name": "AMC West Melbourne 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528268231,
+      "date": "2026-01-08+15:40",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "West Melbourne",
+      "zip": "32904",
+      "theater_name": "AMC West Melbourne 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528268230,
+      "date": "2026-01-08+19:50",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Vero Beach",
+      "zip": "32966",
+      "theater_name": "AMC CLASSIC Indian River 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527939772,
+      "date": "2026-01-08+11:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Vero Beach",
+      "zip": "32966",
+      "theater_name": "AMC CLASSIC Indian River 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527939773,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528239784,
+      "date": "2026-01-08+15:40",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528239783,
+      "date": "2026-01-08+20:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528420734,
+      "date": "2026-01-08+15:35",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528420733,
+      "date": "2026-01-08+20:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528420753,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528420754,
+      "date": "2026-01-08+22:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34203",
+      "theater_name": "AMC Bradenton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528016748,
+      "date": "2026-01-08+14:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "FL",
+      "city": "Bradenton",
+      "zip": "34203",
+      "theater_name": "AMC Bradenton 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528016747,
+      "date": "2026-01-08+18:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Montgomery",
+      "zip": "36116",
+      "theater_name": "AMC Festival Plaza 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528434092,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Montgomery",
+      "zip": "36116",
+      "theater_name": "AMC Festival Plaza 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527484725,
+      "date": "2026-01-08+19:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527928612,
+      "date": "2026-01-08+16:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527928613,
+      "date": "2026-01-08+20:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Mobile",
+      "zip": "36695",
+      "theater_name": "AMC Mobile 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528014775,
+      "date": "2026-01-08+14:40",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AL",
+      "city": "Mobile",
+      "zip": "36695",
+      "theater_name": "AMC Mobile 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528014774,
+      "date": "2026-01-08+18:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528205902,
+      "date": "2026-01-08+14:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46250",
+      "theater_name": "AMC Castleton Square 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528205903,
+      "date": "2026-01-08+18:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528236967,
+      "date": "2026-01-08+13:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528236966,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Schererville",
+      "zip": "46375",
+      "theater_name": "AMC Schererville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528036306,
+      "date": "2026-01-08+16:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IN",
+      "city": "Schererville",
+      "zip": "46375",
+      "theater_name": "AMC Schererville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528036305,
+      "date": "2026-01-08+19:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528195644,
+      "date": "2026-01-08+15:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MI",
+      "city": "Livonia",
+      "zip": "48152",
+      "theater_name": "AMC Livonia 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528195643,
+      "date": "2026-01-08+20:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528139151,
+      "date": "2026-01-08+13:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MI",
+      "city": "Walker",
+      "zip": "49544",
+      "theater_name": "AMC Grand Rapids 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528139150,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528259181,
+      "date": "2026-01-08+15:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528259180,
+      "date": "2026-01-08+20:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "WI",
+      "city": "Ashwaubenon",
+      "zip": "54304",
+      "theater_name": "Marcus Bay Park Cinemas",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 526730036,
+      "date": "2026-01-08+15:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "WI",
+      "city": "Ashwaubenon",
+      "zip": "54304",
+      "theater_name": "Marcus Bay Park Cinemas",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 526730037,
+      "date": "2026-01-08+19:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Macomb",
+      "zip": "61455",
+      "theater_name": "VIP Rialto Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 526178487,
+      "date": "2026-01-08+15:00",
+      "format": "standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Macomb",
+      "zip": "61455",
+      "theater_name": "VIP Rialto Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 525974838,
+      "date": "2026-01-08+19:00",
+      "format": "standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Macomb",
+      "zip": "61455",
+      "theater_name": "VIP Rialto Cinemas",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 526178488,
+      "date": "2026-01-08+19:00",
+      "format": "standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 525982203,
+      "date": "2026-01-08+15:00",
+      "format": "standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "IL",
+      "city": "Mattoon",
+      "zip": "61938",
+      "theater_name": "VIP Mattoon 10",
+      "chainName": "VIP Cinemas",
+      "chainCode": "VIPC",
+      "showtime_id": 525982204,
+      "date": "2026-01-08+19:00",
+      "format": "standard",
+      "language": "Unknown",
+      "error": {
+        "status": 400,
+        "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64151",
+      "theater_name": "AMC Barrywoods 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528210702,
+      "date": "2026-01-08+16:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "MO",
+      "city": "Kansas City",
+      "zip": "64151",
+      "theater_name": "AMC Barrywoods 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528210701,
+      "date": "2026-01-08+20:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76710",
+      "theater_name": "AMC Galaxy 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528215635,
+      "date": "2026-01-08+14:35",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Waco",
+      "zip": "76710",
+      "theater_name": "AMC Galaxy 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528215634,
+      "date": "2026-01-08+18:50",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528248172,
+      "date": "2026-01-08+13:45",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528248171,
+      "date": "2026-01-08+18:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528000274,
+      "date": "2026-01-08+14:15",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77494",
+      "theater_name": "AMC Katy Mills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528000275,
+      "date": "2026-01-08+18:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528187351,
+      "date": "2026-01-08+15:00",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528187352,
+      "date": "2026-01-08+19:10",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85027",
+      "theater_name": "AMC Deer Valley 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527699230,
+      "date": "2026-01-08+15:20",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85027",
+      "theater_name": "AMC Deer Valley 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 527699231,
+      "date": "2026-01-08+19:30",
+      "format": "standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
+      },
+      "totalSeatSold": 0,
+      "occupancy": 0,
+      "grossRevenueUSD": 0
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22314",
+      "theater_name": "AMC Hoffman Center 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-08+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529056366,
+      "date": "2026-01-08+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "New Brunswick",
+      "zip": "08901",
+      "theater_name": "AMC New Brunswick 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529056365,
+      "date": "2026-01-08+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529351805,
+      "date": "2026-01-08+14:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23452",
+      "theater_name": "AMC Lynnhaven 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529351804,
+      "date": "2026-01-08+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cumming",
+      "zip": "30041",
+      "theater_name": "AMC Avenue Forsyth 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529141630,
+      "date": "2026-01-08+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Cumming",
+      "zip": "30041",
+      "theater_name": "AMC Avenue Forsyth 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529141631,
+      "date": "2026-01-08+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529099332,
+      "date": "2026-01-08+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529099331,
+      "date": "2026-01-08+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Evansville",
+      "zip": "47712",
+      "theater_name": "AMC Evansville 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529234715,
+      "date": "2026-01-08+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Madison Heights",
+      "zip": "48071",
+      "theater_name": "AMC Star John R 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529250610,
+      "date": "2026-01-08+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MI",
+      "city": "Madison Heights",
+      "zip": "48071",
+      "theater_name": "AMC Star John R 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529250611,
+      "date": "2026-01-08+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Leawood",
+      "zip": "66211",
+      "theater_name": "AMC Town Center 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528817497,
+      "date": "2026-01-08+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "UT",
+      "city": "West Jordan",
+      "zip": "84088",
+      "theater_name": "AMC West Jordan 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529205588,
+      "date": "2026-01-08+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85050",
+      "theater_name": "AMC Desert Ridge 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528965535,
+      "date": "2026-01-08+14:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85050",
+      "theater_name": "AMC Desert Ridge 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528965536,
+      "date": "2026-01-08+18:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529368182,
+      "date": "2026-01-08+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "City Of Industry",
+      "zip": "91748",
+      "theater_name": "AMC Puente Hills 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529368183,
+      "date": "2026-01-08+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02114",
+      "theater_name": "AMC Causeway 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529123309,
+      "date": "2026-01-08+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529454690,
+      "date": "2026-01-08+13:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Trumbull",
+      "zip": "06611",
+      "theater_name": "AMC Marquis 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529454691,
+      "date": "2026-01-08+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529562826,
+      "date": "2026-01-08+11:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Center Valley",
+      "zip": "18034",
+      "theater_name": "AMC Center Valley 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529820554,
+      "date": "2026-01-08+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528971127,
+      "date": "2026-01-08+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528971128,
+      "date": "2026-01-08+16:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Bensalem",
+      "zip": "19020",
+      "theater_name": "AMC Neshaminy 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528971129,
+      "date": "2026-01-08+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20147",
+      "theater_name": "AMC Loudoun Station 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529573539,
+      "date": "2026-01-08+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20147",
+      "theater_name": "AMC Loudoun Station 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529573538,
+      "date": "2026-01-08+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529783673,
+      "date": "2026-01-08+14:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529783672,
+      "date": "2026-01-08+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33609",
+      "theater_name": "AMC West Shore 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529504975,
+      "date": "2026-01-08+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Newport",
+      "zip": "41071",
+      "theater_name": "AMC Newport On The Levee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529674049,
+      "date": "2026-01-08+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Newport",
+      "zip": "41071",
+      "theater_name": "AMC Newport On The Levee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529674050,
+      "date": "2026-01-08+20:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46804",
+      "theater_name": "AMC Jefferson Point 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529757723,
+      "date": "2026-01-08+13:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46804",
+      "theater_name": "AMC Jefferson Point 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529757724,
+      "date": "2026-01-08+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529703672,
+      "date": "2026-01-08+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Chicago",
+      "zip": "60611",
+      "theater_name": "AMC River East 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529703675,
+      "date": "2026-01-08+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Skokie",
+      "zip": "60077",
+      "theater_name": "AMC Village Crossing 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529481072,
+      "date": "2026-01-08+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Council Bluffs",
+      "zip": "51501",
+      "theater_name": "AMC Council Bluffs 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529539324,
+      "date": "2026-01-08+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Council Bluffs",
+      "zip": "51501",
+      "theater_name": "AMC Council Bluffs 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529539325,
+      "date": "2026-01-08+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529539048,
+      "date": "2026-01-08+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529719016,
+      "date": "2026-01-08+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529719015,
+      "date": "2026-01-08+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Sugar Land",
+      "zip": "77479",
+      "theater_name": "AMC First Colony 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529719014,
+      "date": "2026-01-08+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lynnwood",
+      "zip": "98037",
+      "theater_name": "AMC Loews Alderwood Mall 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529730186,
+      "date": "2026-01-08+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
