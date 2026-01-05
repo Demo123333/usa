@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 04:21:09 PM IST",
+  "last_updated": "2026-01-05 05:11:40 PM IST",
   "shows": [
     {
       "state": "RI",
@@ -97,14 +97,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 10,
           "totalSeatCount": 78,
-          "grossRevenueUSD": 200.0,
+          "grossRevenueUSD": 250.0,
           "adultTicketPrice": 25.0,
-          "occupancy": 10.26
+          "occupancy": 12.82
         }
       ],
-      "finalGrossRevenueUSD": 200.0
+      "finalGrossRevenueUSD": 250.0
     },
     {
       "state": "RI",
@@ -1720,14 +1720,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 71,
+          "totalSeatSold": 76,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 1892.86,
+          "grossRevenueUSD": 2026.16,
           "adultTicketPrice": 26.66,
-          "occupancy": 55.04
+          "occupancy": 58.91
         }
       ],
-      "finalGrossRevenueUSD": 1892.86
+      "finalGrossRevenueUSD": 2026.16
     },
     {
       "state": "NJ",
@@ -8293,14 +8293,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 9,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 216.0,
+          "grossRevenueUSD": 243.0,
           "adultTicketPrice": 27.0,
-          "occupancy": 6.2
+          "occupancy": 6.98
         }
       ],
-      "finalGrossRevenueUSD": 216.0
+      "finalGrossRevenueUSD": 243.0
     },
     {
       "state": "OH",
@@ -9511,14 +9511,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 11,
+          "totalSeatSold": 12,
           "totalSeatCount": 266,
-          "grossRevenueUSD": 275.0,
+          "grossRevenueUSD": 300.0,
           "adultTicketPrice": 25.0,
-          "occupancy": 4.14
+          "occupancy": 4.51
         }
       ],
-      "finalGrossRevenueUSD": 275.0
+      "finalGrossRevenueUSD": 300.0
     },
     {
       "state": "MI",
