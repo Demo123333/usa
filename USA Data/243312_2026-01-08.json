@@ -64,11 +64,11 @@
     "date": "2026-01-08+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 1.18,
-    "totalAvailableSeatCount": 167,
+    "totalSeatSold": 6,
+    "occupancy": 3.55,
+    "totalAvailableSeatCount": 163,
     "totalSeatCount": 169,
-    "grossRevenueUSD": 50.0,
+    "grossRevenueUSD": 150.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -188,15 +188,14 @@
     "chainCode": "AMC",
     "showtime_id": 528263859,
     "date": "2026-01-08+16:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 1,
+    "occupancy": 0.48,
+    "totalAvailableSeatCount": 206,
+    "totalSeatCount": 207,
+    "grossRevenueUSD": 25.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MA",
@@ -207,15 +206,14 @@
     "chainCode": "AMC",
     "showtime_id": 528263860,
     "date": "2026-01-08+20:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 1,
+    "occupancy": 0.48,
+    "totalAvailableSeatCount": 206,
+    "totalSeatCount": 207,
+    "grossRevenueUSD": 25.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MA",
@@ -1200,11 +1198,11 @@
     "date": "2026-01-08+19:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 28,
-    "occupancy": 32.94,
-    "totalAvailableSeatCount": 57,
+    "totalSeatSold": 29,
+    "occupancy": 34.12,
+    "totalAvailableSeatCount": 56,
     "totalSeatCount": 85,
-    "grossRevenueUSD": 746.48,
+    "grossRevenueUSD": 773.14,
     "adultTicketPrice": 26.66
   },
   {
@@ -1216,15 +1214,14 @@
     "chainCode": "AMC",
     "showtime_id": 528221117,
     "date": "2026-01-08+14:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 2,
+    "occupancy": 0.53,
+    "totalAvailableSeatCount": 377,
+    "totalSeatCount": 379,
+    "grossRevenueUSD": 53.32,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "NJ",
@@ -1235,15 +1232,14 @@
     "chainCode": "AMC",
     "showtime_id": 528221118,
     "date": "2026-01-08+18:20",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 2,
+    "occupancy": 0.53,
+    "totalAvailableSeatCount": 377,
+    "totalSeatCount": 379,
+    "grossRevenueUSD": 53.32,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "NJ",
@@ -1454,11 +1450,11 @@
     "date": "2026-01-08+20:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 94,
-    "occupancy": 73.44,
-    "totalAvailableSeatCount": 34,
+    "totalSeatSold": 95,
+    "occupancy": 74.22,
+    "totalAvailableSeatCount": 33,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 2506.04,
+    "grossRevenueUSD": 2532.7,
     "adultTicketPrice": 26.66
   },
   {
@@ -1508,11 +1504,11 @@
     "date": "2026-01-08+16:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 8.53,
-    "totalAvailableSeatCount": 118,
+    "totalSeatSold": 13,
+    "occupancy": 10.08,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 293.26,
+    "grossRevenueUSD": 346.58,
     "adultTicketPrice": 26.66
   },
   {
@@ -1526,11 +1522,11 @@
     "date": "2026-01-08+17:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 98,
-    "occupancy": 46.67,
-    "totalAvailableSeatCount": 112,
+    "totalSeatSold": 100,
+    "occupancy": 47.62,
+    "totalAvailableSeatCount": 110,
     "totalSeatCount": 210,
-    "grossRevenueUSD": 2612.68,
+    "grossRevenueUSD": 2666.0,
     "adultTicketPrice": 26.66
   },
   {
@@ -1578,15 +1574,14 @@
     "chainCode": "AMC",
     "showtime_id": 528376817,
     "date": "2026-01-08+16:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 192,
+    "totalSeatCount": 192,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "NJ",
@@ -1597,15 +1592,14 @@
     "chainCode": "AMC",
     "showtime_id": 528376818,
     "date": "2026-01-08+20:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 192,
+    "totalSeatCount": 192,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "NJ",
@@ -3637,11 +3631,11 @@
     "date": "2026-01-08+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 18,
-    "occupancy": 3.64,
-    "totalAvailableSeatCount": 476,
+    "totalSeatSold": 21,
+    "occupancy": 4.25,
+    "totalAvailableSeatCount": 473,
     "totalSeatCount": 494,
-    "grossRevenueUSD": 450.0,
+    "grossRevenueUSD": 525.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -3923,15 +3917,14 @@
     "chainCode": "AMC",
     "showtime_id": 527797282,
     "date": "2026-01-08+16:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 181,
+    "totalSeatCount": 181,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.5
   },
   {
     "state": "VA",
@@ -3942,15 +3935,14 @@
     "chainCode": "AMC",
     "showtime_id": 527797281,
     "date": "2026-01-08+20:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 181,
+    "totalSeatCount": 181,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.5
   },
   {
     "state": "VA",
@@ -4609,15 +4601,14 @@
     "chainCode": "AMC",
     "showtime_id": 528311058,
     "date": "2026-01-08+15:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "VA",
@@ -4628,15 +4619,14 @@
     "chainCode": "AMC",
     "showtime_id": 528311057,
     "date": "2026-01-08+20:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "VA",
@@ -4899,15 +4889,14 @@
     "chainCode": "AMC",
     "showtime_id": 528286769,
     "date": "2026-01-08+14:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 77,
+    "totalSeatCount": 77,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "NC",
@@ -4918,15 +4907,14 @@
     "chainCode": "AMC",
     "showtime_id": 528286768,
     "date": "2026-01-08+18:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 77,
+    "totalSeatCount": 77,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "NC",
@@ -5029,11 +5017,11 @@
     "date": "2026-01-08+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 52,
-    "occupancy": 53.61,
-    "totalAvailableSeatCount": 45,
+    "totalSeatSold": 50,
+    "occupancy": 51.55,
+    "totalAvailableSeatCount": 47,
     "totalSeatCount": 97,
-    "grossRevenueUSD": 1391.0,
+    "grossRevenueUSD": 1337.5,
     "adultTicketPrice": 26.75
   },
   {
@@ -5047,11 +5035,11 @@
     "date": "2026-01-08+11:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 24,
-    "occupancy": 25.26,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 26,
+    "occupancy": 27.37,
+    "totalAvailableSeatCount": 69,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 643.44,
+    "grossRevenueUSD": 697.06,
     "adultTicketPrice": 26.81
   },
   {
@@ -5099,15 +5087,14 @@
     "chainCode": "AMC",
     "showtime_id": 528330120,
     "date": "2026-01-08+15:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 64,
+    "totalSeatCount": 64,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.94
   },
   {
     "state": "GA",
@@ -5175,11 +5162,11 @@
     "date": "2026-01-08+11:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 51,
-    "occupancy": 27.57,
-    "totalAvailableSeatCount": 134,
+    "totalSeatSold": 52,
+    "occupancy": 28.11,
+    "totalAvailableSeatCount": 133,
     "totalSeatCount": 185,
-    "grossRevenueUSD": 1373.94,
+    "grossRevenueUSD": 1400.88,
     "adultTicketPrice": 26.94
   },
   {
@@ -5607,11 +5594,11 @@
     "date": "2026-01-08+16:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 12,
-    "occupancy": 8.82,
-    "totalAvailableSeatCount": 124,
+    "totalSeatSold": 14,
+    "occupancy": 10.29,
+    "totalAvailableSeatCount": 122,
     "totalSeatCount": 136,
-    "grossRevenueUSD": 322.56,
+    "grossRevenueUSD": 376.32,
     "adultTicketPrice": 26.88
   },
   {
@@ -5641,15 +5628,14 @@
     "chainCode": "AMC",
     "showtime_id": 528276386,
     "date": "2026-01-08+15:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -5660,15 +5646,14 @@
     "chainCode": "AMC",
     "showtime_id": 528276385,
     "date": "2026-01-08+19:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -5861,15 +5846,14 @@
     "chainCode": "AMC",
     "showtime_id": 528268231,
     "date": "2026-01-08+15:40",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 132,
+    "totalSeatCount": 132,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.02
   },
   {
     "state": "FL",
@@ -5880,15 +5864,14 @@
     "chainCode": "AMC",
     "showtime_id": 528268230,
     "date": "2026-01-08+19:50",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 132,
+    "totalSeatCount": 132,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.02
   },
   {
     "state": "FL",
@@ -5918,15 +5901,14 @@
     "chainCode": "AMC",
     "showtime_id": 527939773,
     "date": "2026-01-08+18:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 83,
+    "totalSeatCount": 83,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "FL",
@@ -6243,15 +6225,14 @@
     "chainCode": "AMC",
     "showtime_id": 528239784,
     "date": "2026-01-08+15:40",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 121,
+    "totalSeatCount": 121,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -6262,15 +6243,14 @@
     "chainCode": "AMC",
     "showtime_id": 528239783,
     "date": "2026-01-08+20:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 121,
+    "totalSeatCount": 121,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -6373,15 +6353,14 @@
     "chainCode": "AMC",
     "showtime_id": 528420753,
     "date": "2026-01-08+18:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -6392,15 +6371,14 @@
     "chainCode": "AMC",
     "showtime_id": 528420754,
     "date": "2026-01-08+22:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "FL",
@@ -6465,15 +6443,14 @@
     "chainCode": "AMC",
     "showtime_id": 528016748,
     "date": "2026-01-08+14:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 116,
+    "totalSeatCount": 116,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "FL",
@@ -6484,15 +6461,14 @@
     "chainCode": "AMC",
     "showtime_id": 528016747,
     "date": "2026-01-08+18:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 116,
+    "totalSeatCount": 116,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "AL",
@@ -6521,16 +6497,15 @@
     "chainName": "AMC",
     "chainCode": "AMC",
     "showtime_id": 527484725,
-    "date": "2026-01-08+19:30",
-    "format": "standard",
+    "date": "2026-01-08+19:45",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 154,
+    "totalSeatCount": 154,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "AL",
@@ -6559,16 +6534,15 @@
     "chainName": "AMC",
     "chainCode": "AMC",
     "showtime_id": 527928613,
-    "date": "2026-01-08+20:00",
-    "format": "standard",
+    "date": "2026-01-08+19:40",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 161,
+    "totalSeatCount": 161,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.38
   },
   {
     "state": "AL",
@@ -6705,16 +6679,15 @@
     "chainName": "AMC",
     "chainCode": "AMC",
     "showtime_id": 528014774,
-    "date": "2026-01-08+18:45",
-    "format": "standard",
+    "date": "2026-01-08+19:40",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 70,
+    "totalSeatCount": 70,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "TN",
@@ -8075,15 +8048,14 @@
     "chainCode": "AMC",
     "showtime_id": 528205902,
     "date": "2026-01-08+14:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 1,
+    "occupancy": 1.39,
+    "totalAvailableSeatCount": 71,
+    "totalSeatCount": 72,
+    "grossRevenueUSD": 25.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -8094,15 +8066,14 @@
     "chainCode": "AMC",
     "showtime_id": 528205903,
     "date": "2026-01-08+18:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 1,
+    "occupancy": 1.39,
+    "totalAvailableSeatCount": 71,
+    "totalSeatCount": 72,
+    "grossRevenueUSD": 25.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -8185,15 +8156,14 @@
     "chainCode": "AMC",
     "showtime_id": 528236967,
     "date": "2026-01-08+13:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 48,
+    "totalSeatCount": 48,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -8204,15 +8174,14 @@
     "chainCode": "AMC",
     "showtime_id": 528236966,
     "date": "2026-01-08+18:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 48,
+    "totalSeatCount": 48,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -8330,16 +8299,15 @@
     "chainName": "AMC",
     "chainCode": "AMC",
     "showtime_id": 528036306,
-    "date": "2026-01-08+16:15",
-    "format": "standard",
+    "date": "2026-01-08+16:00",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 134,
+    "totalSeatCount": 134,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -8515,11 +8483,11 @@
     "date": "2026-01-08+17:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 26,
-    "occupancy": 9.77,
-    "totalAvailableSeatCount": 240,
+    "totalSeatSold": 27,
+    "occupancy": 10.15,
+    "totalAvailableSeatCount": 239,
     "totalSeatCount": 266,
-    "grossRevenueUSD": 650.0,
+    "grossRevenueUSD": 675.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -8585,15 +8553,14 @@
     "chainCode": "AMC",
     "showtime_id": 528195644,
     "date": "2026-01-08+15:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 3,
+    "occupancy": 3.03,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 75.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -8604,15 +8571,14 @@
     "chainCode": "AMC",
     "showtime_id": 528195643,
     "date": "2026-01-08+20:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
-    "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "totalSeatSold": 3,
+    "occupancy": 3.03,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 75.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -8713,15 +8679,14 @@
     "chainCode": "AMC",
     "showtime_id": 528139151,
     "date": "2026-01-08+13:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 70,
+    "totalSeatCount": 70,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -8732,15 +8697,14 @@
     "chainCode": "AMC",
     "showtime_id": 528139150,
     "date": "2026-01-08+18:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 70,
+    "totalSeatCount": 70,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -9149,11 +9113,11 @@
     "date": "2026-01-08+17:25",
     "format": "Superscreen DLX",
     "language": "Telugu",
-    "totalSeatSold": 8,
-    "occupancy": 5.1,
-    "totalAvailableSeatCount": 149,
+    "totalSeatSold": 6,
+    "occupancy": 3.82,
+    "totalAvailableSeatCount": 151,
     "totalSeatCount": 157,
-    "grossRevenueUSD": 254.16,
+    "grossRevenueUSD": 190.62,
     "adultTicketPrice": 31.77
   },
   {
@@ -9327,15 +9291,14 @@
     "chainCode": "AMC",
     "showtime_id": 528259181,
     "date": "2026-01-08+15:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 86,
+    "totalSeatCount": 86,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.0
   },
   {
     "state": "IL",
@@ -9346,15 +9309,14 @@
     "chainCode": "AMC",
     "showtime_id": 528259180,
     "date": "2026-01-08+20:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 86,
+    "totalSeatCount": 86,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.0
   },
   {
     "state": "WI",
@@ -9801,11 +9763,11 @@
     "date": "2026-01-08+22:15",
     "format": "Premium Large Format",
     "language": "Telugu",
-    "totalSeatSold": 16,
-    "occupancy": 10.0,
-    "totalAvailableSeatCount": 144,
+    "totalSeatSold": 17,
+    "occupancy": 10.62,
+    "totalAvailableSeatCount": 143,
     "totalSeatCount": 160,
-    "grossRevenueUSD": 400.0,
+    "grossRevenueUSD": 425.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -9945,11 +9907,11 @@
     "date": "2026-01-08+17:30",
     "format": "PTX",
     "language": "Telugu",
-    "totalSeatSold": 23,
-    "occupancy": 8.98,
-    "totalAvailableSeatCount": 233,
+    "totalSeatSold": 25,
+    "occupancy": 9.77,
+    "totalAvailableSeatCount": 231,
     "totalSeatCount": 256,
-    "grossRevenueUSD": 724.5,
+    "grossRevenueUSD": 787.5,
     "adultTicketPrice": 31.5
   },
   {
@@ -10254,11 +10216,11 @@
     "date": "2026-01-08+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 10,
-    "occupancy": 9.8,
-    "totalAvailableSeatCount": 92,
+    "totalSeatSold": 15,
+    "occupancy": 14.71,
+    "totalAvailableSeatCount": 87,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 200.0,
+    "grossRevenueUSD": 300.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -10272,11 +10234,11 @@
     "date": "2026-01-08+17:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 2.94,
-    "totalAvailableSeatCount": 99,
+    "totalSeatSold": 8,
+    "occupancy": 7.84,
+    "totalAvailableSeatCount": 94,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 60.0,
+    "grossRevenueUSD": 160.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -10364,11 +10326,11 @@
     "date": "2026-01-08+20:30",
     "format": "Superscreen DLX",
     "language": "Telugu",
-    "totalSeatSold": 44,
-    "occupancy": 42.72,
-    "totalAvailableSeatCount": 59,
+    "totalSeatSold": 46,
+    "occupancy": 44.66,
+    "totalAvailableSeatCount": 57,
     "totalSeatCount": 103,
-    "grossRevenueUSD": 1425.16,
+    "grossRevenueUSD": 1489.94,
     "adultTicketPrice": 32.39
   },
   {
@@ -10830,15 +10792,14 @@
     "chainCode": "AMC",
     "showtime_id": 528210702,
     "date": "2026-01-08+16:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 106,
+    "totalSeatCount": 106,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.18
   },
   {
     "state": "MO",
@@ -10849,15 +10810,14 @@
     "chainCode": "AMC",
     "showtime_id": 528210701,
     "date": "2026-01-08+20:45",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 106,
+    "totalSeatCount": 106,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.18
   },
   {
     "state": "KS",
@@ -12922,11 +12882,11 @@
     "date": "2026-01-08+22:00",
     "format": "DFX",
     "language": "Telugu",
-    "totalSeatSold": 115,
-    "occupancy": 46.0,
-    "totalAvailableSeatCount": 135,
+    "totalSeatSold": 116,
+    "occupancy": 46.4,
+    "totalAvailableSeatCount": 134,
     "totalSeatCount": 250,
-    "grossRevenueUSD": 3450.0,
+    "grossRevenueUSD": 3480.0,
     "adultTicketPrice": 30.0
   },
   {
@@ -12976,11 +12936,11 @@
     "date": "2026-01-08+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 83,
-    "occupancy": 51.55,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 84,
+    "occupancy": 52.17,
+    "totalAvailableSeatCount": 77,
     "totalSeatCount": 161,
-    "grossRevenueUSD": 2075.0,
+    "grossRevenueUSD": 2100.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -13048,11 +13008,11 @@
     "date": "2026-01-08+11:00",
     "format": "XD",
     "language": "Telugu",
-    "totalSeatSold": 166,
-    "occupancy": 59.71,
-    "totalAvailableSeatCount": 112,
+    "totalSeatSold": 165,
+    "occupancy": 59.35,
+    "totalAvailableSeatCount": 113,
     "totalSeatCount": 278,
-    "grossRevenueUSD": 5391.68,
+    "grossRevenueUSD": 5359.2,
     "adultTicketPrice": 32.48
   },
   {
@@ -13084,11 +13044,11 @@
     "date": "2026-01-08+19:30",
     "format": "XD",
     "language": "Telugu",
-    "totalSeatSold": 230,
-    "occupancy": 82.73,
-    "totalAvailableSeatCount": 48,
+    "totalSeatSold": 228,
+    "occupancy": 82.01,
+    "totalAvailableSeatCount": 50,
     "totalSeatCount": 278,
-    "grossRevenueUSD": 7470.4,
+    "grossRevenueUSD": 7405.44,
     "adultTicketPrice": 32.48
   },
   {
@@ -13858,11 +13818,11 @@
     "date": "2026-01-08+22:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 184,
-    "occupancy": 66.19,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 186,
+    "occupancy": 66.91,
+    "totalAvailableSeatCount": 92,
     "totalSeatCount": 278,
-    "grossRevenueUSD": 4979.04,
+    "grossRevenueUSD": 5033.16,
     "adultTicketPrice": 27.06
   },
   {
@@ -14072,15 +14032,14 @@
     "chainCode": "AMC",
     "showtime_id": 528215635,
     "date": "2026-01-08+14:35",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 151,
+    "totalSeatCount": 151,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -14091,15 +14050,14 @@
     "chainCode": "AMC",
     "showtime_id": 528215634,
     "date": "2026-01-08+18:50",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 151,
+    "totalSeatCount": 151,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -14544,11 +14502,11 @@
     "date": "2026-01-08+22:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 114,
-    "occupancy": 53.77,
-    "totalAvailableSeatCount": 98,
+    "totalSeatSold": 112,
+    "occupancy": 52.83,
+    "totalAvailableSeatCount": 100,
     "totalSeatCount": 212,
-    "grossRevenueUSD": 3084.84,
+    "grossRevenueUSD": 3030.72,
     "adultTicketPrice": 27.06
   },
   {
@@ -15068,11 +15026,11 @@
     "date": "2026-01-08+11:00",
     "format": "XD",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 0.58,
-    "totalAvailableSeatCount": 172,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 173,
     "totalSeatCount": 173,
-    "grossRevenueUSD": 32.48,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 32.48
   },
   {
@@ -15228,15 +15186,14 @@
     "chainCode": "AMC",
     "showtime_id": 528000274,
     "date": "2026-01-08+14:15",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 73,
+    "totalSeatCount": 73,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -15247,15 +15204,14 @@
     "chainCode": "AMC",
     "showtime_id": 528000275,
     "date": "2026-01-08+18:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 73,
+    "totalSeatCount": 73,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -16886,15 +16842,14 @@
     "chainCode": "AMC",
     "showtime_id": 528187351,
     "date": "2026-01-08+15:00",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "AZ",
@@ -16905,15 +16860,14 @@
     "chainCode": "AMC",
     "showtime_id": 528187352,
     "date": "2026-01-08+19:10",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 41,
+    "totalSeatCount": 41,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "AZ",
@@ -17014,15 +16968,14 @@
     "chainCode": "AMC",
     "showtime_id": 527699230,
     "date": "2026-01-08+15:20",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 62,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "AZ",
@@ -17033,15 +16986,14 @@
     "chainCode": "AMC",
     "showtime_id": 527699231,
     "date": "2026-01-08+19:30",
-    "format": "standard",
+    "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-    },
     "totalSeatSold": 0,
-    "occupancy": 0,
-    "grossRevenueUSD": 0
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 62,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "AZ",
@@ -17072,11 +17024,11 @@
     "date": "2026-01-08+19:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 52,
-    "occupancy": 25.49,
-    "totalAvailableSeatCount": 152,
+    "totalSeatSold": 62,
+    "occupancy": 30.39,
+    "totalAvailableSeatCount": 142,
     "totalSeatCount": 204,
-    "grossRevenueUSD": 1300.0,
+    "grossRevenueUSD": 1550.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -20651,10 +20603,12 @@
     "date": "2026-01-08+15:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 192,
+    "totalSeatCount": 192,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "NJ",
@@ -20667,10 +20621,12 @@
     "date": "2026-01-08+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 192,
+    "totalSeatCount": 192,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.66
   },
   {
     "state": "VA",
@@ -20737,10 +20693,12 @@
     "date": "2026-01-08+14:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "VA",
@@ -20753,10 +20711,12 @@
     "date": "2026-01-08+19:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 104,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.5
   },
   {
     "state": "VA",
@@ -20981,10 +20941,12 @@
     "date": "2026-01-08+15:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 1,
+    "occupancy": 1.59,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 63,
+    "grossRevenueUSD": 26.75,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "FL",
@@ -20997,10 +20959,12 @@
     "date": "2026-01-08+19:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 1,
+    "occupancy": 1.59,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 63,
+    "grossRevenueUSD": 26.75,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "TN",
@@ -21083,10 +21047,12 @@
     "date": "2026-01-08+16:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -21099,10 +21065,12 @@
     "date": "2026-01-08+20:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "KS",
@@ -21115,10 +21083,12 @@
     "date": "2026-01-08+21:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 69,
+    "totalSeatCount": 69,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "TX",
@@ -21239,10 +21209,12 @@
     "date": "2026-01-08+19:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 50,
+    "totalSeatCount": 50,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.86
   },
   {
     "state": "AZ",
@@ -21291,10 +21263,12 @@
     "date": "2026-01-08+14:25",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 38,
+    "totalSeatCount": 38,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "AZ",
@@ -21307,10 +21281,12 @@
     "date": "2026-01-08+18:40",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 38,
+    "totalSeatCount": 38,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.28
   },
   {
     "state": "CA",
@@ -21323,10 +21299,12 @@
     "date": "2026-01-08+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "CA",
@@ -21339,10 +21317,12 @@
     "date": "2026-01-08+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 49,
+    "totalSeatCount": 49,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "CA",
@@ -21605,10 +21585,12 @@
     "date": "2026-01-08+13:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 60,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "CT",
@@ -21621,10 +21603,12 @@
     "date": "2026-01-08+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 60,
+    "totalSeatCount": 60,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "NY",
@@ -21637,10 +21621,12 @@
     "date": "2026-01-08+11:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 245,
+    "totalSeatCount": 245,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "NJ",
@@ -21761,10 +21747,12 @@
     "date": "2026-01-08+14:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 131,
+    "totalSeatCount": 131,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "NJ",
@@ -21795,10 +21783,12 @@
     "date": "2026-01-08+12:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 205,
+    "totalSeatCount": 205,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "PA",
@@ -21811,10 +21801,12 @@
     "date": "2026-01-08+16:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 205,
+    "totalSeatCount": 205,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "PA",
@@ -21986,11 +21978,11 @@
     "date": "2026-01-08+15:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 7,
-    "occupancy": 11.67,
-    "totalAvailableSeatCount": 53,
+    "totalSeatSold": 8,
+    "occupancy": 13.33,
+    "totalAvailableSeatCount": 52,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 175.0,
+    "grossRevenueUSD": 200.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -22004,10 +21996,12 @@
     "date": "2026-01-08+16:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 59,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "VA",
@@ -22020,10 +22014,12 @@
     "date": "2026-01-08+20:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 59,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MD",
@@ -22180,11 +22176,11 @@
     "date": "2026-01-08+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 13.41,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 13,
+    "occupancy": 15.85,
+    "totalAvailableSeatCount": 69,
     "totalSeatCount": 82,
-    "grossRevenueUSD": 295.02,
+    "grossRevenueUSD": 348.66,
     "adultTicketPrice": 26.82
   },
   {
@@ -22288,11 +22284,11 @@
     "date": "2026-01-08+20:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 6.98,
-    "totalAvailableSeatCount": 40,
+    "totalSeatSold": 5,
+    "occupancy": 11.63,
+    "totalAvailableSeatCount": 38,
     "totalSeatCount": 43,
-    "grossRevenueUSD": 78.75,
+    "grossRevenueUSD": 131.25,
     "adultTicketPrice": 26.25
   },
   {
@@ -22378,11 +22374,11 @@
     "date": "2026-01-08+19:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 51,
-    "occupancy": 52.04,
-    "totalAvailableSeatCount": 47,
+    "totalSeatSold": 50,
+    "occupancy": 51.02,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 1373.94,
+    "grossRevenueUSD": 1347.0,
     "adultTicketPrice": 26.94
   },
   {
@@ -22446,10 +22442,12 @@
     "date": "2026-01-08+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 102,
+    "totalSeatCount": 102,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.88
   },
   {
     "state": "TN",
@@ -22498,10 +22496,12 @@
     "date": "2026-01-08+16:20",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 59,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.5
   },
   {
     "state": "KY",
@@ -22514,10 +22514,12 @@
     "date": "2026-01-08+20:35",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 59,
+    "totalSeatCount": 59,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.5
   },
   {
     "state": "IN",
@@ -22530,11 +22532,11 @@
     "date": "2026-01-08+19:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 9,
-    "occupancy": 18.75,
-    "totalAvailableSeatCount": 39,
+    "totalSeatSold": 18,
+    "occupancy": 37.5,
+    "totalAvailableSeatCount": 30,
     "totalSeatCount": 48,
-    "grossRevenueUSD": 225.0,
+    "grossRevenueUSD": 450.0,
     "adultTicketPrice": 25.0
   },
   {
@@ -22548,10 +22550,12 @@
     "date": "2026-01-08+13:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 107,
+    "totalSeatCount": 107,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "IN",
@@ -22564,10 +22568,12 @@
     "date": "2026-01-08+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 107,
+    "totalSeatCount": 107,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 25.0
   },
   {
     "state": "MI",
@@ -22598,10 +22604,12 @@
     "date": "2026-01-08+12:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 61,
+    "totalSeatCount": 61,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 28.0
   },
   {
     "state": "IL",
@@ -22614,10 +22622,12 @@
     "date": "2026-01-08+15:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 76,
+    "totalSeatCount": 76,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 28.0
   },
   {
     "state": "IL",
@@ -22630,10 +22640,12 @@
     "date": "2026-01-08+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 154,
+    "totalSeatCount": 154,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.25
   },
   {
     "state": "MI",
@@ -22664,10 +22676,12 @@
     "date": "2026-01-08+15:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 62,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "IA",
@@ -22680,10 +22694,12 @@
     "date": "2026-01-08+19:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 62,
+    "totalSeatCount": 62,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 26.75
   },
   {
     "state": "KS",
@@ -22696,10 +22712,12 @@
     "date": "2026-01-08+20:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 2,
+    "occupancy": 2.33,
+    "totalAvailableSeatCount": 84,
+    "totalSeatCount": 86,
+    "grossRevenueUSD": 55.42,
+    "adultTicketPrice": 27.71
   },
   {
     "state": "TX",
@@ -22784,11 +22802,11 @@
     "date": "2026-01-08+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 23,
-    "occupancy": 31.51,
-    "totalAvailableSeatCount": 50,
+    "totalSeatSold": 27,
+    "occupancy": 36.99,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 73,
-    "grossRevenueUSD": 622.38,
+    "grossRevenueUSD": 730.62,
     "adultTicketPrice": 27.06
   },
   {
@@ -23036,10 +23054,12 @@
     "date": "2026-01-08+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -23052,10 +23072,12 @@
     "date": "2026-01-08+17:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "TX",
@@ -23068,10 +23090,12 @@
     "date": "2026-01-08+21:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 99,
+    "totalSeatCount": 99,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 27.06
   },
   {
     "state": "UT",
