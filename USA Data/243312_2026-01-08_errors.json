@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05 08:21:31 PM",
+  "last_updated": "2026-01-05 09:17:08 PM",
   "errors": [
     {
       "state": "NJ",
@@ -53,25 +53,6 @@
       "error": {
         "status": 400,
         "exception": "{\"errors\":[{\"id\":\"GeneralAdmissionShowtimeError\",\"message\":\"The selected showtime is general admission only, no seat map is available.\"}]}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
-      "state": "GA",
-      "city": "Alpharetta",
-      "zip": "30022",
-      "theater_name": "AMC DINE-IN North Point Mall 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528330119,
-      "date": "2026-01-08+19:45",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
       },
       "totalSeatSold": 0,
       "occupancy": 0,
@@ -219,25 +200,6 @@
       "chainCode": "AMC",
       "showtime_id": 528014775,
       "date": "2026-01-08+14:40",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528036305,
-      "date": "2026-01-08+19:15",
       "format": "standard",
       "language": "Telugu",
       "error": {
@@ -467,53 +429,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Evansville",
-      "zip": "47712",
-      "theater_name": "AMC Evansville 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 529234715,
-      "date": "2026-01-08+15:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MA",
-      "city": "Boston",
-      "zip": "02114",
-      "theater_name": "AMC Causeway 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 529123309,
-      "date": "2026-01-08+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Neshaminy 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528971129,
-      "date": "2026-01-08+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "GA",
       "city": "Columbus",
       "zip": "31904",
@@ -538,22 +453,6 @@
       "chainCode": "AMC",
       "showtime_id": 529783672,
       "date": "2026-01-08+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Lynnwood",
-      "zip": "98037",
-      "theater_name": "AMC Loews Alderwood Mall 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 529730186,
-      "date": "2026-01-08+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
