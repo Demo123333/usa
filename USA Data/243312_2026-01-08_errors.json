@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 10:27:39 AM",
+  "last_updated": "2026-01-06 11:18:57 AM",
   "errors": [
     {
       "state": "NJ",
@@ -474,6 +474,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530114493,
+      "date": "2026-01-08+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
