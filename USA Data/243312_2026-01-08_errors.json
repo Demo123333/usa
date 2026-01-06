@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07 01:09:54 AM",
+  "last_updated": "2026-01-07 02:15:58 AM",
   "errors": [
     {
       "state": "NJ",
@@ -519,6 +519,22 @@
       "date": "2026-01-08+17:40",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530293973,
+      "date": "2026-01-08+14:45",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
