@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 11:18:57 AM",
+  "last_updated": "2026-01-06 12:28:51 PM",
   "errors": [
     {
       "state": "NJ",
@@ -477,18 +477,19 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Fresno",
-      "zip": "93726",
-      "theater_name": "Regal Manchester - Fresno",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530114493,
-      "date": "2026-01-08+19:45",
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 530123789,
+      "date": "2026-01-08+18:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
