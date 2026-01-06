@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06 05:11:46 AM",
+  "last_updated": "2026-01-06 08:02:42 AM",
   "errors": [
     {
       "state": "NJ",
@@ -474,6 +474,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Bethesda",
+      "zip": "20817",
+      "theater_name": "AMC Montgomery 16 ",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529987696,
+      "date": "2026-01-08+19:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
