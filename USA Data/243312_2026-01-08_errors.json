@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 01:11:49 AM",
+  "last_updated": "2026-01-08 02:17:59 AM",
   "errors": [
     {
       "state": "NJ",
@@ -493,22 +493,6 @@
       }
     },
     {
-      "state": "CO",
-      "city": "Highlands Ranch",
-      "zip": "80129",
-      "theater_name": "AMC Highlands Ranch 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530164699,
-      "date": "2026-01-08+12:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "IL",
       "city": "Peoria",
       "zip": "61615",
@@ -573,70 +557,6 @@
       }
     },
     {
-      "state": "IN",
-      "city": "Indianapolis",
-      "zip": "46217",
-      "theater_name": "AMC Indianapolis 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530498799,
-      "date": "2026-01-08+19:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530513268,
-      "date": "2026-01-08+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530513269,
-      "date": "2026-01-08+21:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530513270,
-      "date": "2026-01-08+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "CA",
       "city": "Fremont",
       "zip": "94538",
@@ -645,22 +565,6 @@
       "chainCode": "CNMK",
       "showtime_id": 530513284,
       "date": "2026-01-08+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "WA",
-      "city": "Kirkland",
-      "zip": "98034",
-      "theater_name": "Cinemark Totem Lake Kirkland and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530512779,
-      "date": "2026-01-08+18:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -691,8 +595,8 @@
       "theater_name": "Cinemark Century Orange and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 530520242,
-      "date": "2026-01-08+18:30",
+      "showtime_id": 530520241,
+      "date": "2026-01-08+16:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -701,19 +605,18 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Orange",
-      "zip": "92867",
-      "theater_name": "Cinemark Century Orange and XD",
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "showtime_id": 530520241,
-      "date": "2026-01-08+16:30",
+      "showtime_id": 530508547,
+      "date": "2026-01-08+18:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500,
-        "reason": "No seats"
+        "status": 500
       }
     }
   ]
