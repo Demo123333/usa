@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 02:17:59 AM",
+  "last_updated": "2026-01-08 03:12:47 AM",
   "errors": [
     {
       "state": "NJ",
@@ -602,21 +602,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530508547,
-      "date": "2026-01-08+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
