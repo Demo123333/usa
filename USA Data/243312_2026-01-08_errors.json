@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 03:12:47 AM",
+  "last_updated": "2026-01-08 04:16:02 AM",
   "errors": [
     {
       "state": "NJ",
@@ -205,44 +205,6 @@
       "error": {
         "status": 500,
         "exception": "{\"errors\":[{\"id\":\"PosCommunicationError\",\"message\":\"There was an error retrieving data for this performance. Please try again.\"}]}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
-      "state": "WI",
-      "city": "Ashwaubenon",
-      "zip": "54304",
-      "theater_name": "Marcus Bay Park Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 526730036,
-      "date": "2026-01-08+15:00",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
-      "state": "WI",
-      "city": "Ashwaubenon",
-      "zip": "54304",
-      "theater_name": "Marcus Bay Park Cinemas",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 526730037,
-      "date": "2026-01-08+19:15",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
       },
       "totalSeatSold": 0,
       "occupancy": 0,
@@ -557,22 +519,6 @@
       }
     },
     {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530513284,
-      "date": "2026-01-08+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33647",
@@ -597,6 +543,22 @@
       "chainCode": "CNMK",
       "showtime_id": 530520241,
       "date": "2026-01-08+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Strongsville",
+      "zip": "44136",
+      "theater_name": "Cinemark Strongsville at Southpark Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530533068,
+      "date": "2026-01-08+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
