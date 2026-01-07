@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07 10:27:04 PM",
+  "last_updated": "2026-01-07 11:20:54 PM",
   "errors": [
     {
       "state": "NJ",
@@ -549,6 +549,38 @@
       "chainCode": "AMC",
       "showtime_id": 530393259,
       "date": "2026-01-08+11:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530498827,
+      "date": "2026-01-08+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46217",
+      "theater_name": "AMC Indianapolis 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530498799,
+      "date": "2026-01-08+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
