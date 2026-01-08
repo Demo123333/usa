@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 10:49:02 PM",
+  "last_updated": "2026-01-08 11:19:57 PM",
   "errors": [
     {
       "state": "NJ",
@@ -543,22 +543,6 @@
       "chainCode": "CNMK",
       "showtime_id": 530520241,
       "date": "2026-01-08+16:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "OH",
-      "city": "Strongsville",
-      "zip": "44136",
-      "theater_name": "Cinemark Strongsville at Southpark Mall",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530533068,
-      "date": "2026-01-08+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
