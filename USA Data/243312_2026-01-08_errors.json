@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 01:43:13 AM",
+  "last_updated": "2026-01-09 02:15:25 AM",
   "errors": [
     {
       "state": "NJ",
@@ -570,6 +570,54 @@
       "showtime_id": 530561752,
       "date": "2026-01-08+16:40",
       "format": "Superscreen DLX",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Bellingham",
+      "zip": "02019",
+      "theater_name": "Regal Bellingham",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530566097,
+      "date": "2026-01-08+14:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43212",
+      "theater_name": "Lennox Town Center 24",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 530546191,
+      "date": "2026-01-08+14:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43212",
+      "theater_name": "Lennox Town Center 24",
+      "chainName": "Phoenix Theatres",
+      "chainCode": "PHNX",
+      "showtime_id": 530546190,
+      "date": "2026-01-08+11:00",
+      "format": "Standard",
       "language": "Telugu",
       "error": {
         "status": 500,
