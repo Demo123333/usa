@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 12:43:10 AM",
+  "last_updated": "2026-01-09 01:09:24 AM",
   "errors": [
     {
       "state": "NJ",
@@ -306,44 +306,6 @@
       "grossRevenueUSD": 0
     },
     {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77089",
-      "theater_name": "AMC Gulf Pointe 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528248172,
-      "date": "2026-01-08+13:45",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77089",
-      "theater_name": "AMC Gulf Pointe 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528248171,
-      "date": "2026-01-08+18:00",
-      "format": "standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "exception": "{\"id\":\"internalServerError\",\"message\":\"Internal Server Error\"}"
-      },
-      "totalSeatSold": 0,
-      "occupancy": 0,
-      "grossRevenueUSD": 0
-    },
-    {
       "state": "VA",
       "city": "Alexandria",
       "zip": "22314",
@@ -415,22 +377,6 @@
       "chainCode": "AMC",
       "showtime_id": 529783672,
       "date": "2026-01-08+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Houston",
-      "zip": "77089",
-      "theater_name": "AMC Gulf Pointe 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 529900030,
-      "date": "2026-01-08+21:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
@@ -592,6 +538,38 @@
       "showtime_id": 530541026,
       "date": "2026-01-08+19:00",
       "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Dawsonville",
+      "zip": "30534",
+      "theater_name": "Regal Dawson",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530563746,
+      "date": "2026-01-08+14:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 530561752,
+      "date": "2026-01-08+16:40",
+      "format": "Superscreen DLX",
       "language": "Telugu",
       "error": {
         "status": 500,
