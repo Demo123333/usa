@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 02:15:25 AM",
+  "last_updated": "2026-01-09 02:41:52 AM",
   "errors": [
     {
       "state": "NJ",
@@ -554,22 +554,6 @@
       "showtime_id": 530563746,
       "date": "2026-01-08+14:00",
       "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "MO",
-      "city": "Saint Charles",
-      "zip": "63303",
-      "theater_name": "Marcus St. Charles Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 530561752,
-      "date": "2026-01-08+16:40",
-      "format": "Superscreen DLX",
       "language": "Telugu",
       "error": {
         "status": 500,
