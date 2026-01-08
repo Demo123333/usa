@@ -3,7 +3,7 @@ name: USA TheRajaSaab Scraper
 on:
   workflow_dispatch:   # manual run
   schedule:
-    - cron: "30 * * * *"   # every hour at :30 UTC (6:00 PM, 7:00 PM IST...)
+    - cron: "*/30 * * * *"
     
 jobs:
   run-scraper:
