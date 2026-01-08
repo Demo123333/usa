@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 10:24:35 PM",
+  "last_updated": "2026-01-08 10:49:02 PM",
   "errors": [
     {
       "state": "NJ",
@@ -612,21 +612,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27613",
-      "theater_name": "Cinemark Bistro Raleigh",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530555494,
-      "date": "2026-01-08+19:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     }
   ]
