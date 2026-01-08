@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08 05:12:10 AM",
+  "last_updated": "2026-01-08 07:47:45 AM",
   "errors": [
     {
       "state": "NJ",
@@ -567,18 +567,51 @@
       }
     },
     {
-      "state": "FL",
-      "city": "Bradenton",
-      "zip": "34203",
-      "theater_name": "AMC Bradenton 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530535582,
-      "date": "2026-01-08+14:30",
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530541024,
+      "date": "2026-01-08+11:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
-        "status": 500
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530541025,
+      "date": "2026-01-08+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530541026,
+      "date": "2026-01-08+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
       }
     }
   ]
