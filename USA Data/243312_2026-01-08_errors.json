@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 04:41:22 AM",
+  "last_updated": "2026-01-09 05:07:08 AM",
   "errors": [
     {
       "state": "NJ",
@@ -601,6 +601,70 @@
       "chainCode": "PHNX",
       "showtime_id": 530546190,
       "date": "2026-01-08+11:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530581626,
+      "date": "2026-01-08+19:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19803",
+      "theater_name": "Regal Brandywine Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530580788,
+      "date": "2026-01-08+20:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530580923,
+      "date": "2026-01-08+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Montgomery",
+      "zip": "36116",
+      "theater_name": "AMC Festival Plaza 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530578651,
+      "date": "2026-01-08+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
