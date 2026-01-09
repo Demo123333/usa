@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 11:47:50 AM IST",
+  "last_updated": "2026-01-09 12:25:22 PM IST",
   "shows": [
     {
       "state": "RI",
@@ -22179,14 +22179,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 3,
           "totalSeatCount": 99,
-          "grossRevenueUSD": 50.0,
+          "grossRevenueUSD": 75.0,
           "adultTicketPrice": 25.0,
-          "occupancy": 2.02
+          "occupancy": 3.03
         }
       ],
-      "finalGrossRevenueUSD": 50.0
+      "finalGrossRevenueUSD": 75.0
     },
     {
       "state": "VA",
@@ -27921,14 +27921,14 @@
         },
         {
           "format": "xd",
-          "totalSeatSold": 61,
+          "totalSeatSold": 65,
           "totalSeatCount": 276,
-          "grossRevenueUSD": 1981.28,
+          "grossRevenueUSD": 2111.2,
           "adultTicketPrice": 32.48,
-          "occupancy": 22.1
+          "occupancy": 23.55
         }
       ],
-      "finalGrossRevenueUSD": 2186.98
+      "finalGrossRevenueUSD": 2316.9
     },
     {
       "state": "CA",
@@ -40902,14 +40902,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 6,
           "totalSeatCount": 78,
-          "grossRevenueUSD": 25.0,
+          "grossRevenueUSD": 150.0,
           "adultTicketPrice": 25.0,
-          "occupancy": 1.28
+          "occupancy": 7.69
         }
       ],
-      "finalGrossRevenueUSD": 25.0
+      "finalGrossRevenueUSD": 150.0
     },
     {
       "state": "CA",
