@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-09 11:47:27 PM",
+  "last_updated": "2026-01-10 12:23:50 AM",
   "errors": [
     {
       "state": "PA",
@@ -364,6 +364,22 @@
       "date": "2026-01-09+20:20",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Hamilton Township",
+      "zip": "08610",
+      "theater_name": "Regal Independence Plaza & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530601358,
+      "date": "2026-01-09+20:45",
+      "format": "Standard",
+      "language": "Hindi",
       "error": {
         "status": 500,
         "reason": "No seats"
