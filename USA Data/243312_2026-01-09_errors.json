@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 01:43:17 AM",
+  "last_updated": "2026-01-10 02:14:38 AM",
   "errors": [
     {
       "state": "PA",
@@ -138,22 +138,6 @@
       "chainCode": "AMC",
       "showtime_id": 528200586,
       "date": "2026-01-09+20:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Lake Buena Vista",
-      "zip": "32830",
-      "theater_name": "AMC DINE-IN Disney Springs™ 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530393329,
-      "date": "2026-01-09+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
