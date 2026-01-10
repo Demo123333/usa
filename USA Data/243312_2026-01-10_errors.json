@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 10:39:38 PM",
+  "last_updated": "2026-01-10 11:09:49 PM",
   "errors": [
     {
       "state": "DE",
@@ -410,6 +410,37 @@
       "chainCode": "AMC",
       "showtime_id": null,
       "date": "2026-01-10+13:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530663365,
+      "date": "2026-01-10+22:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Beaverton",
+      "zip": "97005",
+      "theater_name": "Cinemark Cedar Hills 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530664993,
+      "date": "2026-01-10+09:10",
       "format": "Standard",
       "language": "Telugu",
       "error": {
