@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11 01:41:17 AM",
+  "last_updated": "2026-01-11 02:11:33 AM",
   "errors": [
     {
       "state": "DE",
@@ -428,6 +428,22 @@
       "date": "2026-01-10+09:10",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "B&B Theatres Overland Park 16",
+      "chainName": "B&B Theaters",
+      "chainCode": "BNBT",
+      "showtime_id": 530600302,
+      "date": "2026-01-10+14:00",
+      "format": "Standard",
+      "language": "Unknown",
       "error": {
         "status": 500,
         "reason": "No seats"
