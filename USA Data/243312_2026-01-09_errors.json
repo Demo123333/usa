@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 06:17:34 AM",
+  "last_updated": "2026-01-10 08:16:20 AM",
   "errors": [
     {
       "state": "PA",
@@ -367,6 +367,21 @@
       "error": {
         "status": 500,
         "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28262",
+      "theater_name": "Regal Starlight - Charlotte",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530646108,
+      "date": "2026-01-09+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
       }
     }
   ]
