@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 11:09:49 PM",
+  "last_updated": "2026-01-10 11:45:38 PM",
   "errors": [
     {
       "state": "DE",
@@ -415,21 +415,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530663365,
-      "date": "2026-01-10+22:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
