@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 02:16:33 PM",
+  "last_updated": "2026-01-10 02:41:25 PM",
   "errors": [
     {
       "state": "DE",
@@ -319,21 +319,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Tracy",
-      "zip": "95376",
-      "theater_name": "Cinemark Tracy 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530542011,
-      "date": "2026-01-10+21:40",
-      "format": "D-Box",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
