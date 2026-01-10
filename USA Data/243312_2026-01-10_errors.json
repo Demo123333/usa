@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 03:10:04 PM",
+  "last_updated": "2026-01-10 03:41:01 PM",
   "errors": [
     {
       "state": "DE",
@@ -394,6 +394,22 @@
       "chainCode": "GLXY",
       "showtime_id": 530123534,
       "date": "2026-01-10+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-10+13:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
