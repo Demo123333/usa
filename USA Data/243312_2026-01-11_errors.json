@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-01-11 01:45:17 PM",
+  "last_updated": "2026-01-11 02:17:00 PM",
   "errors": [
-    {
-      "state": "CT",
-      "city": "Manchester",
-      "zip": "06042",
-      "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530652105,
-      "date": "2026-01-11+09:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "NY",
-      "city": "New Rochelle",
-      "zip": "10801",
-      "theater_name": "Regal New Roc 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526716151,
-      "date": "2026-01-11+20:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
-      "city": "Bensalem",
-      "zip": "19020",
-      "theater_name": "AMC Neshaminy 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528971144,
-      "date": "2026-01-11+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "NY",
       "city": "Rochester",
@@ -128,21 +83,6 @@
     },
     {
       "state": "PA",
-      "city": "Warrington",
-      "zip": "18976",
-      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526676731,
-      "date": "2026-01-11+20:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "PA",
       "city": "Oaks",
       "zip": "19456",
       "theater_name": "Oaks Center Cinema D-Box & OCX",
@@ -155,21 +95,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Colonial Heights",
-      "zip": "23834",
-      "theater_name": "Regal Southpark Mall",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526678792,
-      "date": "2026-01-11+17:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -270,21 +195,6 @@
     },
     {
       "state": "FL",
-      "city": "Brandon",
-      "zip": "33511",
-      "theater_name": "AMC The Regency 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 528239803,
-      "date": "2026-01-11+20:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -313,81 +223,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Oldsmar",
-      "zip": "34677",
-      "theater_name": "AMC Woodlands Square 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530556245,
-      "date": "2026-01-11+22:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Troy",
-      "zip": "48083",
-      "theater_name": "MJR Troy Cinema",
-      "chainName": "MJR Theatres",
-      "chainCode": "MJRT",
-      "showtime_id": 529915234,
-      "date": "2026-01-11+12:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Troy",
-      "zip": "48083",
-      "theater_name": "MJR Troy Cinema",
-      "chainName": "MJR Theatres",
-      "chainCode": "MJRT",
-      "showtime_id": 529915236,
-      "date": "2026-01-11+17:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Troy",
-      "zip": "48083",
-      "theater_name": "MJR Troy Cinema",
-      "chainName": "MJR Theatres",
-      "chainCode": "MJRT",
-      "showtime_id": 529915235,
-      "date": "2026-01-11+21:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "exception": ""
-      }
-    },
-    {
-      "state": "MI",
-      "city": "Sterling Heights",
-      "zip": "48314",
-      "theater_name": "AMC Forum 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530499462,
-      "date": "2026-01-11+21:25",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -439,22 +274,6 @@
       }
     },
     {
-      "state": "MO",
-      "city": "Independence",
-      "zip": "64057",
-      "theater_name": "AMC Independence Commons 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 529985597,
-      "date": "2026-01-11+15:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
       "state": "TX",
       "city": "Plano",
       "zip": "75093",
@@ -484,51 +303,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Killeen",
-      "zip": "76543",
-      "theater_name": "Regal Killeen",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 527565272,
-      "date": "2026-01-11+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530363451,
-      "date": "2026-01-11+11:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Corona",
-      "zip": "92881",
-      "theater_name": "Regal Edwards Corona Crossings & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530080119,
-      "date": "2026-01-11+12:45",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -577,21 +351,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "HI",
-      "city": "Honolulu",
-      "zip": "96817",
-      "theater_name": "Regal Dole Cannery ScreenX, 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530114585,
-      "date": "2026-01-11+15:50",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {

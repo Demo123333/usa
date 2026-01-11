@@ -280,9 +280,12 @@
     "date": "2026-01-11+09:50",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 7,
+    "occupancy": 6.73,
+    "totalAvailableSeatCount": 97,
+    "totalSeatCount": 104,
+    "grossRevenueUSD": 75.25,
+    "adultTicketPrice": 10.75
   },
   {
     "state": "CT",
@@ -961,9 +964,12 @@
     "date": "2026-01-11+20:35",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 118,
+    "totalSeatCount": 118,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "NJ",
@@ -1066,11 +1072,11 @@
     "date": "2026-01-11+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 29,
-    "occupancy": 25.66,
-    "totalAvailableSeatCount": 84,
+    "totalSeatSold": 30,
+    "occupancy": 26.55,
+    "totalAvailableSeatCount": 83,
     "totalSeatCount": 113,
-    "grossRevenueUSD": 618.57,
+    "grossRevenueUSD": 639.9,
     "adultTicketPrice": 21.33
   },
   {
@@ -1084,11 +1090,11 @@
     "date": "2026-01-11+16:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 45,
-    "occupancy": 36.29,
-    "totalAvailableSeatCount": 79,
+    "totalSeatSold": 46,
+    "occupancy": 37.1,
+    "totalAvailableSeatCount": 78,
     "totalSeatCount": 124,
-    "grossRevenueUSD": 959.85,
+    "grossRevenueUSD": 981.18,
     "adultTicketPrice": 21.33
   },
   {
@@ -1174,11 +1180,11 @@
     "date": "2026-01-11+19:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
-    "occupancy": 4.27,
-    "totalAvailableSeatCount": 112,
+    "totalSeatSold": 6,
+    "occupancy": 5.13,
+    "totalAvailableSeatCount": 111,
     "totalSeatCount": 117,
-    "grossRevenueUSD": 85.25,
+    "grossRevenueUSD": 102.3,
     "adultTicketPrice": 17.05
   },
   {
@@ -1354,11 +1360,11 @@
     "date": "2026-01-11+12:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 16,
-    "occupancy": 11.51,
-    "totalAvailableSeatCount": 123,
+    "totalSeatSold": 17,
+    "occupancy": 12.23,
+    "totalAvailableSeatCount": 122,
     "totalSeatCount": 139,
-    "grossRevenueUSD": 341.28,
+    "grossRevenueUSD": 362.61,
     "adultTicketPrice": 21.33
   },
   {
@@ -1408,11 +1414,11 @@
     "date": "2026-01-11+16:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 16,
-    "occupancy": 12.4,
-    "totalAvailableSeatCount": 113,
+    "totalSeatSold": 13,
+    "occupancy": 10.08,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 247.36,
+    "grossRevenueUSD": 200.98,
     "adultTicketPrice": 15.46
   },
   {
@@ -1786,9 +1792,12 @@
     "date": "2026-01-11+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 204,
+    "totalSeatCount": 204,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.49
   },
   {
     "state": "NJ",
@@ -3123,9 +3132,12 @@
     "date": "2026-01-11+20:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 48,
+    "totalSeatCount": 48,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "PA",
@@ -4396,9 +4408,12 @@
     "date": "2026-01-11+17:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 134,
+    "totalSeatCount": 134,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 20.0
   },
   {
     "state": "VA",
@@ -4675,11 +4690,11 @@
     "date": "2026-01-11+08:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.92,
-    "totalAvailableSeatCount": 51,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
     "totalSeatCount": 52,
-    "grossRevenueUSD": 10.19,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 10.19
   },
   {
@@ -4943,11 +4958,11 @@
     "date": "2026-01-11+12:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 5.43,
-    "totalAvailableSeatCount": 87,
+    "totalSeatSold": 2,
+    "occupancy": 2.17,
+    "totalAvailableSeatCount": 90,
     "totalSeatCount": 92,
-    "grossRevenueUSD": 107.25,
+    "grossRevenueUSD": 42.9,
     "adultTicketPrice": 21.45
   },
   {
@@ -7099,9 +7114,12 @@
     "date": "2026-01-11+20:45",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 9,
+    "occupancy": 7.44,
+    "totalAvailableSeatCount": 112,
+    "totalSeatCount": 121,
+    "grossRevenueUSD": 125.64,
+    "adultTicketPrice": 13.96
   },
   {
     "state": "FL",
@@ -7236,9 +7254,12 @@
     "date": "2026-01-11+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 55,
+    "totalSeatCount": 55,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.43
   },
   {
     "state": "FL",
@@ -7665,11 +7686,11 @@
     "date": "2026-01-11+20:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 166,
+    "totalSeatSold": 4,
+    "occupancy": 2.41,
+    "totalAvailableSeatCount": 162,
     "totalSeatCount": 166,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 70.2,
     "adultTicketPrice": 17.55
   },
   {
@@ -9033,11 +9054,11 @@
     "date": "2026-01-11+11:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 49,
+    "totalSeatSold": 1,
+    "occupancy": 2.04,
+    "totalAvailableSeatCount": 48,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 10.99,
     "adultTicketPrice": 10.99
   },
   {
@@ -9591,9 +9612,12 @@
     "date": "2026-01-11+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 6,
+    "occupancy": 5.56,
+    "totalAvailableSeatCount": 102,
+    "totalSeatCount": 108,
+    "grossRevenueUSD": 42.0,
+    "adultTicketPrice": 7.0
   },
   {
     "state": "MI",
@@ -9606,9 +9630,12 @@
     "date": "2026-01-11+17:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 19,
+    "occupancy": 17.59,
+    "totalAvailableSeatCount": 89,
+    "totalSeatCount": 108,
+    "grossRevenueUSD": 133.0,
+    "adultTicketPrice": 7.0
   },
   {
     "state": "MI",
@@ -9621,9 +9648,12 @@
     "date": "2026-01-11+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "exception": ""
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 108,
+    "totalSeatCount": 108,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 11.0
   },
   {
     "state": "MI",
@@ -9690,9 +9720,12 @@
     "date": "2026-01-11+21:25",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 170,
+    "totalSeatCount": 170,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 8.99
   },
   {
     "state": "MI",
@@ -11121,10 +11154,12 @@
     "date": "2026-01-11+15:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 5,
+    "occupancy": 11.36,
+    "totalAvailableSeatCount": 39,
+    "totalSeatCount": 44,
+    "grossRevenueUSD": 57.0,
+    "adultTicketPrice": 11.4
   },
   {
     "state": "KS",
@@ -13239,11 +13274,11 @@
     "date": "2026-01-11+12:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 18,
-    "occupancy": 30.0,
-    "totalAvailableSeatCount": 42,
+    "totalSeatSold": 17,
+    "occupancy": 28.33,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 186.84,
+    "grossRevenueUSD": 176.46,
     "adultTicketPrice": 10.38
   },
   {
@@ -13401,9 +13436,12 @@
     "date": "2026-01-11+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 48,
+    "totalSeatCount": 48,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.98
   },
   {
     "state": "TX",
@@ -14424,9 +14462,12 @@
     "date": "2026-01-11+11:30",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 6,
+    "occupancy": 5.17,
+    "totalAvailableSeatCount": 110,
+    "totalSeatCount": 116,
+    "grossRevenueUSD": 71.4,
+    "adultTicketPrice": 11.9
   },
   {
     "state": "TX",
@@ -15735,11 +15776,11 @@
     "date": "2026-01-11+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 28,
-    "occupancy": 37.84,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 33,
+    "occupancy": 44.59,
+    "totalAvailableSeatCount": 41,
     "totalSeatCount": 74,
-    "grossRevenueUSD": 257.88,
+    "grossRevenueUSD": 303.93,
     "adultTicketPrice": 9.21
   },
   {
@@ -16545,9 +16586,12 @@
     "date": "2026-01-11+12:45",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 3,
+    "occupancy": 1.06,
+    "totalAvailableSeatCount": 280,
+    "totalSeatCount": 283,
+    "grossRevenueUSD": 31.47,
+    "adultTicketPrice": 10.49
   },
   {
     "state": "CA",
@@ -17406,11 +17450,11 @@
     "date": "2026-01-11+18:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 34,
-    "occupancy": 29.31,
-    "totalAvailableSeatCount": 82,
+    "totalSeatSold": 36,
+    "occupancy": 31.03,
+    "totalAvailableSeatCount": 80,
     "totalSeatCount": 116,
-    "grossRevenueUSD": 611.66,
+    "grossRevenueUSD": 647.64,
     "adultTicketPrice": 17.99
   },
   {
@@ -18606,11 +18650,11 @@
     "date": "2026-01-11+12:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 120,
+    "totalSeatSold": 2,
+    "occupancy": 1.67,
+    "totalAvailableSeatCount": 118,
     "totalSeatCount": 120,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 15.5,
     "adultTicketPrice": 7.75
   },
   {
@@ -18822,9 +18866,12 @@
     "date": "2026-01-11+15:50",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 141,
+    "totalSeatCount": 141,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.56
   },
   {
     "state": "OR",
@@ -19303,11 +19350,11 @@
     "date": "2026-01-11+16:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 3.7,
-    "totalAvailableSeatCount": 78,
+    "totalSeatSold": 7,
+    "occupancy": 8.64,
+    "totalAvailableSeatCount": 74,
     "totalSeatCount": 81,
-    "grossRevenueUSD": 63.0,
+    "grossRevenueUSD": 147.0,
     "adultTicketPrice": 21.0
   },
   {
@@ -19541,5 +19588,221 @@
     "totalSeatCount": 178,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 21.0
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 526675395,
+    "date": "2026-01-11+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 94,
+    "occupancy": 67.63,
+    "totalAvailableSeatCount": 45,
+    "totalSeatCount": 139,
+    "grossRevenueUSD": 1356.42,
+    "adultTicketPrice": 14.43
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 529839370,
+    "date": "2026-01-11+22:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 52,
+    "totalSeatCount": 52,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.43
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 530341799,
+    "date": "2026-01-11+11:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 6,
+    "occupancy": 11.32,
+    "totalAvailableSeatCount": 47,
+    "totalSeatCount": 53,
+    "grossRevenueUSD": 74.34,
+    "adultTicketPrice": 12.39
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 530341773,
+    "date": "2026-01-11+17:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 10,
+    "occupancy": 28.57,
+    "totalAvailableSeatCount": 25,
+    "totalSeatCount": 35,
+    "grossRevenueUSD": 153.7,
+    "adultTicketPrice": 15.37
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 530021470,
+    "date": "2026-01-11+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 36,
+    "occupancy": 72.0,
+    "totalAvailableSeatCount": 14,
+    "totalSeatCount": 50,
+    "grossRevenueUSD": 506.16,
+    "adultTicketPrice": 14.06
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 530682821,
+    "date": "2026-01-11+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 75,
+    "occupancy": 40.32,
+    "totalAvailableSeatCount": 111,
+    "totalSeatCount": 186,
+    "grossRevenueUSD": 1054.5,
+    "adultTicketPrice": 14.06
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 529985492,
+    "date": "2026-01-11+10:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 96,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 9.95
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 530534391,
+    "date": "2026-01-11+15:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 95,
+    "totalSeatCount": 95,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 9.95
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 528248175,
+    "date": "2026-01-11+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 6,
+    "occupancy": 3.87,
+    "totalAvailableSeatCount": 149,
+    "totalSeatCount": 155,
+    "grossRevenueUSD": 74.64,
+    "adultTicketPrice": 12.44
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77089",
+    "theater_name": "AMC Gulf Pointe 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 529985500,
+    "date": "2026-01-11+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 96,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.44
+  },
+  {
+    "state": "AZ",
+    "city": "Flagstaff",
+    "zip": "86004",
+    "theater_name": "Harkins Flagstaff 16",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 530529483,
+    "date": "2026-01-11+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 4,
+    "occupancy": 2.38,
+    "totalAvailableSeatCount": 164,
+    "totalSeatCount": 168,
+    "grossRevenueUSD": 45.0,
+    "adultTicketPrice": 11.25
+  },
+  {
+    "state": "AZ",
+    "city": "Flagstaff",
+    "zip": "86004",
+    "theater_name": "Harkins Flagstaff 16",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 530518555,
+    "date": "2026-01-11+20:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 4,
+    "occupancy": 2.38,
+    "totalAvailableSeatCount": 164,
+    "totalSeatCount": 168,
+    "grossRevenueUSD": 57.0,
+    "adultTicketPrice": 14.25
   }
 ]
