@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11 08:33:14 AM",
+  "last_updated": "2026-01-11 10:01:22 AM",
   "errors": [
     {
       "state": "DE",
@@ -444,6 +444,22 @@
       "date": "2026-01-10+14:00",
       "format": "Standard",
       "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mason",
+      "zip": "45040",
+      "theater_name": "Regal Deerfield Town Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530682518,
+      "date": "2026-01-10+22:25",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 500,
         "reason": "No seats"
