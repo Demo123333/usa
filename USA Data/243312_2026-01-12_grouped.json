@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 03:45:29 PM IST",
+  "last_updated": "2026-01-12 04:18:59 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -2281,14 +2281,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 52,
-          "grossRevenueUSD": 20.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 1.92
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 20.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "DE",
@@ -2386,14 +2386,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 13.99,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.99,
-          "occupancy": 2.04
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 13.99
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "NY",
@@ -13950,14 +13950,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
+          "totalSeatSold": 28,
+          "totalSeatCount": 50,
+          "grossRevenueUSD": 393.68,
           "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "occupancy": 56.0
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 393.68
     },
     {
       "state": "TX",
@@ -22954,14 +22954,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 178,
-          "grossRevenueUSD": 21.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 21.0,
-          "occupancy": 0.56
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 21.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "WA",
@@ -23004,6 +23004,27 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-12+22:00",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 11,
+          "totalSeatCount": 87,
+          "grossRevenueUSD": 154.66,
+          "adultTicketPrice": 14.06,
+          "occupancy": 12.64
+        }
+      ],
+      "finalGrossRevenueUSD": 154.66
     }
   ]
 }
