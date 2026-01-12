@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 05:10:47 PM IST",
+  "last_updated": "2026-01-12 05:52:21 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -1315,14 +1315,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 117,
-          "grossRevenueUSD": 34.1,
+          "grossRevenueUSD": 68.2,
           "adultTicketPrice": 17.05,
-          "occupancy": 1.71
+          "occupancy": 3.42
         }
       ],
-      "finalGrossRevenueUSD": 34.1
+      "finalGrossRevenueUSD": 68.2
     },
     {
       "state": "NJ",
@@ -1420,14 +1420,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 6,
           "totalSeatCount": 210,
-          "grossRevenueUSD": 106.65,
+          "grossRevenueUSD": 127.98,
           "adultTicketPrice": 21.33,
-          "occupancy": 2.38
+          "occupancy": 2.86
         }
       ],
-      "finalGrossRevenueUSD": 106.65
+      "finalGrossRevenueUSD": 127.98
     },
     {
       "state": "NJ",
@@ -6733,14 +6733,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 61,
+          "totalSeatSold": 56,
           "totalSeatCount": 185,
-          "grossRevenueUSD": 1314.55,
+          "grossRevenueUSD": 1206.8,
           "adultTicketPrice": 21.55,
-          "occupancy": 32.97
+          "occupancy": 30.27
         }
       ],
-      "finalGrossRevenueUSD": 1314.55
+      "finalGrossRevenueUSD": 1206.8
     },
     {
       "state": "GA",
@@ -7510,14 +7510,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 164,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.76,
           "adultTicketPrice": 11.76,
-          "occupancy": 0.0
+          "occupancy": 0.61
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.76
     },
     {
       "state": "FL",
