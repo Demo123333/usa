@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13 12:46:19 AM",
+  "last_updated": "2026-01-13 01:09:00 AM",
   "errors": [
     {
       "state": "PA",
@@ -186,6 +186,22 @@
       "chainCode": "GLXY",
       "showtime_id": 530123656,
       "date": "2026-01-12+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530557299,
+      "date": "2026-01-12+16:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
