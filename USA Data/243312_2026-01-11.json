@@ -19912,5 +19912,21 @@
     "totalSeatCount": 84,
     "grossRevenueUSD": 346.25,
     "adultTicketPrice": 13.85
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 530232427,
+    "date": "2026-01-11+09:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]

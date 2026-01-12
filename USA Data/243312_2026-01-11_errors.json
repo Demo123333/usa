@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 12:54:29 PM",
+  "last_updated": "2026-01-12 01:15:28 PM",
   "errors": [
     {
       "state": "NY",
@@ -378,6 +378,22 @@
       "chainCode": "GLXY",
       "showtime_id": 530123588,
       "date": "2026-01-11+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530232427,
+      "date": "2026-01-11+09:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {

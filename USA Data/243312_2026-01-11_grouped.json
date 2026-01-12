@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 12:54:29 PM IST",
+  "last_updated": "2026-01-12 01:15:28 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -22542,6 +22542,27 @@
         }
       ],
       "finalGrossRevenueUSD": 346.25
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-11+09:15",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     }
   ]
 }
