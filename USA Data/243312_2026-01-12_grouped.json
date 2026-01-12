@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-12 04:42:17 PM IST",
+  "last_updated": "2026-01-12 05:10:47 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -2302,14 +2302,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 120,
-          "grossRevenueUSD": 20.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 0.83
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 20.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "DE",
@@ -6733,14 +6733,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 60,
+          "totalSeatSold": 61,
           "totalSeatCount": 185,
-          "grossRevenueUSD": 1293.0,
+          "grossRevenueUSD": 1314.55,
           "adultTicketPrice": 21.55,
-          "occupancy": 32.43
+          "occupancy": 32.97
         }
       ],
-      "finalGrossRevenueUSD": 1293.0
+      "finalGrossRevenueUSD": 1314.55
     },
     {
       "state": "GA",
@@ -22723,14 +22723,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 21.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 21.0,
-          "occupancy": 0.72
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 21.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "WA",
