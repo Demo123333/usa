@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13 03:18:16 PM IST",
+  "last_updated": "2026-01-13 03:43:15 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -3037,14 +3037,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 60,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 13.49,
           "adultTicketPrice": 13.49,
-          "occupancy": 0.0
+          "occupancy": 1.67
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 13.49
     },
     {
       "state": "PA",
@@ -9631,14 +9631,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 20.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 0.0
+          "occupancy": 2.04
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 20.0
     },
     {
       "state": "IN",
@@ -18289,14 +18289,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 12,
           "totalSeatCount": 112,
-          "grossRevenueUSD": 174.9,
+          "grossRevenueUSD": 209.88,
           "adultTicketPrice": 17.49,
-          "occupancy": 8.93
+          "occupancy": 10.71
         }
       ],
-      "finalGrossRevenueUSD": 174.9
+      "finalGrossRevenueUSD": 209.88
     },
     {
       "state": "CA",
@@ -19660,14 +19660,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 6,
           "totalSeatCount": 41,
-          "grossRevenueUSD": 14.5,
+          "grossRevenueUSD": 43.5,
           "adultTicketPrice": 7.25,
-          "occupancy": 4.88
+          "occupancy": 14.63
         }
       ],
-      "finalGrossRevenueUSD": 14.5
+      "finalGrossRevenueUSD": 43.5
     },
     {
       "state": "CA",
