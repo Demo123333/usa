@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13 02:22:38 PM",
+  "last_updated": "2026-01-13 02:48:57 PM",
   "errors": [
     {
       "state": "MA",
@@ -122,37 +122,6 @@
       "chainCode": "GOOD",
       "showtime_id": 530528903,
       "date": "2026-01-13+18:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Hurst",
-      "zip": "76053",
-      "theater_name": "Cinemark North East Mall 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530448848,
-      "date": "2026-01-13+20:15",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "El Cajon",
-      "zip": "92020",
-      "theater_name": "Regal Parkway Plaza & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 527580733,
-      "date": "2026-01-13+14:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
