@@ -1,21 +1,6 @@
 {
-  "last_updated": "2026-01-13 01:46:35 PM",
+  "last_updated": "2026-01-13 02:22:38 PM",
   "errors": [
-    {
-      "state": "NH",
-      "city": "Salem",
-      "zip": "03079",
-      "theater_name": "Cinemark Rockingham Park and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530349456,
-      "date": "2026-01-13+16:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "MA",
       "city": "Boston",
@@ -30,51 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "NH",
-      "city": "Hooksett",
-      "zip": "03106",
-      "theater_name": "Apple Cinemas Hooksett IMAX",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 530665290,
-      "date": "2026-01-13+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MD",
-      "city": "Silver Spring",
-      "zip": "20910",
-      "theater_name": "Regal Majestic & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 527619455,
-      "date": "2026-01-13+16:20",
-      "format": "Standard",
-      "language": "Tamil",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Richmond",
-      "zip": "23233",
-      "theater_name": "Regal Short Pump",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526709298,
-      "date": "2026-01-13+16:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -127,21 +67,6 @@
     },
     {
       "state": "GA",
-      "city": "Marietta",
-      "zip": "30068",
-      "theater_name": "Merchants Walk Cinemas",
-      "chainName": "Georgia Theatre Company",
-      "chainCode": "GRGA",
-      "showtime_id": 530534545,
-      "date": "2026-01-13+13:45",
-      "format": "Standard",
-      "language": "Unknown",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "GA",
       "city": "Canton",
       "zip": "30114",
       "theater_name": "AMC CLASSIC Riverstone 15",
@@ -170,51 +95,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "KY",
-      "city": "Lexington",
-      "zip": "40509",
-      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 528277392,
-      "date": "2026-01-13+10:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 530563378,
-      "date": "2026-01-13+20:30",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bolingbrook",
-      "zip": "60440",
-      "theater_name": "Regal Bolingbrook",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526648257,
-      "date": "2026-01-13+19:15",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -251,21 +131,6 @@
     },
     {
       "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530508435,
-      "date": "2026-01-13+10:15",
-      "format": "D-Box",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
       "city": "Hurst",
       "zip": "76053",
       "theater_name": "Cinemark North East Mall 18 and XD",
@@ -275,36 +140,6 @@
       "date": "2026-01-13+20:15",
       "format": "Standard",
       "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Round Rock",
-      "zip": "78664",
-      "theater_name": "Cinemark Round Rock 14",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "showtime_id": 530514381,
-      "date": "2026-01-13+17:50",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "TX",
-      "city": "Austin",
-      "zip": "78759",
-      "theater_name": "Regal Gateway 4DX & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526678570,
-      "date": "2026-01-13+20:40",
-      "format": "Standard",
-      "language": "Telugu",
       "error": {
         "status": 500
       }
