@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14 11:48:10 PM",
+  "last_updated": "2026-01-15 12:25:34 AM",
   "errors": [
     {
       "state": "PA",
@@ -202,6 +202,22 @@
       "chainCode": "GLXY",
       "showtime_id": 530123718,
       "date": "2026-01-14+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Boston",
+      "zip": "02114",
+      "theater_name": "AMC Causeway 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-14+16:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
