@@ -1,0 +1,394 @@
+{
+  "last_updated": "2026-01-14 01:46:26 PM",
+  "errors": [
+    {
+      "state": "MD",
+      "city": "Hagerstown",
+      "zip": "21740",
+      "theater_name": "Regal Valley Mall & ScreenX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530212936,
+      "date": "2026-01-14+21:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 530386763,
+      "date": "2026-01-14+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Glen Allen",
+      "zip": "23060",
+      "theater_name": "Regal Virginia Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 529924431,
+      "date": "2026-01-14+15:45",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530541048,
+      "date": "2026-01-14+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 530541043,
+      "date": "2026-01-14+11:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27613",
+      "theater_name": "Cinemark Bistro Raleigh",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530525064,
+      "date": "2026-01-14+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 528253342,
+      "date": "2026-01-14+20:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Canton",
+      "zip": "30114",
+      "theater_name": "AMC CLASSIC Riverstone 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530294154,
+      "date": "2026-01-14+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32828",
+      "theater_name": "Regal Waterford Lakes 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 526676544,
+      "date": "2026-01-14+10:35",
+      "format": "Standard",
+      "language": "Tamil",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528200601,
+      "date": "2026-01-14+19:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 528420746,
+      "date": "2026-01-14+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Cordova",
+      "zip": "38018",
+      "theater_name": "Malco Cordova Cinema",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 530516417,
+      "date": "2026-01-14+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Wauwatosa",
+      "zip": "53226",
+      "theater_name": "AMC Mayfair Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530433784,
+      "date": "2026-01-14+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 529927757,
+      "date": "2026-01-14+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 531263393,
+      "date": "2026-01-14+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530512709,
+      "date": "2026-01-14+21:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lake Worth",
+      "zip": "76135",
+      "theater_name": "Texas Movie Bistro",
+      "chainName": "Texas Movie Bistro",
+      "chainCode": "TXMB",
+      "showtime_id": 530418903,
+      "date": "2026-01-14+18:45",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "exception": ""
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77027",
+      "theater_name": "Regal Edwards Greenway Grand Palace ScreenX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 530381004,
+      "date": "2026-01-14+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530412762,
+      "date": "2026-01-14+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530412760,
+      "date": "2026-01-14+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 531258300,
+      "date": "2026-01-14+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530104435,
+      "date": "2026-01-14+20:00",
+      "format": "D-Box",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Folsom",
+      "zip": "95630",
+      "theater_name": "Cinemark Century Folsom 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 530457912,
+      "date": "2026-01-14+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 530338946,
+      "date": "2026-01-14+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 530123718,
+      "date": "2026-01-14+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    }
+  ]
+}
