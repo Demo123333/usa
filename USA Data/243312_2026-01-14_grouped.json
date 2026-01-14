@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14 03:44:14 PM IST",
+  "last_updated": "2026-01-14 04:19:17 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -3919,14 +3919,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 107,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.99,
           "adultTicketPrice": 11.99,
-          "occupancy": 0.0
+          "occupancy": 0.93
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.99
     },
     {
       "state": "VA",
@@ -11365,14 +11365,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 2,
           "totalSeatCount": 58,
-          "grossRevenueUSD": 51.92,
+          "grossRevenueUSD": 25.96,
           "adultTicketPrice": 12.98,
-          "occupancy": 6.9
+          "occupancy": 3.45
         }
       ],
-      "finalGrossRevenueUSD": 51.92
+      "finalGrossRevenueUSD": 25.96
     },
     {
       "state": "TX",
@@ -15116,14 +15116,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 100,
-          "grossRevenueUSD": 6.99,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 6.99,
-          "occupancy": 1.0
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 6.99
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CA",
@@ -15410,14 +15410,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 97,
-          "grossRevenueUSD": 20.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 1.03
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 20.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CA",
