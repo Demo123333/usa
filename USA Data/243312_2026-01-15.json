@@ -514,11 +514,11 @@
     "date": "2026-01-15+11:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 118,
+    "totalSeatSold": 2,
+    "occupancy": 1.69,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 118,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 40.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -1450,11 +1450,11 @@
     "date": "2026-01-15+12:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 1,
+    "occupancy": 0.94,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 106,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 11.99,
     "adultTicketPrice": 11.99
   },
   {
@@ -1720,11 +1720,11 @@
     "date": "2026-01-15+15:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 6.12,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 6,
+    "occupancy": 12.24,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 49,
-    "grossRevenueUSD": 36.99,
+    "grossRevenueUSD": 73.98,
     "adultTicketPrice": 12.33
   },
   {
@@ -1810,11 +1810,11 @@
     "date": "2026-01-15+16:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 9,
-    "occupancy": 9.78,
-    "totalAvailableSeatCount": 83,
+    "totalSeatSold": 7,
+    "occupancy": 7.61,
+    "totalAvailableSeatCount": 85,
     "totalSeatCount": 92,
-    "grossRevenueUSD": 135.0,
+    "grossRevenueUSD": 105.0,
     "adultTicketPrice": 15.0
   },
   {
@@ -3876,11 +3876,11 @@
     "date": "2026-01-15+15:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 1.41,
-    "totalAvailableSeatCount": 140,
+    "totalSeatSold": 3,
+    "occupancy": 2.11,
+    "totalAvailableSeatCount": 139,
     "totalSeatCount": 142,
-    "grossRevenueUSD": 43.8,
+    "grossRevenueUSD": 65.7,
     "adultTicketPrice": 21.9
   },
   {
@@ -5334,11 +5334,11 @@
     "date": "2026-01-15+16:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 71,
+    "totalSeatSold": 1,
+    "occupancy": 1.41,
+    "totalAvailableSeatCount": 70,
     "totalSeatCount": 71,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 10.81,
     "adultTicketPrice": 10.81
   },
   {
@@ -7584,5 +7584,21 @@
     "totalSeatCount": 178,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.59
+  },
+  {
+    "state": "CT",
+    "city": "Plainville",
+    "zip": "06062",
+    "theater_name": "AMC Plainville 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-01-15+14:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]

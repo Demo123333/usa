@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 08:18:01 PM",
+  "last_updated": "2026-01-15 08:44:32 PM",
   "errors": [
     {
       "state": "GA",
@@ -74,6 +74,22 @@
       "chainCode": "GLXY",
       "showtime_id": 530974579,
       "date": "2026-01-15+16:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 500,
+        "reason": "No seats"
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Plainville",
+      "zip": "06062",
+      "theater_name": "AMC Plainville 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-15+14:50",
       "format": "Standard",
       "language": "Telugu",
       "error": {
