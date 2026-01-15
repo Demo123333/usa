@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 02:48:10 PM IST",
+  "last_updated": "2026-01-15 03:17:32 PM IST",
   "shows": [
     {
       "state": "NH",
@@ -2407,14 +2407,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 260,
-          "grossRevenueUSD": 13.06,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.06,
-          "occupancy": 0.38
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 13.06
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "GA",
@@ -2512,14 +2512,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 12,
+          "totalSeatSold": 11,
           "totalSeatCount": 128,
-          "grossRevenueUSD": 258.0,
+          "grossRevenueUSD": 236.5,
           "adultTicketPrice": 21.5,
-          "occupancy": 9.38
+          "occupancy": 8.59
         }
       ],
-      "finalGrossRevenueUSD": 258.0
+      "finalGrossRevenueUSD": 236.5
     },
     {
       "state": "FL",
@@ -4339,14 +4339,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 83,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.32,
           "adultTicketPrice": 11.32,
-          "occupancy": 0.0
+          "occupancy": 1.2
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.32
     },
     {
       "state": "IL",
