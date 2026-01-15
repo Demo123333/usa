@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 02:21:43 PM",
+  "last_updated": "2026-01-15 02:48:10 PM",
   "errors": [
     {
       "state": "GA",
@@ -62,21 +62,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "San Francisco",
-      "zip": "94109",
-      "theater_name": "Apple Cinemas Van Ness",
-      "chainName": "Apple Cinemas",
-      "chainCode": "APPL",
-      "showtime_id": 531090332,
-      "date": "2026-01-15+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {

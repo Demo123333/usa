@@ -2060,11 +2060,11 @@
     "date": "2026-01-15+14:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 260,
+    "totalSeatSold": 1,
+    "occupancy": 0.38,
+    "totalAvailableSeatCount": 259,
     "totalSeatCount": 260,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 13.06,
     "adultTicketPrice": 13.06
   },
   {
@@ -2150,11 +2150,11 @@
     "date": "2026-01-15+20:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
-    "occupancy": 8.59,
-    "totalAvailableSeatCount": 117,
+    "totalSeatSold": 12,
+    "occupancy": 9.38,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 128,
-    "grossRevenueUSD": 236.5,
+    "grossRevenueUSD": 258.0,
     "adultTicketPrice": 21.5
   },
   {
@@ -6553,9 +6553,12 @@
     "date": "2026-01-15+18:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500
-    }
+    "totalSeatSold": 12,
+    "occupancy": 15.38,
+    "totalAvailableSeatCount": 66,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 204.0,
+    "adultTicketPrice": 17.0
   },
   {
     "state": "CA",
