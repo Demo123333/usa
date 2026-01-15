@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 01:46:57 PM IST",
+  "last_updated": "2026-01-15 02:21:43 PM IST",
   "shows": [
     {
       "state": "NH",
@@ -55,14 +55,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 381,
-          "grossRevenueUSD": 15.49,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.49,
-          "occupancy": 0.26
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 15.49
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "MA",
@@ -644,9 +644,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 118,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 20.0,
           "occupancy": 0.0
         }
       ],
@@ -875,9 +875,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 52,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 12.49,
           "occupancy": 0.0
         }
       ],
@@ -1694,9 +1694,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 106,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 11.99,
           "occupancy": 0.0
         }
       ],
@@ -2512,14 +2512,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 11,
+          "totalSeatCount": 128,
+          "grossRevenueUSD": 236.5,
+          "adultTicketPrice": 21.5,
+          "occupancy": 8.59
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 236.5
     },
     {
       "state": "FL",
@@ -3604,14 +3604,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 8,
+          "totalSeatCount": 144,
+          "grossRevenueUSD": 107.92,
+          "adultTicketPrice": 13.49,
+          "occupancy": 5.56
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 107.92
     },
     {
       "state": "OH",
@@ -4340,9 +4340,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 83,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 11.32,
           "occupancy": 0.0
         }
       ],
@@ -7498,14 +7498,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 9,
           "totalSeatCount": 47,
-          "grossRevenueUSD": 122.43,
+          "grossRevenueUSD": 157.41,
           "adultTicketPrice": 17.49,
-          "occupancy": 14.89
+          "occupancy": 19.15
         }
       ],
-      "finalGrossRevenueUSD": 122.43
+      "finalGrossRevenueUSD": 157.41
     },
     {
       "state": "CA",
@@ -7880,9 +7880,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 181,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 20.0,
           "occupancy": 0.0
         }
       ],
@@ -8224,9 +8224,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 106,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 20.0,
           "occupancy": 0.0
         }
       ],

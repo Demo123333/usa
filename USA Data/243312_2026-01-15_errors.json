@@ -1,51 +1,6 @@
 {
-  "last_updated": "2026-01-15 01:46:57 PM",
+  "last_updated": "2026-01-15 02:21:43 PM",
   "errors": [
-    {
-      "state": "NY",
-      "city": "New Rochelle",
-      "zip": "10801",
-      "theater_name": "Regal New Roc 4DX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526716163,
-      "date": "2026-01-15+20:35",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526649476,
-      "date": "2026-01-15+12:55",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Midlothian",
-      "zip": "23114",
-      "theater_name": "Regal Westchester Commons",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 528361533,
-      "date": "2026-01-15+12:10",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
-      }
-    },
     {
       "state": "GA",
       "city": "Augusta",
@@ -60,21 +15,6 @@
       "error": {
         "status": 500,
         "reason": "No seats"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Gainesville",
-      "zip": "32607",
-      "theater_name": "Regal Royal Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530301400,
-      "date": "2026-01-15+20:55",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -94,21 +34,6 @@
       }
     },
     {
-      "state": "OH",
-      "city": "Beavercreek",
-      "zip": "45431",
-      "theater_name": "Regal Fairfield Commons & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530524355,
-      "date": "2026-01-15+16:40",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
       "state": "IL",
       "city": "Deer Park",
       "zip": "60010",
@@ -121,21 +46,6 @@
       "language": "Telugu",
       "error": {
         "exception": ""
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bolingbrook",
-      "zip": "60440",
-      "theater_name": "Regal Bolingbrook",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 526648261,
-      "date": "2026-01-15+14:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500
       }
     },
     {
@@ -163,37 +73,6 @@
       "chainCode": "APPL",
       "showtime_id": 531090332,
       "date": "2026-01-15+18:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 531349095,
-      "date": "2026-01-15+21:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "status": 500,
-        "reason": "No seats"
-      }
-    },
-    {
-      "state": "OR",
-      "city": "Hillsboro",
-      "zip": "97123",
-      "theater_name": "Regal Movies On TV",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 530280290,
-      "date": "2026-01-15+12:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
