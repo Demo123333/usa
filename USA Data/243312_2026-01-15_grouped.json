@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 03:17:32 PM IST",
+  "last_updated": "2026-01-15 03:42:44 PM IST",
   "shows": [
     {
       "state": "NH",
@@ -1777,14 +1777,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 54,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.99,
           "adultTicketPrice": 11.99,
-          "occupancy": 0.0
+          "occupancy": 1.85
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.99
     },
     {
       "state": "VA",
@@ -4339,14 +4339,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 83,
-          "grossRevenueUSD": 11.32,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.32,
-          "occupancy": 1.2
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 11.32
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "IL",
