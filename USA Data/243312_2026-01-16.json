@@ -46,11 +46,11 @@
     "date": "2026-01-16+20:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 10,
-    "occupancy": 3.6,
-    "totalAvailableSeatCount": 268,
+    "totalSeatSold": 11,
+    "occupancy": 3.96,
+    "totalAvailableSeatCount": 267,
     "totalSeatCount": 278,
-    "grossRevenueUSD": 154.9,
+    "grossRevenueUSD": 170.39,
     "adultTicketPrice": 15.49
   },
   {
@@ -388,11 +388,11 @@
     "date": "2026-01-16+12:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 2.13,
-    "totalAvailableSeatCount": 138,
+    "totalSeatSold": 2,
+    "occupancy": 1.42,
+    "totalAvailableSeatCount": 139,
     "totalSeatCount": 141,
-    "grossRevenueUSD": 40.47,
+    "grossRevenueUSD": 26.98,
     "adultTicketPrice": 13.49
   },
   {
@@ -496,11 +496,11 @@
     "date": "2026-01-16+12:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 10,
-    "occupancy": 17.86,
-    "totalAvailableSeatCount": 46,
+    "totalSeatSold": 13,
+    "occupancy": 23.21,
+    "totalAvailableSeatCount": 43,
     "totalSeatCount": 56,
-    "grossRevenueUSD": 115.5,
+    "grossRevenueUSD": 150.15,
     "adultTicketPrice": 11.55
   },
   {
@@ -568,11 +568,11 @@
     "date": "2026-01-16+11:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 2.7,
-    "totalAvailableSeatCount": 180,
+    "totalSeatSold": 14,
+    "occupancy": 7.57,
+    "totalAvailableSeatCount": 171,
     "totalSeatCount": 185,
-    "grossRevenueUSD": 107.75,
+    "grossRevenueUSD": 301.7,
     "adultTicketPrice": 21.55
   },
   {
@@ -586,11 +586,11 @@
     "date": "2026-01-16+15:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 22,
-    "occupancy": 11.89,
-    "totalAvailableSeatCount": 163,
+    "totalSeatSold": 24,
+    "occupancy": 12.97,
+    "totalAvailableSeatCount": 161,
     "totalSeatCount": 185,
-    "grossRevenueUSD": 474.1,
+    "grossRevenueUSD": 517.2,
     "adultTicketPrice": 21.55
   },
   {
@@ -1124,11 +1124,11 @@
     "date": "2026-01-16+17:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.25,
-    "totalAvailableSeatCount": 79,
+    "totalSeatSold": 2,
+    "occupancy": 2.5,
+    "totalAvailableSeatCount": 78,
     "totalSeatCount": 80,
-    "grossRevenueUSD": 14.64,
+    "grossRevenueUSD": 29.28,
     "adultTicketPrice": 14.64
   },
   {
@@ -1634,5 +1634,21 @@
     "totalSeatCount": 129,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.26
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-01-16+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
