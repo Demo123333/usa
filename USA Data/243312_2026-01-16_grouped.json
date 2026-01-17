@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17 09:53:03 AM IST",
+  "last_updated": "2026-01-17 10:20:02 AM IST",
   "shows": [
     {
       "state": "MA",
@@ -1483,14 +1483,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 13,
+          "totalSeatSold": 14,
           "totalSeatCount": 80,
-          "grossRevenueUSD": 147.81,
+          "grossRevenueUSD": 159.18,
           "adultTicketPrice": 11.37,
-          "occupancy": 16.25
+          "occupancy": 17.5
         }
       ],
-      "finalGrossRevenueUSD": 147.81
+      "finalGrossRevenueUSD": 159.18
     },
     {
       "state": "TX",
@@ -1672,14 +1672,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 4,
           "totalSeatCount": 62,
-          "grossRevenueUSD": 16.5,
+          "grossRevenueUSD": 66.0,
           "adultTicketPrice": 16.5,
-          "occupancy": 1.61
+          "occupancy": 6.45
         }
       ],
-      "finalGrossRevenueUSD": 16.5
+      "finalGrossRevenueUSD": 66.0
     },
     {
       "state": "CA",
@@ -1777,14 +1777,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 4,
           "totalSeatCount": 36,
-          "grossRevenueUSD": 15.5,
+          "grossRevenueUSD": 62.0,
           "adultTicketPrice": 15.5,
-          "occupancy": 2.78
+          "occupancy": 11.11
         }
       ],
-      "finalGrossRevenueUSD": 15.5
+      "finalGrossRevenueUSD": 62.0
     },
     {
       "state": "OR",
@@ -1882,14 +1882,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 12,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 157.4,
+          "grossRevenueUSD": 188.88,
           "adultTicketPrice": 15.74,
-          "occupancy": 7.75
+          "occupancy": 9.3
         }
       ],
-      "finalGrossRevenueUSD": 157.4
+      "finalGrossRevenueUSD": 188.88
     },
     {
       "state": "WA",
