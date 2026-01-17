@@ -1034,10 +1034,12 @@
     "date": "2026-01-17+10:05",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 136,
+    "totalSeatCount": 136,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 6.44
   },
   {
     "state": "IL",
@@ -1230,10 +1232,12 @@
     "date": "2026-01-17+15:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "status": 500,
-      "reason": "No seats"
-    }
+    "totalSeatSold": 4,
+    "occupancy": 3.33,
+    "totalAvailableSeatCount": 116,
+    "totalSeatCount": 120,
+    "grossRevenueUSD": 39.0,
+    "adultTicketPrice": 9.75
   },
   {
     "state": "AZ",
