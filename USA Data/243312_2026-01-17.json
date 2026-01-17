@@ -586,11 +586,11 @@
     "date": "2026-01-17+19:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 19,
-    "occupancy": 14.96,
-    "totalAvailableSeatCount": 108,
+    "totalSeatSold": 20,
+    "occupancy": 15.75,
+    "totalAvailableSeatCount": 107,
     "totalSeatCount": 127,
-    "grossRevenueUSD": 320.53,
+    "grossRevenueUSD": 337.4,
     "adultTicketPrice": 16.87
   },
   {
@@ -1490,5 +1490,21 @@
     "totalSeatCount": 141,
     "grossRevenueUSD": 12.62,
     "adultTicketPrice": 12.62
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-01-17+17:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
