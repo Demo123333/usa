@@ -10,11 +10,11 @@
     "date": "2026-01-18+16:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
-    "occupancy": 1.31,
-    "totalAvailableSeatCount": 376,
+    "totalSeatSold": 3,
+    "occupancy": 0.79,
+    "totalAvailableSeatCount": 378,
     "totalSeatCount": 381,
-    "grossRevenueUSD": 100.0,
+    "grossRevenueUSD": 60.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -118,11 +118,11 @@
     "date": "2026-01-18+17:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 15,
-    "occupancy": 12.82,
-    "totalAvailableSeatCount": 102,
+    "totalSeatSold": 16,
+    "occupancy": 13.68,
+    "totalAvailableSeatCount": 101,
     "totalSeatCount": 117,
-    "grossRevenueUSD": 255.75,
+    "grossRevenueUSD": 272.8,
     "adultTicketPrice": 17.05
   },
   {
@@ -154,11 +154,11 @@
     "date": "2026-01-18+17:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 13,
-    "occupancy": 10.08,
-    "totalAvailableSeatCount": 116,
+    "totalSeatSold": 9,
+    "occupancy": 6.98,
+    "totalAvailableSeatCount": 120,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 200.85,
+    "grossRevenueUSD": 139.05,
     "adultTicketPrice": 15.45
   },
   {
@@ -172,11 +172,11 @@
     "date": "2026-01-18+21:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 2.33,
-    "totalAvailableSeatCount": 126,
+    "totalSeatSold": 7,
+    "occupancy": 5.43,
+    "totalAvailableSeatCount": 122,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 46.35,
+    "grossRevenueUSD": 108.15,
     "adultTicketPrice": 15.45
   },
   {
@@ -385,7 +385,7 @@
     "chainName": "AMC",
     "chainCode": "AMC",
     "showtime_id": 531061816,
-    "date": "2026-01-18+22:20",
+    "date": "2026-01-18+21:00",
     "format": "Standard",
     "language": "Telugu",
     "totalSeatSold": 1,
@@ -406,11 +406,11 @@
     "date": "2026-01-18+12:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
-    "occupancy": 14.29,
-    "totalAvailableSeatCount": 48,
+    "totalSeatSold": 10,
+    "occupancy": 17.86,
+    "totalAvailableSeatCount": 46,
     "totalSeatCount": 56,
-    "grossRevenueUSD": 92.4,
+    "grossRevenueUSD": 115.5,
     "adultTicketPrice": 11.55
   },
   {
@@ -478,11 +478,11 @@
     "date": "2026-01-18+15:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 102,
-    "occupancy": 55.14,
-    "totalAvailableSeatCount": 83,
+    "totalSeatSold": 110,
+    "occupancy": 59.46,
+    "totalAvailableSeatCount": 75,
     "totalSeatCount": 185,
-    "grossRevenueUSD": 2198.1,
+    "grossRevenueUSD": 2370.5,
     "adultTicketPrice": 21.55
   },
   {
@@ -818,11 +818,11 @@
     "date": "2026-01-18+19:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
-    "occupancy": 1.67,
-    "totalAvailableSeatCount": 59,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 60,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 14.49,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.49
   },
   {
@@ -1034,11 +1034,11 @@
     "date": "2026-01-18+16:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 81,
+    "totalSeatSold": 5,
+    "occupancy": 6.17,
+    "totalAvailableSeatCount": 76,
     "totalSeatCount": 81,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 72.05,
     "adultTicketPrice": 14.41
   },
   {
@@ -1214,11 +1214,11 @@
     "date": "2026-01-18+18:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 3.57,
-    "totalAvailableSeatCount": 54,
+    "totalSeatSold": 3,
+    "occupancy": 5.36,
+    "totalAvailableSeatCount": 53,
     "totalSeatCount": 56,
-    "grossRevenueUSD": 27.5,
+    "grossRevenueUSD": 41.25,
     "adultTicketPrice": 13.75
   },
   {
@@ -1304,11 +1304,11 @@
     "date": "2026-01-18+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 6,
-    "occupancy": 5.77,
-    "totalAvailableSeatCount": 98,
+    "totalSeatSold": 4,
+    "occupancy": 3.85,
+    "totalAvailableSeatCount": 100,
     "totalSeatCount": 104,
-    "grossRevenueUSD": 107.94,
+    "grossRevenueUSD": 71.96,
     "adultTicketPrice": 17.99
   },
   {
@@ -1416,5 +1416,23 @@
       "status": 500,
       "reason": "No seats"
     }
+  },
+  {
+    "state": "IN",
+    "city": "Indianapolis",
+    "zip": "46256",
+    "theater_name": "Regal UA Galaxy - Indianapolis",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 531644364,
+    "date": "2026-01-18+20:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 65,
+    "totalSeatCount": 65,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.99
   }
 ]

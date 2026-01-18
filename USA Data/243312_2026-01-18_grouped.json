@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 10:33:01 PM IST",
+  "last_updated": "2026-01-18 11:10:10 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -13,14 +13,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 3,
           "totalSeatCount": 381,
-          "grossRevenueUSD": 100.0,
+          "grossRevenueUSD": 60.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 1.31
+          "occupancy": 0.79
         }
       ],
-      "finalGrossRevenueUSD": 100.0
+      "finalGrossRevenueUSD": 60.0
     },
     {
       "state": "CT",
@@ -139,14 +139,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 15,
+          "totalSeatSold": 16,
           "totalSeatCount": 117,
-          "grossRevenueUSD": 255.75,
+          "grossRevenueUSD": 272.8,
           "adultTicketPrice": 17.05,
-          "occupancy": 12.82
+          "occupancy": 13.68
         }
       ],
-      "finalGrossRevenueUSD": 255.75
+      "finalGrossRevenueUSD": 272.8
     },
     {
       "state": "NJ",
@@ -181,14 +181,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 13,
+          "totalSeatSold": 9,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 200.85,
+          "grossRevenueUSD": 139.05,
           "adultTicketPrice": 15.45,
-          "occupancy": 10.08
+          "occupancy": 6.98
         }
       ],
-      "finalGrossRevenueUSD": 200.85
+      "finalGrossRevenueUSD": 139.05
     },
     {
       "state": "NJ",
@@ -202,14 +202,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 7,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 46.35,
+          "grossRevenueUSD": 108.15,
           "adultTicketPrice": 15.45,
-          "occupancy": 2.33
+          "occupancy": 5.43
         }
       ],
-      "finalGrossRevenueUSD": 46.35
+      "finalGrossRevenueUSD": 108.15
     },
     {
       "state": "NJ",
@@ -449,7 +449,7 @@
       "theater_name": "AMC Southpoint 17",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "date": "2026-01-18+22:20",
+      "date": "2026-01-18+21:00",
       "language": "Telugu",
       "formats": [
         {
@@ -475,14 +475,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 10,
           "totalSeatCount": 56,
-          "grossRevenueUSD": 92.4,
+          "grossRevenueUSD": 115.5,
           "adultTicketPrice": 11.55,
-          "occupancy": 14.29
+          "occupancy": 17.86
         }
       ],
-      "finalGrossRevenueUSD": 92.4
+      "finalGrossRevenueUSD": 115.5
     },
     {
       "state": "NC",
@@ -559,14 +559,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 102,
+          "totalSeatSold": 110,
           "totalSeatCount": 185,
-          "grossRevenueUSD": 2198.1,
+          "grossRevenueUSD": 2370.5,
           "adultTicketPrice": 21.55,
-          "occupancy": 55.14
+          "occupancy": 59.46
         }
       ],
-      "finalGrossRevenueUSD": 2198.1
+      "finalGrossRevenueUSD": 2370.5
     },
     {
       "state": "GA",
@@ -958,14 +958,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 60,
-          "grossRevenueUSD": 14.49,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.49,
-          "occupancy": 1.67
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 14.49
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "IN",
@@ -1210,14 +1210,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 5,
           "totalSeatCount": 81,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 72.05,
           "adultTicketPrice": 14.41,
-          "occupancy": 0.0
+          "occupancy": 6.17
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 72.05
     },
     {
       "state": "IL",
@@ -1420,14 +1420,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 3,
           "totalSeatCount": 56,
-          "grossRevenueUSD": 27.5,
+          "grossRevenueUSD": 41.25,
           "adultTicketPrice": 13.75,
-          "occupancy": 3.57
+          "occupancy": 5.36
         }
       ],
-      "finalGrossRevenueUSD": 27.5
+      "finalGrossRevenueUSD": 41.25
     },
     {
       "state": "AZ",
@@ -1525,14 +1525,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 4,
           "totalSeatCount": 104,
-          "grossRevenueUSD": 107.94,
+          "grossRevenueUSD": 71.96,
           "adultTicketPrice": 17.99,
-          "occupancy": 5.77
+          "occupancy": 3.85
         }
       ],
-      "finalGrossRevenueUSD": 107.94
+      "finalGrossRevenueUSD": 71.96
     },
     {
       "state": "CA",
@@ -1634,6 +1634,27 @@
           "totalSeatCount": 129,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.74,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46256",
+      "theater_name": "Regal UA Galaxy - Indianapolis",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-18+20:50",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 65,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.99,
           "occupancy": 0.0
         }
       ],
