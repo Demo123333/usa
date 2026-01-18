@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19 12:32:18 AM IST",
+  "last_updated": "2026-01-19 01:02:42 AM IST",
   "shows": [
     {
       "state": "MA",
@@ -13,14 +13,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 3,
           "totalSeatCount": 381,
-          "grossRevenueUSD": 80.0,
+          "grossRevenueUSD": 60.0,
           "adultTicketPrice": 20.0,
-          "occupancy": 1.05
+          "occupancy": 0.79
         }
       ],
-      "finalGrossRevenueUSD": 80.0
+      "finalGrossRevenueUSD": 60.0
     },
     {
       "state": "CT",
@@ -139,14 +139,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 19,
+          "totalSeatSold": 23,
           "totalSeatCount": 117,
-          "grossRevenueUSD": 323.95,
+          "grossRevenueUSD": 392.15,
           "adultTicketPrice": 17.05,
-          "occupancy": 16.24
+          "occupancy": 19.66
         }
       ],
-      "finalGrossRevenueUSD": 323.95
+      "finalGrossRevenueUSD": 392.15
     },
     {
       "state": "NJ",
@@ -181,14 +181,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 11,
+          "totalSeatSold": 16,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 169.95,
+          "grossRevenueUSD": 247.2,
           "adultTicketPrice": 15.45,
-          "occupancy": 8.53
+          "occupancy": 12.4
         }
       ],
-      "finalGrossRevenueUSD": 169.95
+      "finalGrossRevenueUSD": 247.2
     },
     {
       "state": "NJ",
@@ -370,14 +370,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 12,
+          "totalSeatSold": 13,
           "totalSeatCount": 205,
-          "grossRevenueUSD": 203.88,
+          "grossRevenueUSD": 220.87,
           "adultTicketPrice": 16.99,
-          "occupancy": 5.85
+          "occupancy": 6.34
         }
       ],
-      "finalGrossRevenueUSD": 203.88
+      "finalGrossRevenueUSD": 220.87
     },
     {
       "state": "VA",
@@ -454,14 +454,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 12,
           "totalSeatCount": 108,
-          "grossRevenueUSD": 58.0,
+          "grossRevenueUSD": 174.0,
           "adultTicketPrice": 14.5,
-          "occupancy": 3.7
+          "occupancy": 11.11
         }
       ],
-      "finalGrossRevenueUSD": 58.0
+      "finalGrossRevenueUSD": 174.0
     },
     {
       "state": "NC",
@@ -622,14 +622,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 7,
           "totalSeatCount": 127,
-          "grossRevenueUSD": 84.35,
+          "grossRevenueUSD": 118.09,
           "adultTicketPrice": 16.87,
-          "occupancy": 3.94
+          "occupancy": 5.51
         }
       ],
-      "finalGrossRevenueUSD": 84.35
+      "finalGrossRevenueUSD": 118.09
     },
     {
       "state": "FL",
@@ -643,14 +643,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 157,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.97,
           "adultTicketPrice": 14.97,
-          "occupancy": 0.0
+          "occupancy": 0.64
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.97
     },
     {
       "state": "FL",
@@ -916,14 +916,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 53,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.99,
           "adultTicketPrice": 14.99,
-          "occupancy": 0.0
+          "occupancy": 1.89
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.99
     },
     {
       "state": "IN",
@@ -1084,14 +1084,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 5,
           "totalSeatCount": 99,
-          "grossRevenueUSD": 80.91,
+          "grossRevenueUSD": 44.95,
           "adultTicketPrice": 8.99,
-          "occupancy": 9.09
+          "occupancy": 5.05
         }
       ],
-      "finalGrossRevenueUSD": 80.91
+      "finalGrossRevenueUSD": 44.95
     },
     {
       "state": "MI",
@@ -1147,14 +1147,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 35.13,
           "adultTicketPrice": 11.71,
-          "occupancy": 0.0
+          "occupancy": 6.25
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 35.13
     },
     {
       "state": "IL",
@@ -1336,14 +1336,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 24,
+          "totalSeatSold": 31,
           "totalSeatCount": 296,
-          "grossRevenueUSD": 207.6,
+          "grossRevenueUSD": 268.15,
           "adultTicketPrice": 8.65,
-          "occupancy": 8.11
+          "occupancy": 10.47
         }
       ],
-      "finalGrossRevenueUSD": 207.6
+      "finalGrossRevenueUSD": 268.15
     },
     {
       "state": "TX",
@@ -1441,14 +1441,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 3,
           "totalSeatCount": 55,
-          "grossRevenueUSD": 49.76,
+          "grossRevenueUSD": 37.32,
           "adultTicketPrice": 12.44,
-          "occupancy": 7.27
+          "occupancy": 5.45
         }
       ],
-      "finalGrossRevenueUSD": 49.76
+      "finalGrossRevenueUSD": 37.32
     },
     {
       "state": "CA",
@@ -1525,14 +1525,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 9,
           "totalSeatCount": 104,
-          "grossRevenueUSD": 71.96,
+          "grossRevenueUSD": 161.91,
           "adultTicketPrice": 17.99,
-          "occupancy": 3.85
+          "occupancy": 8.65
         }
       ],
-      "finalGrossRevenueUSD": 71.96
+      "finalGrossRevenueUSD": 161.91
     },
     {
       "state": "CA",
