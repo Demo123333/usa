@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 08:10:20 PM IST",
+  "last_updated": "2026-01-18 08:39:49 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -538,14 +538,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 32,
+          "totalSeatSold": 31,
           "totalSeatCount": 185,
-          "grossRevenueUSD": 689.6,
+          "grossRevenueUSD": 668.05,
           "adultTicketPrice": 21.55,
-          "occupancy": 17.3
+          "occupancy": 16.76
         }
       ],
-      "finalGrossRevenueUSD": 689.6
+      "finalGrossRevenueUSD": 668.05
     },
     {
       "state": "GA",
@@ -601,14 +601,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 12,
+          "totalSeatSold": 16,
           "totalSeatCount": 79,
-          "grossRevenueUSD": 193.92,
+          "grossRevenueUSD": 258.56,
           "adultTicketPrice": 16.16,
-          "occupancy": 15.19
+          "occupancy": 20.25
         }
       ],
-      "finalGrossRevenueUSD": 193.92
+      "finalGrossRevenueUSD": 258.56
     },
     {
       "state": "GA",
@@ -643,14 +643,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 157,
-          "grossRevenueUSD": 14.97,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.97,
-          "occupancy": 0.64
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 14.97
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "FL",
@@ -1105,14 +1105,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 220,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 18.98,
           "adultTicketPrice": 9.49,
-          "occupancy": 0.0
+          "occupancy": 0.91
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 18.98
     },
     {
       "state": "MI",
