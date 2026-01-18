@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-18 01:44:12 PM IST",
+  "last_updated": "2026-01-18 02:16:25 PM IST",
   "shows": [
     {
       "state": "MA",
@@ -1357,14 +1357,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 1,
+          "totalSeatCount": 44,
+          "grossRevenueUSD": 12.18,
+          "adultTicketPrice": 12.18,
+          "occupancy": 2.27
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 12.18
     },
     {
       "state": "TX",
@@ -1420,14 +1420,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 2,
+          "totalSeatCount": 56,
+          "grossRevenueUSD": 27.5,
+          "adultTicketPrice": 13.75,
+          "occupancy": 3.57
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 27.5
     },
     {
       "state": "AZ",
@@ -1462,14 +1462,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 83,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 27.98,
           "adultTicketPrice": 13.99,
-          "occupancy": 0.0
+          "occupancy": 2.41
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 27.98
     },
     {
       "state": "CA",
