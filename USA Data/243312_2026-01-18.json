@@ -10,11 +10,11 @@
     "date": "2026-01-18+16:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
-    "occupancy": 0.52,
-    "totalAvailableSeatCount": 379,
+    "totalSeatSold": 3,
+    "occupancy": 0.79,
+    "totalAvailableSeatCount": 378,
     "totalSeatCount": 381,
-    "grossRevenueUSD": 40.0,
+    "grossRevenueUSD": 60.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -118,11 +118,11 @@
     "date": "2026-01-18+17:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 16,
-    "occupancy": 13.68,
-    "totalAvailableSeatCount": 101,
+    "totalSeatSold": 15,
+    "occupancy": 12.82,
+    "totalAvailableSeatCount": 102,
     "totalSeatCount": 117,
-    "grossRevenueUSD": 272.8,
+    "grossRevenueUSD": 255.75,
     "adultTicketPrice": 17.05
   },
   {
@@ -352,11 +352,11 @@
     "date": "2026-01-18+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
-    "occupancy": 4.69,
-    "totalAvailableSeatCount": 61,
+    "totalSeatSold": 6,
+    "occupancy": 9.38,
+    "totalAvailableSeatCount": 58,
     "totalSeatCount": 64,
-    "grossRevenueUSD": 47.97,
+    "grossRevenueUSD": 95.94,
     "adultTicketPrice": 15.99
   },
   {
@@ -442,11 +442,11 @@
     "date": "2026-01-18+22:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
-    "occupancy": 3.64,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 110,
     "totalSeatCount": 110,
-    "grossRevenueUSD": 74.16,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 18.54
   },
   {
@@ -478,11 +478,11 @@
     "date": "2026-01-18+15:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 79,
-    "occupancy": 42.7,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 86,
+    "occupancy": 46.49,
+    "totalAvailableSeatCount": 99,
     "totalSeatCount": 185,
-    "grossRevenueUSD": 1702.45,
+    "grossRevenueUSD": 1853.3,
     "adultTicketPrice": 21.55
   },
   {
@@ -1340,11 +1340,11 @@
     "date": "2026-01-18+18:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 1,
+    "occupancy": 0.94,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 106,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 20.0,
     "adultTicketPrice": 20.0
   },
   {
@@ -1400,5 +1400,21 @@
     "totalSeatCount": 129,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.74
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-01-18+12:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 500,
+      "reason": "No seats"
+    }
   }
 ]
