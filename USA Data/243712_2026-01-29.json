@@ -824,11 +824,11 @@
     "date": "2026-01-29+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 14,
+    "totalSeatSold": 10,
     "totalSeatCount": 110,
-    "occupancy": 12.73,
+    "occupancy": 9.09,
     "adultTicketPrice": 14.38,
-    "grossRevenueUSD": 201.32
+    "grossRevenueUSD": 143.8
   },
   {
     "state": "NJ",
@@ -875,11 +875,11 @@
     "date": "2026-01-29+16:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 5,
     "totalSeatCount": 146,
-    "occupancy": 1.37,
+    "occupancy": 3.42,
     "adultTicketPrice": 15.45,
-    "grossRevenueUSD": 30.9
+    "grossRevenueUSD": 77.25
   },
   {
     "state": "NY",
@@ -1095,11 +1095,11 @@
     "date": "2026-01-29+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 520,
-    "occupancy": 0.0,
+    "occupancy": 0.19,
     "adultTicketPrice": 13.99,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 13.99
   },
   {
     "state": "NY",
@@ -1112,11 +1112,11 @@
     "date": "2026-01-29+11:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 0,
     "totalSeatCount": 119,
-    "occupancy": 1.68,
+    "occupancy": 0.0,
     "adultTicketPrice": 13.5,
-    "grossRevenueUSD": 27.0
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NY",
@@ -2555,11 +2555,11 @@
     "date": "2026-01-29+14:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 3,
     "totalSeatCount": 39,
-    "occupancy": 2.56,
+    "occupancy": 7.69,
     "adultTicketPrice": 12.95,
-    "grossRevenueUSD": 12.95
+    "grossRevenueUSD": 38.85
   },
   {
     "state": "GA",
@@ -3030,11 +3030,11 @@
     "date": "2026-01-29+10:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
+    "totalSeatSold": 0,
     "totalSeatCount": 50,
-    "occupancy": 6.0,
+    "occupancy": 0.0,
     "adultTicketPrice": 12.77,
-    "grossRevenueUSD": 38.31
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "FL",
@@ -4456,11 +4456,11 @@
     "date": "2026-01-29+15:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 6,
     "totalSeatCount": 75,
-    "occupancy": 2.67,
+    "occupancy": 8.0,
     "adultTicketPrice": 12.39,
-    "grossRevenueUSD": 24.78
+    "grossRevenueUSD": 74.34
   },
   {
     "state": "IL",
@@ -4507,11 +4507,11 @@
     "date": "2026-01-29+20:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 2,
     "totalSeatCount": 80,
-    "occupancy": 1.25,
+    "occupancy": 2.5,
     "adultTicketPrice": 14.64,
-    "grossRevenueUSD": 14.64
+    "grossRevenueUSD": 29.28
   },
   {
     "state": "IL",
@@ -5204,11 +5204,11 @@
     "date": "2026-01-29+22:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
+    "totalSeatSold": 2,
     "totalSeatCount": 87,
-    "occupancy": 4.6,
+    "occupancy": 2.3,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 56.24
+    "grossRevenueUSD": 28.12
   },
   {
     "state": "TX",
@@ -8809,6 +8809,57 @@
     "totalSeatCount": 111,
     "occupancy": 0.0,
     "adultTicketPrice": 10.81,
+    "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "NJ",
+    "city": "Cherry Hill",
+    "zip": "08002",
+    "theater_name": "AMC Cherry Hill 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533064437,
+    "date": "2026-01-29+20:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "totalSeatCount": 111,
+    "occupancy": 0.0,
+    "adultTicketPrice": 14.38,
+    "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "NY",
+    "city": "Westbury",
+    "zip": "11590",
+    "theater_name": "Regal Westbury IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 533187213,
+    "date": "2026-01-29+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "totalSeatCount": 148,
+    "occupancy": 0.0,
+    "adultTicketPrice": 16.99,
+    "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "TN",
+    "city": "Chattanooga",
+    "zip": "37412",
+    "theater_name": "AMC Chattanooga 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 532798619,
+    "date": "2026-01-29+21:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "totalSeatCount": 361,
+    "occupancy": 0.0,
+    "adultTicketPrice": 13.1,
     "grossRevenueUSD": 0.0
   }
 ]
