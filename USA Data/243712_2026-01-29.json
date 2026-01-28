@@ -824,11 +824,11 @@
     "date": "2026-01-29+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
+    "totalSeatSold": 14,
     "totalSeatCount": 110,
-    "occupancy": 9.09,
+    "occupancy": 12.73,
     "adultTicketPrice": 14.38,
-    "grossRevenueUSD": 143.8
+    "grossRevenueUSD": 201.32
   },
   {
     "state": "NJ",
@@ -993,11 +993,11 @@
     "date": "2026-01-29+12:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 0,
     "totalSeatCount": 75,
-    "occupancy": 2.67,
+    "occupancy": 0.0,
     "adultTicketPrice": 12.25,
-    "grossRevenueUSD": 24.5
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NJ",
@@ -1112,11 +1112,11 @@
     "date": "2026-01-29+11:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 119,
-    "occupancy": 0.0,
+    "occupancy": 1.68,
     "adultTicketPrice": 13.5,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 27.0
   },
   {
     "state": "NY",
@@ -2402,9 +2402,11 @@
     "date": "2026-01-29+14:40",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "reason": "exception"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 186,
+    "occupancy": 0.0,
+    "adultTicketPrice": 14.54,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "GA",
@@ -2417,9 +2419,11 @@
     "date": "2026-01-29+18:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "reason": "exception"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 186,
+    "occupancy": 0.0,
+    "adultTicketPrice": 18.31,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "GA",
@@ -2432,9 +2436,11 @@
     "date": "2026-01-29+22:20",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "reason": "exception"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 186,
+    "occupancy": 0.0,
+    "adultTicketPrice": 18.31,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "GA",
@@ -3024,11 +3030,11 @@
     "date": "2026-01-29+10:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 3,
     "totalSeatCount": 50,
-    "occupancy": 0.0,
+    "occupancy": 6.0,
     "adultTicketPrice": 12.77,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 38.31
   },
   {
     "state": "FL",
@@ -3447,11 +3453,11 @@
     "date": "2026-01-29+21:50",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
+    "totalSeatSold": 0,
     "totalSeatCount": 47,
-    "occupancy": 12.77,
+    "occupancy": 0.0,
     "adultTicketPrice": 14.83,
-    "grossRevenueUSD": 88.98
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "OH",
@@ -5181,11 +5187,11 @@
     "date": "2026-01-29+18:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
+    "totalSeatSold": 6,
     "totalSeatCount": 126,
-    "occupancy": 3.97,
+    "occupancy": 4.76,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 70.3
+    "grossRevenueUSD": 84.36
   },
   {
     "state": "TX",
@@ -5300,11 +5306,11 @@
     "date": "2026-01-29+21:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 3,
     "totalSeatCount": 74,
-    "occupancy": 0.0,
+    "occupancy": 4.05,
     "adultTicketPrice": 13.53,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 40.59
   },
   {
     "state": "TX",
@@ -6286,11 +6292,11 @@
     "date": "2026-01-29+13:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 93,
-    "occupancy": 0.0,
+    "occupancy": 2.15,
     "adultTicketPrice": 12.39,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 24.78
   },
   {
     "state": "CO",
@@ -7984,11 +7990,11 @@
     "date": "2026-01-29+15:45",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 58,
-    "occupancy": 0.0,
+    "occupancy": 3.45,
     "adultTicketPrice": 11.0,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 22.0
   },
   {
     "state": "CA",
@@ -8494,11 +8500,11 @@
     "date": "2026-01-29+12:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 4,
     "totalSeatCount": 86,
-    "occupancy": 1.16,
+    "occupancy": 4.65,
     "adultTicketPrice": 11.81,
-    "grossRevenueUSD": 11.81
+    "grossRevenueUSD": 47.24
   },
   {
     "state": "WA",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28 11:25:56 PM",
+  "last_updated": "2026-01-28 11:58:01 PM",
   "errors": [
     {
       "state": "NY",
@@ -62,51 +62,6 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153969,
-      "date": "2026-01-29+14:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "exception"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153970,
-      "date": "2026-01-29+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "exception"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153971,
-      "date": "2026-01-29+22:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "exception"
       }
     },
     {
