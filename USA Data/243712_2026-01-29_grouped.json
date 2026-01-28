@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28 07:36:38 AM",
+  "last_updated": "2026-01-28 09:20:21 AM",
   "shows": [
     {
       "state": "MA",
@@ -84,48 +84,6 @@
         }
       ],
       "finalGrossRevenueUSD": 26.0
-    },
-    {
-      "state": "MA",
-      "city": "Marlborough",
-      "zip": "01752",
-      "theater_name": "Regal Solomon Pond",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 284,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "MA",
-      "city": "Marlborough",
-      "zip": "01752",
-      "theater_name": "Regal Solomon Pond",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+18:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 284,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CT",
@@ -227,6 +185,48 @@
           "totalSeatCount": 115,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "MA",
+      "city": "Marlborough",
+      "zip": "01752",
+      "theater_name": "Regal Solomon Pond",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+13:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 284,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "MA",
+      "city": "Marlborough",
+      "zip": "01752",
+      "theater_name": "Regal Solomon Pond",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+18:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 284,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.49,
           "occupancy": 0.0
         }
       ],
@@ -352,7 +352,7 @@
           "totalSeatSold": 0,
           "totalSeatCount": 182,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 11.99,
           "occupancy": 0.0
         }
       ],
@@ -374,6 +374,27 @@
           "totalSeatCount": 46,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+16:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
           "occupancy": 0.0
         }
       ],
@@ -801,90 +822,6 @@
     },
     {
       "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "Cinemark Willowbrook Mall and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+21:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 46,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.86,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "AMC Wayne 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+17:35",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 1,
-          "totalSeatCount": 110,
-          "grossRevenueUSD": 14.38,
-          "adultTicketPrice": 14.38,
-          "occupancy": 0.91
-        }
-      ],
-      "finalGrossRevenueUSD": 14.38
-    },
-    {
-      "state": "NJ",
-      "city": "Wayne",
-      "zip": "07470",
-      "theater_name": "AMC Wayne 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+21:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 11,
-          "totalSeatCount": 110,
-          "grossRevenueUSD": 158.18,
-          "adultTicketPrice": 14.38,
-          "occupancy": 10.0
-        }
-      ],
-      "finalGrossRevenueUSD": 158.18
-    },
-    {
-      "state": "NJ",
-      "city": "Paramus",
-      "zip": "07652",
-      "theater_name": "AMC Garden State 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+19:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 226,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 17.58,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NJ",
       "city": "Clifton",
       "zip": "07014",
       "theater_name": "AMC Clifton Commons 16",
@@ -895,35 +832,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 7,
           "totalSeatCount": 107,
-          "grossRevenueUSD": 132.16,
+          "grossRevenueUSD": 115.64,
           "adultTicketPrice": 16.52,
-          "occupancy": 7.48
+          "occupancy": 6.54
         }
       ],
-      "finalGrossRevenueUSD": 132.16
-    },
-    {
-      "state": "NJ",
-      "city": "Ridgefield Park",
-      "zip": "07660",
-      "theater_name": "AMC Ridgefield Park 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 68,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.92,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 115.64
     },
     {
       "state": "NJ",
@@ -1031,6 +947,111 @@
       "finalGrossRevenueUSD": 46.38
     },
     {
+      "state": "NJ",
+      "city": "Paramus",
+      "zip": "07652",
+      "theater_name": "AMC Garden State 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+19:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 226,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 17.58,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NJ",
+      "city": "Ridgefield Park",
+      "zip": "07660",
+      "theater_name": "AMC Ridgefield Park 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 68,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.92,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "AMC Wayne 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+17:35",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 1,
+          "totalSeatCount": 110,
+          "grossRevenueUSD": 14.38,
+          "adultTicketPrice": 14.38,
+          "occupancy": 0.91
+        }
+      ],
+      "finalGrossRevenueUSD": 14.38
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "AMC Wayne 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+21:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 10,
+          "totalSeatCount": 110,
+          "grossRevenueUSD": 143.8,
+          "adultTicketPrice": 14.38,
+          "occupancy": 9.09
+        }
+      ],
+      "finalGrossRevenueUSD": 143.8
+    },
+    {
+      "state": "NJ",
+      "city": "Wayne",
+      "zip": "07470",
+      "theater_name": "Cinemark Willowbrook Mall and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+21:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 46,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.86,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
       "state": "NY",
       "city": "New York",
       "zip": "10036",
@@ -1071,6 +1092,27 @@
         }
       ],
       "finalGrossRevenueUSD": 30.9
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+20:30",
+      "language": "Unknown",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "NJ",
@@ -1158,6 +1200,27 @@
     },
     {
       "state": "NJ",
+      "city": "Mays Landing",
+      "zip": "08330",
+      "theater_name": "Regal Hamilton Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+21:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 133,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.98,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NJ",
       "city": "Hamilton Township",
       "zip": "08610",
       "theater_name": "Regal Independence Plaza & RPX",
@@ -1220,63 +1283,42 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "NJ",
-      "city": "Mays Landing",
-      "zip": "08330",
-      "theater_name": "Regal Hamilton Commons",
+      "state": "DE",
+      "city": "Wilmington",
+      "zip": "19803",
+      "theater_name": "Regal Brandywine Town Center",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-01-29+21:00",
+      "date": "2026-01-29+20:15",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 133,
+          "totalSeatCount": 52,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.98,
+          "adultTicketPrice": 15.99,
           "occupancy": 0.0
         }
       ],
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "PA",
-      "city": "Center Valley",
-      "zip": "18034",
-      "theater_name": "AMC Center Valley 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+17:30",
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19702",
+      "theater_name": "Regal Peoples Plaza",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:20",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 147,
-          "grossRevenueUSD": 24.98,
-          "adultTicketPrice": 12.49,
-          "occupancy": 1.36
-        }
-      ],
-      "finalGrossRevenueUSD": 24.98
-    },
-    {
-      "state": "NY",
-      "city": "Middletown",
-      "zip": "10940",
-      "theater_name": "Middletown Cinemas",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+20:30",
-      "language": "Unknown",
-      "formats": [
-        {
-          "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 156,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 10.99,
           "occupancy": 0.0
         }
       ],
@@ -1357,14 +1399,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 5,
           "totalSeatCount": 119,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 82.5,
           "adultTicketPrice": 16.5,
-          "occupancy": 0.0
+          "occupancy": 4.2
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 82.5
     },
     {
       "state": "NY",
@@ -1399,14 +1441,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 5,
           "totalSeatCount": 119,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 82.5,
           "adultTicketPrice": 16.5,
-          "occupancy": 0.0
+          "occupancy": 4.2
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 82.5
     },
     {
       "state": "NY",
@@ -1472,27 +1514,6 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "NY",
-      "city": "Buffalo",
-      "zip": "14207",
-      "theater_name": "Regal Elmwood Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 185,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
       "state": "PA",
       "city": "Dickson City",
       "zip": "18519",
@@ -1508,6 +1529,27 @@
           "totalSeatCount": 88,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 8.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14207",
+      "theater_name": "Regal Elmwood Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 185,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.49,
           "occupancy": 0.0
         }
       ],
@@ -1682,48 +1724,6 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "MD",
-      "city": "Owings Mills",
-      "zip": "21117",
-      "theater_name": "AMC Owings Mills 17",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+15:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 9,
-          "totalSeatCount": 65,
-          "grossRevenueUSD": 114.75,
-          "adultTicketPrice": 12.75,
-          "occupancy": 13.85
-        }
-      ],
-      "finalGrossRevenueUSD": 114.75
-    },
-    {
-      "state": "DE",
-      "city": "Wilmington",
-      "zip": "19803",
-      "theater_name": "Regal Brandywine Town Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+20:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 52,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
       "state": "PA",
       "city": "King Of Prussia",
       "zip": "19406",
@@ -1766,46 +1766,25 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "DE",
-      "city": "Newark",
-      "zip": "19702",
-      "theater_name": "Regal Peoples Plaza",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:20",
+      "state": "MD",
+      "city": "Owings Mills",
+      "zip": "21117",
+      "theater_name": "AMC Owings Mills 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+15:00",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 156,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.99,
-          "occupancy": 0.0
+          "totalSeatSold": 9,
+          "totalSeatCount": 65,
+          "grossRevenueUSD": 114.75,
+          "adultTicketPrice": 12.75,
+          "occupancy": 13.85
         }
       ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "PA",
-      "city": "Moosic",
-      "zip": "18507",
-      "theater_name": "Cinemark Montage Mountain 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+20:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 72,
-          "grossRevenueUSD": 21.0,
-          "adultTicketPrice": 10.5,
-          "occupancy": 2.78
-        }
-      ],
-      "finalGrossRevenueUSD": 21.0
+      "finalGrossRevenueUSD": 114.75
     },
     {
       "state": "MD",
@@ -1848,6 +1827,27 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "PA",
+      "city": "Moosic",
+      "zip": "18507",
+      "theater_name": "Cinemark Montage Mountain 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+20:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 72,
+          "grossRevenueUSD": 21.0,
+          "adultTicketPrice": 10.5,
+          "occupancy": 2.78
+        }
+      ],
+      "finalGrossRevenueUSD": 21.0
     },
     {
       "state": "PA",
@@ -1911,6 +1911,27 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22315",
+      "theater_name": "Regal Kingstowne ScreenX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+13:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 1,
+          "totalSeatCount": 144,
+          "grossRevenueUSD": 11.99,
+          "adultTicketPrice": 11.99,
+          "occupancy": 0.69
+        }
+      ],
+      "finalGrossRevenueUSD": 11.99
     },
     {
       "state": "VA",
@@ -2061,24 +2082,24 @@
     },
     {
       "state": "VA",
-      "city": "Alexandria",
-      "zip": "22315",
-      "theater_name": "Regal Kingstowne ScreenX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:00",
+      "city": "Newport News",
+      "zip": "23606",
+      "theater_name": "Cinemark City Center and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+18:40",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
-          "totalSeatCount": 144,
-          "grossRevenueUSD": 11.99,
-          "adultTicketPrice": 11.99,
-          "occupancy": 0.69
+          "totalSeatSold": 0,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.2,
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 11.99
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "VA",
@@ -2166,27 +2187,6 @@
     },
     {
       "state": "VA",
-      "city": "Newport News",
-      "zip": "23606",
-      "theater_name": "Cinemark City Center and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+18:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.2,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "VA",
       "city": "Suffolk",
       "zip": "23435",
       "theater_name": "Regal Harbour View Grande",
@@ -2201,6 +2201,27 @@
           "totalSeatCount": 50,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.54,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "VA",
+      "city": "Virginia Beach",
+      "zip": "23454",
+      "theater_name": "Regal Strawbridge Marketplace",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 61,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.49,
           "occupancy": 0.0
         }
       ],
@@ -2239,35 +2260,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 54,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.99,
           "adultTicketPrice": 11.99,
-          "occupancy": 0.0
+          "occupancy": 1.85
         }
       ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "VA",
-      "city": "Virginia Beach",
-      "zip": "23454",
-      "theater_name": "Regal Strawbridge Marketplace",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+15:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 61,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.99
     },
     {
       "state": "NC",
@@ -2352,6 +2352,48 @@
         }
       ],
       "finalGrossRevenueUSD": 439.93
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27617",
+      "theater_name": "Regal Brier Creek",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:35",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 166,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.33,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27617",
+      "theater_name": "Regal Brier Creek",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+16:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 166,
+          "grossRevenueUSD": 49.32,
+          "adultTicketPrice": 12.33,
+          "occupancy": 2.41
+        }
+      ],
+      "finalGrossRevenueUSD": 49.32
     },
     {
       "state": "NC",
@@ -2457,48 +2499,6 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27617",
-      "theater_name": "Regal Brier Creek",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:35",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 166,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.33,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NC",
-      "city": "Raleigh",
-      "zip": "27617",
-      "theater_name": "Regal Brier Creek",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+16:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 4,
-          "totalSeatCount": 166,
-          "grossRevenueUSD": 49.32,
-          "adultTicketPrice": 12.33,
-          "occupancy": 2.41
-        }
-      ],
-      "finalGrossRevenueUSD": 49.32
     },
     {
       "state": "NC",
@@ -2659,14 +2659,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 6,
           "totalSeatCount": 50,
-          "grossRevenueUSD": 46.28,
+          "grossRevenueUSD": 69.42,
           "adultTicketPrice": 11.57,
-          "occupancy": 8.0
+          "occupancy": 12.0
         }
       ],
-      "finalGrossRevenueUSD": 46.28
+      "finalGrossRevenueUSD": 69.42
     },
     {
       "state": "SC",
@@ -2680,14 +2680,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 303,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 12.06,
           "adultTicketPrice": 12.06,
-          "occupancy": 0.0
+          "occupancy": 0.33
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 12.06
     },
     {
       "state": "SC",
@@ -2747,384 +2747,6 @@
           "totalSeatCount": 71,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.74,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+12:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 44,
-          "grossRevenueUSD": 22.0,
-          "adultTicketPrice": 11.0,
-          "occupancy": 4.55
-        }
-      ],
-      "finalGrossRevenueUSD": 22.0
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+16:25",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 3,
-          "totalSeatCount": 44,
-          "grossRevenueUSD": 33.0,
-          "adultTicketPrice": 11.0,
-          "occupancy": 6.82
-        }
-      ],
-      "finalGrossRevenueUSD": 33.0
-    },
-    {
-      "state": "GA",
-      "city": "Pooler",
-      "zip": "31322",
-      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+20:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 23,
-          "totalSeatCount": 44,
-          "grossRevenueUSD": 322.0,
-          "adultTicketPrice": 14.0,
-          "occupancy": 52.27
-        }
-      ],
-      "finalGrossRevenueUSD": 322.0
-    },
-    {
-      "state": "GA",
-      "city": "Woodstock",
-      "zip": "30189",
-      "theater_name": "Regal Cherokee",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 51,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.71,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+14:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+18:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+22:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Sugarloaf Mills 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+16:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 104,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.36,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30338",
-      "theater_name": "Regal Perimeter Pointe",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+15:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 260,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.06,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Atlanta",
-      "zip": "30338",
-      "theater_name": "Regal Perimeter Pointe",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+18:50",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 7,
-          "totalSeatCount": 260,
-          "grossRevenueUSD": 118.09,
-          "adultTicketPrice": 16.87,
-          "occupancy": 2.69
-        }
-      ],
-      "finalGrossRevenueUSD": 118.09
-    },
-    {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+14:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 251,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.83,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Buford",
-      "zip": "30519",
-      "theater_name": "Regal Mall of Georgia IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+22:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 251,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 18.54,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Lawrenceville",
-      "zip": "30043",
-      "theater_name": "AMC Colonial 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 7,
-          "totalSeatCount": 64,
-          "grossRevenueUSD": 126.07,
-          "adultTicketPrice": 18.01,
-          "occupancy": 10.94
-        }
-      ],
-      "finalGrossRevenueUSD": 126.07
-    },
-    {
-      "state": "GA",
-      "city": "Decatur",
-      "zip": "30033",
-      "theater_name": "AMC North Dekalb 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+17:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 146,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 9.71,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Douglasville",
-      "zip": "30135",
-      "theater_name": "Regal Arbor Place & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 172,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.76,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+14:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 1,
-          "totalSeatCount": 39,
-          "grossRevenueUSD": 12.95,
-          "adultTicketPrice": 12.95,
-          "occupancy": 2.56
-        }
-      ],
-      "finalGrossRevenueUSD": 12.95
-    },
-    {
-      "state": "GA",
-      "city": "Morrow",
-      "zip": "30260",
-      "theater_name": "AMC Southlake 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+18:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 39,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.19,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TN",
-      "city": "Chattanooga",
-      "zip": "37412",
-      "theater_name": "AMC Chattanooga 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+21:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 361,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.1,
           "occupancy": 0.0
         }
       ],
@@ -3195,6 +2817,321 @@
     },
     {
       "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+12:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 44,
+          "grossRevenueUSD": 22.0,
+          "adultTicketPrice": 11.0,
+          "occupancy": 4.55
+        }
+      ],
+      "finalGrossRevenueUSD": 22.0
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+16:25",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 44,
+          "grossRevenueUSD": 33.0,
+          "adultTicketPrice": 11.0,
+          "occupancy": 6.82
+        }
+      ],
+      "finalGrossRevenueUSD": 33.0
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 23,
+          "totalSeatCount": 44,
+          "grossRevenueUSD": 322.0,
+          "adultTicketPrice": 14.0,
+          "occupancy": 52.27
+        }
+      ],
+      "finalGrossRevenueUSD": 322.0
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Colonial 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 7,
+          "totalSeatCount": 64,
+          "grossRevenueUSD": 126.07,
+          "adultTicketPrice": 18.01,
+          "occupancy": 10.94
+        }
+      ],
+      "finalGrossRevenueUSD": 126.07
+    },
+    {
+      "state": "GA",
+      "city": "Buford",
+      "zip": "30519",
+      "theater_name": "Regal Mall of Georgia IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+14:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 251,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.83,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Buford",
+      "zip": "30519",
+      "theater_name": "Regal Mall of Georgia IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+22:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 251,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 18.54,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Lawrenceville",
+      "zip": "30043",
+      "theater_name": "AMC Sugarloaf Mills 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+16:40",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 104,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.36,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+14:40",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+18:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+22:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30338",
+      "theater_name": "Regal Perimeter Pointe",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 260,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.06,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Atlanta",
+      "zip": "30338",
+      "theater_name": "Regal Perimeter Pointe",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+18:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 7,
+          "totalSeatCount": 260,
+          "grossRevenueUSD": 118.09,
+          "adultTicketPrice": 16.87,
+          "occupancy": 2.69
+        }
+      ],
+      "finalGrossRevenueUSD": 118.09
+    },
+    {
+      "state": "GA",
+      "city": "Woodstock",
+      "zip": "30189",
+      "theater_name": "Regal Cherokee",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 51,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.71,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Decatur",
+      "zip": "30033",
+      "theater_name": "AMC North Dekalb 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+17:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 146,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 9.71,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Douglasville",
+      "zip": "30135",
+      "theater_name": "Regal Arbor Place & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+13:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 172,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.76,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
       "city": "Columbus",
       "zip": "31904",
       "theater_name": "AMC Ritz 13",
@@ -3215,46 +3152,46 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "FL",
-      "city": "Gainesville",
-      "zip": "32607",
-      "theater_name": "Regal Royal Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:25",
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+14:00",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
-          "totalSeatCount": 127,
-          "grossRevenueUSD": 90.24,
-          "adultTicketPrice": 11.28,
-          "occupancy": 6.3
+          "totalSeatSold": 1,
+          "totalSeatCount": 39,
+          "grossRevenueUSD": 12.95,
+          "adultTicketPrice": 12.95,
+          "occupancy": 2.56
         }
       ],
-      "finalGrossRevenueUSD": 90.24
+      "finalGrossRevenueUSD": 12.95
     },
     {
-      "state": "FL",
-      "city": "Gainesville",
-      "zip": "32607",
-      "theater_name": "Regal Royal Park",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+17:35",
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+18:00",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
-          "totalSeatCount": 127,
-          "grossRevenueUSD": 116.0,
-          "adultTicketPrice": 14.5,
-          "occupancy": 6.3
+          "totalSeatSold": 0,
+          "totalSeatCount": 39,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.19,
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 116.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "FL",
@@ -3447,6 +3384,48 @@
     },
     {
       "state": "FL",
+      "city": "Gainesville",
+      "zip": "32607",
+      "theater_name": "Regal Royal Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+13:25",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 8,
+          "totalSeatCount": 127,
+          "grossRevenueUSD": 90.24,
+          "adultTicketPrice": 11.28,
+          "occupancy": 6.3
+        }
+      ],
+      "finalGrossRevenueUSD": 90.24
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32607",
+      "theater_name": "Regal Royal Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+17:35",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 8,
+          "totalSeatCount": 127,
+          "grossRevenueUSD": 116.0,
+          "adultTicketPrice": 14.5,
+          "occupancy": 6.3
+        }
+      ],
+      "finalGrossRevenueUSD": 116.0
+    },
+    {
+      "state": "FL",
       "city": "Oviedo",
       "zip": "32765",
       "theater_name": "Regal Oviedo Mall",
@@ -3612,6 +3591,48 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "FL",
+      "city": "Ocala",
+      "zip": "34474",
+      "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 5,
+          "totalSeatCount": 111,
+          "grossRevenueUSD": 53.7,
+          "adultTicketPrice": 10.74,
+          "occupancy": 4.5
+        }
+      ],
+      "finalGrossRevenueUSD": 53.7
+    },
+    {
+      "state": "FL",
+      "city": "Ocala",
+      "zip": "34474",
+      "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+21:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 5,
+          "totalSeatCount": 111,
+          "grossRevenueUSD": 69.8,
+          "adultTicketPrice": 13.96,
+          "occupancy": 4.5
+        }
+      ],
+      "finalGrossRevenueUSD": 69.8
     },
     {
       "state": "FL",
@@ -3784,6 +3805,69 @@
     {
       "state": "FL",
       "city": "Tampa",
+      "zip": "33609",
+      "theater_name": "AMC West Shore 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 88,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.96,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+18:10",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 12,
+          "totalSeatCount": 49,
+          "grossRevenueUSD": 174.0,
+          "adultTicketPrice": 14.5,
+          "occupancy": 24.49
+        }
+      ],
+      "finalGrossRevenueUSD": 174.0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 41,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
       "chainName": "AMC",
@@ -3845,46 +3929,25 @@
       "finalGrossRevenueUSD": 82.98
     },
     {
-      "state": "FL",
-      "city": "Ocala",
-      "zip": "34474",
-      "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+15:20",
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+19:45",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
-          "totalSeatCount": 111,
-          "grossRevenueUSD": 53.7,
-          "adultTicketPrice": 10.74,
-          "occupancy": 4.5
+          "totalSeatSold": 4,
+          "totalSeatCount": 161,
+          "grossRevenueUSD": 59.08,
+          "adultTicketPrice": 14.77,
+          "occupancy": 2.48
         }
       ],
-      "finalGrossRevenueUSD": 53.7
-    },
-    {
-      "state": "FL",
-      "city": "Ocala",
-      "zip": "34474",
-      "theater_name": "Regal Hollywood ScreenX & IMAX - Ocala",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+21:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 5,
-          "totalSeatCount": 111,
-          "grossRevenueUSD": 69.8,
-          "adultTicketPrice": 13.96,
-          "occupancy": 4.5
-        }
-      ],
-      "finalGrossRevenueUSD": 69.8
+      "finalGrossRevenueUSD": 59.08
     },
     {
       "state": "AL",
@@ -3927,27 +3990,6 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "AL",
-      "city": "Hoover",
-      "zip": "35244",
-      "theater_name": "AMC Patton Creek 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+19:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 4,
-          "totalSeatCount": 161,
-          "grossRevenueUSD": 59.08,
-          "adultTicketPrice": 14.77,
-          "occupancy": 2.48
-        }
-      ],
-      "finalGrossRevenueUSD": 59.08
     },
     {
       "state": "AL",
@@ -4287,20 +4329,20 @@
     },
     {
       "state": "OH",
-      "city": "Columbus",
-      "zip": "43219",
-      "theater_name": "AMC Dine-in Easton Town Center 30",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:15",
+      "city": "Pickerington",
+      "zip": "43147",
+      "theater_name": "Marcus Pickerington Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "date": "2026-01-29+14:35",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 27,
+          "totalSeatCount": 63,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.21,
+          "adultTicketPrice": 10.5,
           "occupancy": 0.0
         }
       ],
@@ -4347,6 +4389,27 @@
         }
       ],
       "finalGrossRevenueUSD": 38.0
+    },
+    {
+      "state": "OH",
+      "city": "Columbus",
+      "zip": "43219",
+      "theater_name": "AMC Dine-in Easton Town Center 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 27,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.21,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "OH",
@@ -4427,48 +4490,6 @@
           "totalSeatCount": 50,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "OH",
-      "city": "Pickerington",
-      "zip": "43147",
-      "theater_name": "Marcus Pickerington Cinema",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "date": "2026-01-29+14:35",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 63,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "IN",
-      "city": "Fort Wayne",
-      "zip": "46825",
-      "theater_name": "Regal Coldwater Crossing",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 84,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.99,
           "occupancy": 0.0
         }
       ],
@@ -4623,48 +4644,6 @@
     },
     {
       "state": "OH",
-      "city": "Beavercreek",
-      "zip": "45431",
-      "theater_name": "Regal Fairfield Commons & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+14:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 7,
-          "totalSeatCount": 127,
-          "grossRevenueUSD": 73.43,
-          "adultTicketPrice": 10.49,
-          "occupancy": 5.51
-        }
-      ],
-      "finalGrossRevenueUSD": 73.43
-    },
-    {
-      "state": "OH",
-      "city": "Beavercreek",
-      "zip": "45431",
-      "theater_name": "Regal Fairfield Commons & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+21:25",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 7,
-          "totalSeatCount": 127,
-          "grossRevenueUSD": 94.43,
-          "adultTicketPrice": 13.49,
-          "occupancy": 5.51
-        }
-      ],
-      "finalGrossRevenueUSD": 94.43
-    },
-    {
-      "state": "OH",
       "city": "Mason",
       "zip": "45040",
       "theater_name": "Regal Deerfield Town Center & RPX",
@@ -4742,6 +4721,69 @@
           "totalSeatCount": 63,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 9.75,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "OH",
+      "city": "Beavercreek",
+      "zip": "45431",
+      "theater_name": "Regal Fairfield Commons & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+14:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 7,
+          "totalSeatCount": 127,
+          "grossRevenueUSD": 73.43,
+          "adultTicketPrice": 10.49,
+          "occupancy": 5.51
+        }
+      ],
+      "finalGrossRevenueUSD": 73.43
+    },
+    {
+      "state": "OH",
+      "city": "Beavercreek",
+      "zip": "45431",
+      "theater_name": "Regal Fairfield Commons & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+21:25",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 7,
+          "totalSeatCount": 127,
+          "grossRevenueUSD": 94.43,
+          "adultTicketPrice": 13.49,
+          "occupancy": 5.51
+        }
+      ],
+      "finalGrossRevenueUSD": 94.43
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 84,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.99,
           "occupancy": 0.0
         }
       ],
@@ -4896,48 +4938,6 @@
     },
     {
       "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+14:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 145,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.39,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "IN",
-      "city": "Schererville",
-      "zip": "46375",
-      "theater_name": "AMC Schererville 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+18:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 145,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "IN",
       "city": "South Bend",
       "zip": "46614",
       "theater_name": "AMC CLASSIC South Bend 16",
@@ -5000,6 +5000,48 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
+      "state": "IN",
+      "city": "Schererville",
+      "zip": "46375",
+      "theater_name": "AMC Schererville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+14:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 145,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.39,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "IN",
+      "city": "Schererville",
+      "zip": "46375",
+      "theater_name": "AMC Schererville 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+18:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 145,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
       "state": "IL",
       "city": "Chicago",
       "zip": "60611",
@@ -5011,14 +5053,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 15,
+          "totalSeatSold": 17,
           "totalSeatCount": 101,
-          "grossRevenueUSD": 277.05,
+          "grossRevenueUSD": 313.99,
           "adultTicketPrice": 18.47,
-          "occupancy": 14.85
+          "occupancy": 16.83
         }
       ],
-      "finalGrossRevenueUSD": 277.05
+      "finalGrossRevenueUSD": 313.99
     },
     {
       "state": "MI",
@@ -5169,27 +5211,6 @@
     },
     {
       "state": "IA",
-      "city": "Ames",
-      "zip": "50010",
-      "theater_name": "Cinemark Ames Movies 12",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+12:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 89,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 8.83,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "IA",
       "city": "West Des Moines",
       "zip": "50266",
       "theater_name": "Cinemark Century Jordan Creek 20 and XD",
@@ -5221,10 +5242,52 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 4,
           "totalSeatCount": 52,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 48.16,
           "adultTicketPrice": 12.04,
+          "occupancy": 7.69
+        }
+      ],
+      "finalGrossRevenueUSD": 48.16
+    },
+    {
+      "state": "IA",
+      "city": "Ames",
+      "zip": "50010",
+      "theater_name": "Cinemark Ames Movies 12",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+12:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 89,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 8.83,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "SD",
+      "city": "Sioux Falls",
+      "zip": "57106",
+      "theater_name": "Cinemark Century Sioux Falls 14 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+19:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 94,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 9.38,
           "occupancy": 0.0
         }
       ],
@@ -5316,27 +5379,6 @@
     },
     {
       "state": "WI",
-      "city": "Wauwatosa",
-      "zip": "53226",
-      "theater_name": "AMC Mayfair Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+18:50",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 283,
-          "grossRevenueUSD": 27.52,
-          "adultTicketPrice": 13.76,
-          "occupancy": 0.71
-        }
-      ],
-      "finalGrossRevenueUSD": 27.52
-    },
-    {
-      "state": "WI",
       "city": "New Berlin",
       "zip": "53151",
       "theater_name": "Marcus Ridge Cinema",
@@ -5355,27 +5397,6 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "WI",
-      "city": "Fitchburg",
-      "zip": "53719",
-      "theater_name": "AMC Fitchburg 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+14:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 3,
-          "totalSeatCount": 82,
-          "grossRevenueUSD": 31.62,
-          "adultTicketPrice": 10.54,
-          "occupancy": 3.66
-        }
-      ],
-      "finalGrossRevenueUSD": 31.62
     },
     {
       "state": "IL",
@@ -5418,69 +5439,6 @@
         }
       ],
       "finalGrossRevenueUSD": 17.16
-    },
-    {
-      "state": "SD",
-      "city": "Sioux Falls",
-      "zip": "57106",
-      "theater_name": "Cinemark Century Sioux Falls 14 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+19:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 94,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 9.38,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "MN",
-      "city": "Coon Rapids",
-      "zip": "55433",
-      "theater_name": "AMC Coon Rapids 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+15:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 1,
-          "totalSeatCount": 61,
-          "grossRevenueUSD": 12.1,
-          "adultTicketPrice": 12.1,
-          "occupancy": 1.64
-        }
-      ],
-      "finalGrossRevenueUSD": 12.1
-    },
-    {
-      "state": "MN",
-      "city": "Eden Prairie",
-      "zip": "55344",
-      "theater_name": "AMC Eden Prairie Mall 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 80,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.64,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "IL",
@@ -5588,25 +5546,46 @@
       "finalGrossRevenueUSD": 153.7
     },
     {
-      "state": "IL",
-      "city": "Schaumburg",
-      "zip": "60173",
-      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "state": "MN",
+      "city": "Coon Rapids",
+      "zip": "55433",
+      "theater_name": "AMC Coon Rapids 16",
       "chainName": "AMC",
       "chainCode": "AMC",
-      "date": "2026-01-29+19:45",
+      "date": "2026-01-29+15:30",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
-          "totalSeatCount": 89,
-          "grossRevenueUSD": 109.55,
-          "adultTicketPrice": 15.65,
-          "occupancy": 7.87
+          "totalSeatSold": 1,
+          "totalSeatCount": 61,
+          "grossRevenueUSD": 12.1,
+          "adultTicketPrice": 12.1,
+          "occupancy": 1.64
         }
       ],
-      "finalGrossRevenueUSD": 109.55
+      "finalGrossRevenueUSD": 12.1
+    },
+    {
+      "state": "MN",
+      "city": "Eden Prairie",
+      "zip": "55344",
+      "theater_name": "AMC Eden Prairie Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 1,
+          "totalSeatCount": 80,
+          "grossRevenueUSD": 14.64,
+          "adultTicketPrice": 14.64,
+          "occupancy": 1.25
+        }
+      ],
+      "finalGrossRevenueUSD": 14.64
     },
     {
       "state": "IL",
@@ -5736,27 +5715,6 @@
     },
     {
       "state": "IL",
-      "city": "Bolingbrook",
-      "zip": "60440",
-      "theater_name": "Regal Bolingbrook",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+16:10",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 83,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.41,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "IL",
       "city": "Naperville",
       "zip": "60564",
       "theater_name": "AMC Naperville 16",
@@ -5792,6 +5750,27 @@
           "totalSeatCount": 189,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "IL",
+      "city": "Bolingbrook",
+      "zip": "60440",
+      "theater_name": "Regal Bolingbrook",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+16:10",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 83,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.41,
           "occupancy": 0.0
         }
       ],
@@ -5967,27 +5946,6 @@
     },
     {
       "state": "KS",
-      "city": "Olathe",
-      "zip": "66062",
-      "theater_name": "AMC DINE-IN Studio 28",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+13:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 90,
-          "grossRevenueUSD": 19.24,
-          "adultTicketPrice": 9.62,
-          "occupancy": 2.22
-        }
-      ],
-      "finalGrossRevenueUSD": 19.24
-    },
-    {
-      "state": "KS",
       "city": "Kansas City",
       "zip": "66111",
       "theater_name": "AMC Legends 14",
@@ -6006,6 +5964,27 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "KS",
+      "city": "Olathe",
+      "zip": "66062",
+      "theater_name": "AMC DINE-IN Studio 28",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+13:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 90,
+          "grossRevenueUSD": 19.24,
+          "adultTicketPrice": 9.62,
+          "occupancy": 2.22
+        }
+      ],
+      "finalGrossRevenueUSD": 19.24
     },
     {
       "state": "MO",
@@ -6177,27 +6156,6 @@
     },
     {
       "state": "LA",
-      "city": "Lake Charles",
-      "zip": "70601",
-      "theater_name": "Cinemark Lake Charles and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+19:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 117,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.24,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "LA",
       "city": "Shreveport",
       "zip": "71105",
       "theater_name": "Cinemark Shreveport South Tinseltown and XD",
@@ -6216,6 +6174,27 @@
         }
       ],
       "finalGrossRevenueUSD": 12.6
+    },
+    {
+      "state": "LA",
+      "city": "Lake Charles",
+      "zip": "70601",
+      "theater_name": "Cinemark Lake Charles and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+19:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 117,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.24,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "AR",
@@ -6296,216 +6275,6 @@
           "totalSeatCount": 102,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 10.32,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC DINE-IN Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+14:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 87,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC DINE-IN Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+18:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 3,
-          "totalSeatCount": 126,
-          "grossRevenueUSD": 42.18,
-          "adultTicketPrice": 14.06,
-          "occupancy": 2.38
-        }
-      ],
-      "finalGrossRevenueUSD": 42.18
-    },
-    {
-      "state": "TX",
-      "city": "Frisco",
-      "zip": "75034",
-      "theater_name": "AMC DINE-IN Stonebriar 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+22:10",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 4,
-          "totalSeatCount": 87,
-          "grossRevenueUSD": 56.24,
-          "adultTicketPrice": 14.06,
-          "occupancy": 4.6
-        }
-      ],
-      "finalGrossRevenueUSD": 56.24
-    },
-    {
-      "state": "TX",
-      "city": "The Colony",
-      "zip": "75056",
-      "theater_name": "Galaxy Grandscape",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "date": "2026-01-29+21:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 92,
-          "grossRevenueUSD": 27.0,
-          "adultTicketPrice": 13.5,
-          "occupancy": 2.17
-        }
-      ],
-      "finalGrossRevenueUSD": 27.0
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+10:50",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 148,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.37,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+15:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 148,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.37,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Plano",
-      "zip": "75093",
-      "theater_name": "Cinemark West Plano and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+19:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 148,
-          "grossRevenueUSD": 28.14,
-          "adultTicketPrice": 14.07,
-          "occupancy": 1.35
-        }
-      ],
-      "finalGrossRevenueUSD": 28.14
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+13:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.37,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+17:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.37,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Allen",
-      "zip": "75013",
-      "theater_name": "Cinemark Allen 16 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+21:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.53,
           "occupancy": 0.0
         }
       ],
@@ -6618,6 +6387,69 @@
     },
     {
       "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+14:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 87,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+18:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 126,
+          "grossRevenueUSD": 42.18,
+          "adultTicketPrice": 14.06,
+          "occupancy": 2.38
+        }
+      ],
+      "finalGrossRevenueUSD": 42.18
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+22:10",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 87,
+          "grossRevenueUSD": 56.24,
+          "adultTicketPrice": 14.06,
+          "occupancy": 4.6
+        }
+      ],
+      "finalGrossRevenueUSD": 56.24
+    },
+    {
+      "state": "TX",
       "city": "Plano",
       "zip": "75075",
       "theater_name": "Cinemark Central Plano",
@@ -6678,6 +6510,153 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+13:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.37,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+17:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.37,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Allen",
+      "zip": "75013",
+      "theater_name": "Cinemark Allen 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+21:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.53,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+10:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 148,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.37,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+15:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 148,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.37,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+19:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 148,
+          "grossRevenueUSD": 28.14,
+          "adultTicketPrice": 14.07,
+          "occupancy": 1.35
+        }
+      ],
+      "finalGrossRevenueUSD": 28.14
+    },
+    {
+      "state": "TX",
+      "city": "The Colony",
+      "zip": "75056",
+      "theater_name": "Galaxy Grandscape",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "date": "2026-01-29+21:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 92,
+          "grossRevenueUSD": 27.0,
+          "adultTicketPrice": 13.5,
+          "occupancy": 2.17
+        }
+      ],
+      "finalGrossRevenueUSD": 27.0
     },
     {
       "state": "TX",
@@ -6807,6 +6786,132 @@
     },
     {
       "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+14:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 70,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.37,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+18:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 70,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.07,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+22:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 70,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 14.07,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+14:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 8.66,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+18:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.83,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+21:25",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 1,
+          "totalSeatCount": 45,
+          "grossRevenueUSD": 10.83,
+          "adultTicketPrice": 10.83,
+          "occupancy": 2.22
+        }
+      ],
+      "finalGrossRevenueUSD": 10.83
+    },
+    {
+      "state": "TX",
       "city": "Grand Prairie",
       "zip": "75052",
       "theater_name": "Cinemark Grand Prairie",
@@ -6884,174 +6989,6 @@
           "totalSeatCount": 118,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 7.04,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75234",
-      "theater_name": "Cinemark Dallas XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+14:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 70,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.37,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75234",
-      "theater_name": "Cinemark Dallas XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+18:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 70,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.07,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Dallas",
-      "zip": "75234",
-      "theater_name": "Cinemark Dallas XD and IMAX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+22:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 70,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.07,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "AMC Grapevine Mills 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 111,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.81,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "Cinemark Tinseltown Grapevine and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+14:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 69,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 8.66,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "Cinemark Tinseltown Grapevine and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+18:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 69,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.83,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Grapevine",
-      "zip": "76051",
-      "theater_name": "Cinemark Tinseltown Grapevine and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+21:25",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 1,
-          "totalSeatCount": 45,
-          "grossRevenueUSD": 10.83,
-          "adultTicketPrice": 10.83,
-          "occupancy": 2.22
-        }
-      ],
-      "finalGrossRevenueUSD": 10.83
-    },
-    {
-      "state": "TX",
-      "city": "Pasadena",
-      "zip": "77503",
-      "theater_name": "Cinemark Hollywood Pasadena and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+21:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 49,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.01,
           "occupancy": 0.0
         }
       ],
@@ -7174,10 +7111,31 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 88,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 24.88,
           "adultTicketPrice": 12.44,
+          "occupancy": 2.27
+        }
+      ],
+      "finalGrossRevenueUSD": 24.88
+    },
+    {
+      "state": "TX",
+      "city": "Pasadena",
+      "zip": "77503",
+      "theater_name": "Cinemark Hollywood Pasadena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+21:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 49,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.01,
           "occupancy": 0.0
         }
       ],
@@ -7363,14 +7321,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 99,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 22.5,
           "adultTicketPrice": 11.25,
-          "occupancy": 0.0
+          "occupancy": 2.02
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 22.5
     },
     {
       "state": "TX",
@@ -7388,90 +7346,6 @@
           "totalSeatCount": 99,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.06,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Tomball",
-      "zip": "77375",
-      "theater_name": "Regal Lone Star IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+11:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.98,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Tomball",
-      "zip": "77375",
-      "theater_name": "Regal Lone Star IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+22:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 55,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.23,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Spring",
-      "zip": "77386",
-      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 186,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.98,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "TX",
-      "city": "Spring",
-      "zip": "77386",
-      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+20:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 168,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.23,
           "occupancy": 0.0
         }
       ],
@@ -7521,45 +7395,87 @@
     },
     {
       "state": "TX",
-      "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
+      "city": "Spring",
+      "zip": "77386",
+      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-01-29+15:10",
+      "date": "2026-01-29+13:55",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
-          "totalSeatCount": 116,
-          "grossRevenueUSD": 71.4,
-          "adultTicketPrice": 11.9,
-          "occupancy": 5.17
+          "totalSeatSold": 0,
+          "totalSeatCount": 186,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.98,
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 71.4
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TX",
-      "city": "San Antonio",
-      "zip": "78238",
-      "theater_name": "Regal Cielo Vista & RPX",
+      "city": "Spring",
+      "zip": "77386",
+      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-01-29+19:30",
+      "date": "2026-01-29+20:05",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
-          "totalSeatCount": 116,
-          "grossRevenueUSD": 87.6,
-          "adultTicketPrice": 14.6,
-          "occupancy": 5.17
+          "totalSeatSold": 0,
+          "totalSeatCount": 168,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.23,
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 87.6
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Tomball",
+      "zip": "77375",
+      "theater_name": "Regal Lone Star IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+11:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.98,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Tomball",
+      "zip": "77375",
+      "theater_name": "Regal Lone Star IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+22:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 55,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.23,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -7602,6 +7518,48 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78238",
+      "theater_name": "Regal Cielo Vista & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:10",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 6,
+          "totalSeatCount": 116,
+          "grossRevenueUSD": 71.4,
+          "adultTicketPrice": 11.9,
+          "occupancy": 5.17
+        }
+      ],
+      "finalGrossRevenueUSD": 71.4
+    },
+    {
+      "state": "TX",
+      "city": "San Antonio",
+      "zip": "78238",
+      "theater_name": "Regal Cielo Vista & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+19:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 6,
+          "totalSeatCount": 116,
+          "grossRevenueUSD": 87.6,
+          "adultTicketPrice": 14.6,
+          "occupancy": 5.17
+        }
+      ],
+      "finalGrossRevenueUSD": 87.6
     },
     {
       "state": "TX",
@@ -7668,24 +7626,24 @@
     },
     {
       "state": "TX",
-      "city": "Austin",
-      "zip": "78748",
-      "theater_name": "Cinemark Southpark Meadows",
+      "city": "Bee Cave",
+      "zip": "78738",
+      "theater_name": "Cinemark Hill Country Galleria",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "date": "2026-01-29+20:15",
+      "date": "2026-01-29+19:10",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 45,
-          "grossRevenueUSD": 0.0,
+          "totalSeatSold": 6,
+          "totalSeatCount": 49,
+          "grossRevenueUSD": 77.94,
           "adultTicketPrice": 12.99,
-          "occupancy": 0.0
+          "occupancy": 12.24
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 77.94
     },
     {
       "state": "TX",
@@ -7731,24 +7689,24 @@
     },
     {
       "state": "TX",
-      "city": "Bee Cave",
-      "zip": "78738",
-      "theater_name": "Cinemark Hill Country Galleria",
+      "city": "Austin",
+      "zip": "78748",
+      "theater_name": "Cinemark Southpark Meadows",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "date": "2026-01-29+19:10",
+      "date": "2026-01-29+20:15",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
-          "totalSeatCount": 49,
-          "grossRevenueUSD": 77.94,
+          "totalSeatSold": 0,
+          "totalSeatCount": 45,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 12.99,
-          "occupancy": 12.24
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 77.94
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -7962,6 +7920,27 @@
     },
     {
       "state": "AZ",
+      "city": "Glendale",
+      "zip": "85305",
+      "theater_name": "AMC Westgate 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+15:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 123,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 9.6,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "AZ",
       "city": "Phoenix",
       "zip": "85027",
       "theater_name": "AMC Deer Valley 17",
@@ -7972,14 +7951,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 163,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 10.46,
           "adultTicketPrice": 10.46,
-          "occupancy": 0.0
+          "occupancy": 0.61
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 10.46
     },
     {
       "state": "AZ",
@@ -8025,24 +8004,45 @@
     },
     {
       "state": "AZ",
-      "city": "Glendale",
-      "zip": "85305",
-      "theater_name": "AMC Westgate 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+15:30",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "date": "2026-01-29+12:25",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 123,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 9.6,
-          "occupancy": 0.0
+          "totalSeatSold": 2,
+          "totalSeatCount": 98,
+          "grossRevenueUSD": 21.5,
+          "adultTicketPrice": 10.75,
+          "occupancy": 2.04
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 21.5
+    },
+    {
+      "state": "AZ",
+      "city": "Mesa",
+      "zip": "85201",
+      "theater_name": "Cinemark Mesa 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+15:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 18.42,
+          "adultTicketPrice": 9.21,
+          "occupancy": 2.7
+        }
+      ],
+      "finalGrossRevenueUSD": 18.42
     },
     {
       "state": "AZ",
@@ -8088,27 +8088,6 @@
     },
     {
       "state": "AZ",
-      "city": "Tempe",
-      "zip": "85281",
-      "theater_name": "Harkins Tempe Marketplace 16",
-      "chainName": "Harkins Theatres",
-      "chainCode": "HRKN",
-      "date": "2026-01-29+12:25",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 98,
-          "grossRevenueUSD": 21.5,
-          "adultTicketPrice": 10.75,
-          "occupancy": 2.04
-        }
-      ],
-      "finalGrossRevenueUSD": 21.5
-    },
-    {
-      "state": "AZ",
       "city": "Gilbert",
       "zip": "85296",
       "theater_name": "Regal Gilbert",
@@ -8151,27 +8130,6 @@
     },
     {
       "state": "AZ",
-      "city": "Mesa",
-      "zip": "85201",
-      "theater_name": "Cinemark Mesa 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+15:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 18.42,
-          "adultTicketPrice": 9.21,
-          "occupancy": 2.7
-        }
-      ],
-      "finalGrossRevenueUSD": 18.42
-    },
-    {
-      "state": "AZ",
       "city": "Tucson",
       "zip": "85716",
       "theater_name": "Cinemark Century El Con 20 and XD",
@@ -8186,6 +8144,27 @@
           "totalSeatCount": 79,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.69,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NV",
+      "city": "Las Vegas",
+      "zip": "89103",
+      "theater_name": "Cinemark Century Orleans 18 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+12:40",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 71,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 9.75,
           "occupancy": 0.0
         }
       ],
@@ -8424,6 +8403,27 @@
     },
     {
       "state": "CA",
+      "city": "Eastvale",
+      "zip": "91752",
+      "theater_name": "Regal Edwards Eastvale Gateway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+21:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
       "city": "Ontario",
       "zip": "91764",
       "theater_name": "AMC DINE-IN Ontario Mills 30",
@@ -8476,35 +8476,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 6,
           "totalSeatCount": 44,
-          "grossRevenueUSD": 33.98,
+          "grossRevenueUSD": 101.94,
           "adultTicketPrice": 16.99,
-          "occupancy": 4.55
+          "occupancy": 13.64
         }
       ],
-      "finalGrossRevenueUSD": 33.98
-    },
-    {
-      "state": "CA",
-      "city": "Eastvale",
-      "zip": "91752",
-      "theater_name": "Regal Edwards Eastvale Gateway",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+21:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 101.94
     },
     {
       "state": "CA",
@@ -8676,6 +8655,27 @@
     },
     {
       "state": "CA",
+      "city": "Fresno",
+      "zip": "93726",
+      "theater_name": "Regal Manchester - Fresno",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+11:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 75,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
       "city": "Clovis",
       "zip": "93612",
       "theater_name": "Sierra Vista Cinemas 16",
@@ -8686,14 +8686,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 9,
           "totalSeatCount": 86,
-          "grossRevenueUSD": 124.0,
+          "grossRevenueUSD": 139.5,
           "adultTicketPrice": 15.5,
-          "occupancy": 9.3
+          "occupancy": 10.47
         }
       ],
-      "finalGrossRevenueUSD": 124.0
+      "finalGrossRevenueUSD": 139.5
     },
     {
       "state": "CA",
@@ -8736,27 +8736,6 @@
         }
       ],
       "finalGrossRevenueUSD": 93.0
-    },
-    {
-      "state": "CA",
-      "city": "Fresno",
-      "zip": "93726",
-      "theater_name": "Regal Manchester - Fresno",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+11:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 75,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CA",
@@ -8858,615 +8837,6 @@
           "totalSeatCount": 153,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+11:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+15:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Mountain View",
-      "zip": "94043",
-      "theater_name": "Cinemark Century Mountain View 16",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+20:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Sunnyvale",
-      "zip": "94086",
-      "theater_name": "AMC Sunnyvale 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+16:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 4,
-          "totalSeatCount": 92,
-          "grossRevenueUSD": 71.96,
-          "adultTicketPrice": 17.99,
-          "occupancy": 4.35
-        }
-      ],
-      "finalGrossRevenueUSD": 71.96
-    },
-    {
-      "state": "CA",
-      "city": "Sunnyvale",
-      "zip": "94086",
-      "theater_name": "AMC Sunnyvale 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 5,
-          "totalSeatCount": 92,
-          "grossRevenueUSD": 89.95,
-          "adultTicketPrice": 17.99,
-          "occupancy": 5.43
-        }
-      ],
-      "finalGrossRevenueUSD": 89.95
-    },
-    {
-      "state": "CA",
-      "city": "Sunnyvale",
-      "zip": "94086",
-      "theater_name": "AMC Sunnyvale 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+21:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 92,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 17.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Santa Clara",
-      "zip": "95054",
-      "theater_name": "AMC Mercado 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+21:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 114,
-          "grossRevenueUSD": 34.98,
-          "adultTicketPrice": 17.49,
-          "occupancy": 1.75
-        }
-      ],
-      "finalGrossRevenueUSD": 34.98
-    },
-    {
-      "state": "CA",
-      "city": "Santa Clara",
-      "zip": "95054",
-      "theater_name": "AMC Mercado 20",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+21:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 95,
-          "grossRevenueUSD": 34.98,
-          "adultTicketPrice": 17.49,
-          "occupancy": 2.11
-        }
-      ],
-      "finalGrossRevenueUSD": 34.98
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+11:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 115,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+15:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 115,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cinemark Century at Pacific Commons and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+19:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 115,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+12:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 62,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+13:05",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 123,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+17:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 123,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Milpitas",
-      "zip": "95035",
-      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+21:35",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 123,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+14:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 47,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Redwood City",
-      "zip": "94063",
-      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+20:55",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 47,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+14:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "premium large format",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+17:50",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "premium large format",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.75,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+21:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "premium large format",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.75,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+12:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 84,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 7.95,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+16:25",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 84,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Fremont",
-      "zip": "94538",
-      "theater_name": "Cin\u00e9 Lounge Fremont 7",
-      "chainName": "RTSIND",
-      "chainCode": "RTSIND",
-      "date": "2026-01-29+20:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 4,
-          "totalSeatCount": 84,
-          "grossRevenueUSD": 51.0,
-          "adultTicketPrice": 12.75,
-          "occupancy": 4.76
-        }
-      ],
-      "finalGrossRevenueUSD": 51.0
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+11:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+15:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Union City",
-      "zip": "94587",
-      "theater_name": "Cinemark Century Union Landing 25 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+20:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 105,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.25,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+11:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 181,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+15:50",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 181,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 17.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+20:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 181,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 17.99,
           "occupancy": 0.0
         }
       ],
@@ -9621,6 +8991,615 @@
     },
     {
       "state": "CA",
+      "city": "Redwood City",
+      "zip": "94063",
+      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+14:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 47,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Redwood City",
+      "zip": "94063",
+      "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+20:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 47,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+11:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+15:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+20:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+11:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+15:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+20:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+14:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "premium large format",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+17:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "premium large format",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.75,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+21:40",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "premium large format",
+          "totalSeatSold": 0,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.75,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+12:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 84,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 7.95,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+16:25",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 84,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-01-29+20:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 84,
+          "grossRevenueUSD": 51.0,
+          "adultTicketPrice": 12.75,
+          "occupancy": 4.76
+        }
+      ],
+      "finalGrossRevenueUSD": 51.0
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+16:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 92,
+          "grossRevenueUSD": 71.96,
+          "adultTicketPrice": 17.99,
+          "occupancy": 4.35
+        }
+      ],
+      "finalGrossRevenueUSD": 71.96
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 5,
+          "totalSeatCount": 92,
+          "grossRevenueUSD": 89.95,
+          "adultTicketPrice": 17.99,
+          "occupancy": 5.43
+        }
+      ],
+      "finalGrossRevenueUSD": 89.95
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+21:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 92,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 17.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+21:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 114,
+          "grossRevenueUSD": 34.98,
+          "adultTicketPrice": 17.49,
+          "occupancy": 1.75
+        }
+      ],
+      "finalGrossRevenueUSD": 34.98
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+21:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 95,
+          "grossRevenueUSD": 34.98,
+          "adultTicketPrice": 17.49,
+          "occupancy": 2.11
+        }
+      ],
+      "finalGrossRevenueUSD": 34.98
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+12:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 62,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+13:05",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 123,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+17:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 123,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+21:35",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 123,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+11:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 115,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+15:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 115,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-01-29+19:55",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 115,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.25,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+11:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 181,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 181,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 17.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+20:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 181,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 17.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
       "city": "Richmond",
       "zip": "94806",
       "theater_name": "Cinemark Century Hilltop 16",
@@ -9768,48 +9747,6 @@
     },
     {
       "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "date": "2026-01-29+13:30",
-      "language": "Unknown",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 66,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Santa Rosa",
-      "zip": "95404",
-      "theater_name": "Roxy Stadium 14",
-      "chainName": "SR Entertainment Group",
-      "chainCode": "SREG",
-      "date": "2026-01-29+19:00",
-      "language": "Unknown",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 66,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
       "city": "Tracy",
       "zip": "95376",
       "theater_name": "Cinemark Tracy 14",
@@ -9873,69 +9810,6 @@
     },
     {
       "state": "CA",
-      "city": "Manteca",
-      "zip": "95337",
-      "theater_name": "AMC Manteca 16",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:15",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 166,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Modesto",
-      "zip": "95354",
-      "theater_name": "Brenden Modesto 18 & JBX",
-      "chainName": "Brenden Theatres",
-      "chainCode": "BRND",
-      "date": "2026-01-29+17:00",
-      "language": "Unknown",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 3,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 23.25,
-          "adultTicketPrice": 7.75,
-          "occupancy": 6.25
-        }
-      ],
-      "finalGrossRevenueUSD": 23.25
-    },
-    {
-      "state": "CA",
-      "city": "Modesto",
-      "zip": "95354",
-      "theater_name": "Brenden Modesto 18 & JBX",
-      "chainName": "Brenden Theatres",
-      "chainCode": "BRND",
-      "date": "2026-01-29+21:00",
-      "language": "Unknown",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 3,
-          "totalSeatCount": 48,
-          "grossRevenueUSD": 50.25,
-          "adultTicketPrice": 16.75,
-          "occupancy": 6.25
-        }
-      ],
-      "finalGrossRevenueUSD": 50.25
-    },
-    {
-      "state": "CA",
       "city": "Stockton",
       "zip": "95202",
       "theater_name": "Regal Stockton City Center & IMAX",
@@ -9950,6 +9824,27 @@
           "totalSeatCount": 68,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 12.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Manteca",
+      "zip": "95337",
+      "theater_name": "AMC Manteca 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 166,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 13.49,
           "occupancy": 0.0
         }
       ],
@@ -10038,6 +9933,216 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95832",
+      "theater_name": "Regal Delta Shores & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 92,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95832",
+      "theater_name": "Regal Delta Shores & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+13:20",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 91,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95832",
+      "theater_name": "Regal Delta Shores & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+18:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 74,
+          "grossRevenueUSD": 31.98,
+          "adultTicketPrice": 15.99,
+          "occupancy": 2.7
+        }
+      ],
+      "finalGrossRevenueUSD": 31.98
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95832",
+      "theater_name": "Regal Delta Shores & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+22:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 115,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95834",
+      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:40",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 229,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Sacramento",
+      "zip": "95834",
+      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+15:35",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 148,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 11.99,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Santa Rosa",
+      "zip": "95404",
+      "theater_name": "Roxy Stadium 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "date": "2026-01-29+13:30",
+      "language": "Unknown",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 66,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 12.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Santa Rosa",
+      "zip": "95404",
+      "theater_name": "Roxy Stadium 14",
+      "chainName": "SR Entertainment Group",
+      "chainCode": "SREG",
+      "date": "2026-01-29+19:00",
+      "language": "Unknown",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 66,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Modesto",
+      "zip": "95354",
+      "theater_name": "Brenden Modesto 18 & JBX",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "date": "2026-01-29+17:00",
+      "language": "Unknown",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 23.25,
+          "adultTicketPrice": 7.75,
+          "occupancy": 6.25
+        }
+      ],
+      "finalGrossRevenueUSD": 23.25
+    },
+    {
+      "state": "CA",
+      "city": "Modesto",
+      "zip": "95354",
+      "theater_name": "Brenden Modesto 18 & JBX",
+      "chainName": "Brenden Theatres",
+      "chainCode": "BRND",
+      "date": "2026-01-29+21:00",
+      "language": "Unknown",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 48,
+          "grossRevenueUSD": 50.25,
+          "adultTicketPrice": 16.75,
+          "occupancy": 6.25
+        }
+      ],
+      "finalGrossRevenueUSD": 50.25
     },
     {
       "state": "CA",
@@ -10188,132 +10293,6 @@
     },
     {
       "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 92,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+13:20",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 91,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 12.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+18:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 2,
-          "totalSeatCount": 74,
-          "grossRevenueUSD": 31.98,
-          "adultTicketPrice": 15.99,
-          "occupancy": 2.7
-        }
-      ],
-      "finalGrossRevenueUSD": 31.98
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95832",
-      "theater_name": "Regal Delta Shores & IMAX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+22:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 115,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 15.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95834",
-      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 229,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
-      "city": "Sacramento",
-      "zip": "95834",
-      "theater_name": "Regal Natomas Marketplace ScreenX, 4DX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+15:35",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 148,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 11.99,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "CA",
       "city": "Yuba City",
       "zip": "95993",
       "theater_name": "Cinemark Yuba City",
@@ -10377,27 +10356,6 @@
     },
     {
       "state": "OR",
-      "city": "Hillsboro",
-      "zip": "97123",
-      "theater_name": "Regal Movies On TV",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "date": "2026-01-29+12:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 106,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 10.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "OR",
       "city": "Beaverton",
       "zip": "97005",
       "theater_name": "Cinemark Cedar Hills 16",
@@ -10454,6 +10412,27 @@
           "totalSeatCount": 76,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.5,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "OR",
+      "city": "Hillsboro",
+      "zip": "97123",
+      "theater_name": "Regal Movies On TV",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-01-29+12:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 106,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.49,
           "occupancy": 0.0
         }
       ],
@@ -10755,27 +10734,6 @@
     },
     {
       "state": "WA",
-      "city": "Monroe",
-      "zip": "98272",
-      "theater_name": "Galaxy Monroe",
-      "chainName": "Galaxy Theatres",
-      "chainCode": "GLXY",
-      "date": "2026-01-29+20:00",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "WA",
       "city": "Everett",
       "zip": "98208",
       "theater_name": "Regal Everett Stadium 16 & RPX",
@@ -10796,126 +10754,21 @@
       "finalGrossRevenueUSD": 0.0
     },
     {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+16:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 70,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NY",
-      "city": "West Nyack",
-      "zip": "10994",
-      "theater_name": "AMC Palisades Center 21",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:45",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 70,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 16.49,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33609",
-      "theater_name": "AMC West Shore 14",
-      "chainName": "AMC",
-      "chainCode": "AMC",
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
       "date": "2026-01-29+20:00",
       "language": "Hindi",
       "formats": [
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 88,
+          "totalSeatCount": 0,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 13.96,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33634",
-      "theater_name": "AMC Veterans 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+18:10",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 12,
-          "totalSeatCount": 49,
-          "grossRevenueUSD": 174.0,
-          "adultTicketPrice": 14.5,
-          "occupancy": 24.49
-        }
-      ],
-      "finalGrossRevenueUSD": 174.0
-    },
-    {
-      "state": "FL",
-      "city": "Tampa",
-      "zip": "33634",
-      "theater_name": "AMC Veterans 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "date": "2026-01-29+20:30",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 41,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 14.5,
-          "occupancy": 0.0
-        }
-      ],
-      "finalGrossRevenueUSD": 0.0
-    },
-    {
-      "state": "NV",
-      "city": "Las Vegas",
-      "zip": "89103",
-      "theater_name": "Cinemark Century Orleans 18 and XD",
-      "chainName": "Cinemark Theatres",
-      "chainCode": "CNMK",
-      "date": "2026-01-29+12:40",
-      "language": "Hindi",
-      "formats": [
-        {
-          "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 71,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 9.75,
+          "adultTicketPrice": 0,
           "occupancy": 0.0
         }
       ],

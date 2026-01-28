@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-01-28 09:06:38 PM",
+  "last_updated": "2026-01-28 10:50:21 PM",
   "errors": [
     {
       "state": "NY",
-      "city": "Port Chester",
-      "zip": "10573",
-      "theater_name": "AMC Port Chester 14",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": null,
-      "date": "2026-01-29+15:00",
+      "date": "2026-01-29+16:45",
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "404, message='HTTP 404', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=None'"
+        "reason": "missing_showtime_id"
       }
     },
     {
@@ -29,56 +28,8 @@
       "format": "Standard",
       "language": "Unknown",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=533124396'"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153969,
-      "date": "2026-01-29+14:40",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "attempts": 4,
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153970,
-      "date": "2026-01-29+18:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "attempts": 4,
-        "exception": ""
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 533153971,
-      "date": "2026-01-29+22:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "attempts": 4,
-        "exception": ""
+        "reason": "invalid_showtime",
+        "status": 400
       }
     },
     {
@@ -93,8 +44,8 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532843945'"
+        "reason": "invalid_showtime",
+        "status": 400
       }
     },
     {
@@ -109,8 +60,53 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532843944'"
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153969,
+      "date": "2026-01-29+14:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "exception"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153970,
+      "date": "2026-01-29+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "exception"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153971,
+      "date": "2026-01-29+22:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "exception"
       }
     },
     {
@@ -125,8 +121,8 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532825917'"
+        "reason": "invalid_showtime",
+        "status": 400
       }
     },
     {
@@ -141,8 +137,8 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532700107'"
+        "reason": "invalid_showtime",
+        "status": 400
       }
     },
     {
@@ -157,8 +153,8 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532622142'"
+        "reason": "invalid_showtime",
+        "status": 400
       }
     },
     {
@@ -173,8 +169,7 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": ""
+        "reason": "exception"
       }
     },
     {
@@ -189,8 +184,8 @@
       "format": "Standard",
       "language": "Hindi",
       "error": {
-        "attempts": 4,
-        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532740427'"
+        "reason": "invalid_showtime",
+        "status": 400
       }
     }
   ]
