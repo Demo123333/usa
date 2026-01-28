@@ -450,11 +450,11 @@
     "date": "2026-01-29+21:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 109,
-    "occupancy": 0.0,
+    "occupancy": 1.83,
     "adultTicketPrice": 17.05,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 34.1
   },
   {
     "state": "NJ",
@@ -807,11 +807,11 @@
     "date": "2026-01-29+17:35",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 4,
     "totalSeatCount": 110,
-    "occupancy": 0.91,
+    "occupancy": 3.64,
     "adultTicketPrice": 14.38,
-    "grossRevenueUSD": 14.38
+    "grossRevenueUSD": 57.52
   },
   {
     "state": "NJ",
@@ -875,11 +875,11 @@
     "date": "2026-01-29+16:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 5,
+    "totalSeatSold": 2,
     "totalSeatCount": 146,
-    "occupancy": 3.42,
+    "occupancy": 1.37,
     "adultTicketPrice": 15.45,
-    "grossRevenueUSD": 77.25
+    "grossRevenueUSD": 30.9
   },
   {
     "state": "NY",
@@ -2180,7 +2180,7 @@
     "chainName": "Regal",
     "chainCode": "REGL",
     "showtime_id": 532282866,
-    "date": "2026-01-29+12:30",
+    "date": "2026-01-29+14:35",
     "format": "Standard",
     "language": "Hindi",
     "totalSeatSold": 0,
@@ -3098,11 +3098,11 @@
     "date": "2026-01-29+18:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 12,
+    "totalSeatSold": 14,
     "totalSeatCount": 49,
-    "occupancy": 24.49,
+    "occupancy": 28.57,
     "adultTicketPrice": 14.5,
-    "grossRevenueUSD": 174.0
+    "grossRevenueUSD": 203.0
   },
   {
     "state": "FL",
@@ -3793,11 +3793,11 @@
     "date": "2026-01-29+21:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 2,
     "totalSeatCount": 104,
-    "occupancy": 0.96,
+    "occupancy": 1.92,
     "adultTicketPrice": 13.99,
-    "grossRevenueUSD": 13.99
+    "grossRevenueUSD": 27.98
   },
   {
     "state": "OH",
@@ -4473,11 +4473,11 @@
     "date": "2026-01-29+19:10",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
+    "totalSeatSold": 12,
     "totalSeatCount": 75,
-    "occupancy": 13.33,
+    "occupancy": 16.0,
     "adultTicketPrice": 15.37,
-    "grossRevenueUSD": 153.7
+    "grossRevenueUSD": 184.44
   },
   {
     "state": "MN",
@@ -4915,11 +4915,11 @@
     "date": "2026-01-29+12:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 60,
-    "occupancy": 0.0,
+    "occupancy": 3.33,
     "adultTicketPrice": 12.06,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 24.12
   },
   {
     "state": "LA",
@@ -4983,11 +4983,11 @@
     "date": "2026-01-29+20:05",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 1,
+    "totalSeatSold": 4,
     "totalSeatCount": 60,
-    "occupancy": 1.67,
+    "occupancy": 6.67,
     "adultTicketPrice": 12.6,
-    "grossRevenueUSD": 12.6
+    "grossRevenueUSD": 50.4
   },
   {
     "state": "LA",
@@ -5969,11 +5969,11 @@
     "date": "2026-01-29+20:35",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
+    "totalSeatSold": 3,
     "totalSeatCount": 73,
-    "occupancy": 0.0,
+    "occupancy": 4.11,
     "adultTicketPrice": 12.98,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 38.94
   },
   {
     "state": "TX",
@@ -6292,11 +6292,11 @@
     "date": "2026-01-29+13:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 0,
     "totalSeatCount": 93,
-    "occupancy": 2.15,
+    "occupancy": 0.0,
     "adultTicketPrice": 12.39,
-    "grossRevenueUSD": 24.78
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "CO",
@@ -7038,11 +7038,11 @@
     "date": "2026-01-29+16:15",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 10,
+    "totalSeatSold": 13,
     "totalSeatCount": 86,
-    "occupancy": 11.63,
+    "occupancy": 15.12,
     "adultTicketPrice": 15.5,
-    "grossRevenueUSD": 155.0
+    "grossRevenueUSD": 201.5
   },
   {
     "state": "CA",
@@ -8861,5 +8861,22 @@
     "occupancy": 0.0,
     "adultTicketPrice": 13.1,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "IL",
+    "city": "Schaumburg",
+    "zip": "60173",
+    "theater_name": "AMC Loews Streets Of Woodfield 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 532646599,
+    "date": "2026-01-29+19:45",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 7,
+    "totalSeatCount": 89,
+    "occupancy": 7.87,
+    "adultTicketPrice": 15.65,
+    "grossRevenueUSD": 109.55
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28 11:01:25 AM",
+  "last_updated": "2026-01-28 11:34:09 AM",
   "shows": [
     {
       "state": "MA",
@@ -559,14 +559,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 109,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 34.1,
           "adultTicketPrice": 17.05,
-          "occupancy": 0.0
+          "occupancy": 1.83
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 34.1
     },
     {
       "state": "NJ",
@@ -1000,14 +1000,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 4,
           "totalSeatCount": 110,
-          "grossRevenueUSD": 14.38,
+          "grossRevenueUSD": 57.52,
           "adultTicketPrice": 14.38,
-          "occupancy": 0.91
+          "occupancy": 3.64
         }
       ],
-      "finalGrossRevenueUSD": 14.38
+      "finalGrossRevenueUSD": 57.52
     },
     {
       "state": "NJ",
@@ -1084,14 +1084,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 2,
           "totalSeatCount": 146,
-          "grossRevenueUSD": 77.25,
+          "grossRevenueUSD": 30.9,
           "adultTicketPrice": 15.45,
-          "occupancy": 3.42
+          "occupancy": 1.37
         }
       ],
-      "finalGrossRevenueUSD": 77.25
+      "finalGrossRevenueUSD": 30.9
     },
     {
       "state": "NY",
@@ -2696,7 +2696,7 @@
       "theater_name": "Regal Azalea Square & RPX",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-01-29+12:30",
+      "date": "2026-01-29+14:35",
       "language": "Hindi",
       "formats": [
         {
@@ -3835,14 +3835,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 12,
+          "totalSeatSold": 14,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 174.0,
+          "grossRevenueUSD": 203.0,
           "adultTicketPrice": 14.5,
-          "occupancy": 24.49
+          "occupancy": 28.57
         }
       ],
-      "finalGrossRevenueUSD": 174.0
+      "finalGrossRevenueUSD": 203.0
     },
     {
       "state": "FL",
@@ -4696,14 +4696,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 2,
           "totalSeatCount": 104,
-          "grossRevenueUSD": 13.99,
+          "grossRevenueUSD": 27.98,
           "adultTicketPrice": 13.99,
-          "occupancy": 0.96
+          "occupancy": 1.92
         }
       ],
-      "finalGrossRevenueUSD": 13.99
+      "finalGrossRevenueUSD": 27.98
     },
     {
       "state": "OH",
@@ -5536,14 +5536,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 12,
           "totalSeatCount": 75,
-          "grossRevenueUSD": 153.7,
+          "grossRevenueUSD": 184.44,
           "adultTicketPrice": 15.37,
-          "occupancy": 13.33
+          "occupancy": 16.0
         }
       ],
-      "finalGrossRevenueUSD": 153.7
+      "finalGrossRevenueUSD": 184.44
     },
     {
       "state": "MN",
@@ -6082,14 +6082,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 60,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 24.12,
           "adultTicketPrice": 12.06,
-          "occupancy": 0.0
+          "occupancy": 3.33
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 24.12
     },
     {
       "state": "LA",
@@ -6166,14 +6166,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 4,
           "totalSeatCount": 60,
-          "grossRevenueUSD": 12.6,
+          "grossRevenueUSD": 50.4,
           "adultTicketPrice": 12.6,
-          "occupancy": 1.67
+          "occupancy": 6.67
         }
       ],
-      "finalGrossRevenueUSD": 12.6
+      "finalGrossRevenueUSD": 50.4
     },
     {
       "state": "LA",
@@ -7384,14 +7384,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 73,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 38.94,
           "adultTicketPrice": 12.98,
-          "occupancy": 0.0
+          "occupancy": 4.11
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 38.94
     },
     {
       "state": "TX",
@@ -7783,14 +7783,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 0,
           "totalSeatCount": 93,
-          "grossRevenueUSD": 24.78,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 12.39,
-          "occupancy": 2.15
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 24.78
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CO",
@@ -8707,14 +8707,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 13,
           "totalSeatCount": 86,
-          "grossRevenueUSD": 155.0,
+          "grossRevenueUSD": 201.5,
           "adultTicketPrice": 15.5,
-          "occupancy": 11.63
+          "occupancy": 15.12
         }
       ],
-      "finalGrossRevenueUSD": 155.0
+      "finalGrossRevenueUSD": 201.5
     },
     {
       "state": "CA",
@@ -10941,6 +10941,27 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "IL",
+      "city": "Schaumburg",
+      "zip": "60173",
+      "theater_name": "AMC Loews Streets Of Woodfield 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+19:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 7,
+          "totalSeatCount": 89,
+          "grossRevenueUSD": 109.55,
+          "adultTicketPrice": 15.65,
+          "occupancy": 7.87
+        }
+      ],
+      "finalGrossRevenueUSD": 109.55
     }
   ]
 }
