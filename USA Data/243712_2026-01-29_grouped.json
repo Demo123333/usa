@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-28 09:20:21 AM",
+  "last_updated": "2026-01-28 09:55:56 AM",
   "shows": [
     {
       "state": "MA",
@@ -118,14 +118,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 105,
-          "grossRevenueUSD": 13.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.0,
-          "occupancy": 0.95
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 13.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CT",
@@ -392,7 +392,7 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 70,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 0,
           "occupancy": 0.0
@@ -832,14 +832,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 6,
           "totalSeatCount": 107,
-          "grossRevenueUSD": 115.64,
+          "grossRevenueUSD": 99.12,
           "adultTicketPrice": 16.52,
-          "occupancy": 6.54
+          "occupancy": 5.61
         }
       ],
-      "finalGrossRevenueUSD": 115.64
+      "finalGrossRevenueUSD": 99.12
     },
     {
       "state": "NJ",
@@ -1042,14 +1042,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 46,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 27.72,
           "adultTicketPrice": 13.86,
-          "occupancy": 0.0
+          "occupancy": 4.35
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 27.72
     },
     {
       "state": "NY",
@@ -1231,14 +1231,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 75,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 24.5,
           "adultTicketPrice": 12.25,
-          "occupancy": 0.0
+          "occupancy": 2.67
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 24.5
     },
     {
       "state": "NJ",
@@ -1441,14 +1441,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 6,
           "totalSeatCount": 119,
-          "grossRevenueUSD": 82.5,
+          "grossRevenueUSD": 99.0,
           "adultTicketPrice": 16.5,
-          "occupancy": 4.2
+          "occupancy": 5.04
         }
       ],
-      "finalGrossRevenueUSD": 82.5
+      "finalGrossRevenueUSD": 99.0
     },
     {
       "state": "NY",
@@ -1630,14 +1630,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 59,
-          "grossRevenueUSD": 36.0,
+          "grossRevenueUSD": 60.0,
           "adultTicketPrice": 12.0,
-          "occupancy": 5.08
+          "occupancy": 8.47
         }
       ],
-      "finalGrossRevenueUSD": 36.0
+      "finalGrossRevenueUSD": 60.0
     },
     {
       "state": "PA",
@@ -2260,14 +2260,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 54,
-          "grossRevenueUSD": 11.99,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 11.99,
-          "occupancy": 1.85
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 11.99
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "NC",
@@ -3058,14 +3058,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 3,
           "totalSeatCount": 260,
-          "grossRevenueUSD": 118.09,
+          "grossRevenueUSD": 50.61,
           "adultTicketPrice": 16.87,
-          "occupancy": 2.69
+          "occupancy": 1.15
         }
       ],
-      "finalGrossRevenueUSD": 118.09
+      "finalGrossRevenueUSD": 50.61
     },
     {
       "state": "GA",
@@ -3100,14 +3100,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 146,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 9.71,
           "adultTicketPrice": 9.71,
-          "occupancy": 0.0
+          "occupancy": 0.68
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 9.71
     },
     {
       "state": "GA",
@@ -4192,14 +4192,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 41,
-          "grossRevenueUSD": 20.68,
+          "grossRevenueUSD": 41.36,
           "adultTicketPrice": 10.34,
-          "occupancy": 4.88
+          "occupancy": 9.76
         }
       ],
-      "finalGrossRevenueUSD": 20.68
+      "finalGrossRevenueUSD": 41.36
     },
     {
       "state": "KY",
@@ -4276,14 +4276,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 6,
           "totalSeatCount": 47,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 88.98,
           "adultTicketPrice": 14.83,
-          "occupancy": 0.0
+          "occupancy": 12.77
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 88.98
     },
     {
       "state": "OH",
@@ -6418,14 +6418,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 126,
-          "grossRevenueUSD": 42.18,
+          "grossRevenueUSD": 70.3,
           "adultTicketPrice": 14.06,
-          "occupancy": 2.38
+          "occupancy": 3.97
         }
       ],
-      "finalGrossRevenueUSD": 42.18
+      "finalGrossRevenueUSD": 70.3
     },
     {
       "state": "TX",
@@ -9274,14 +9274,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 9,
           "totalSeatCount": 84,
-          "grossRevenueUSD": 51.0,
+          "grossRevenueUSD": 114.75,
           "adultTicketPrice": 12.75,
-          "occupancy": 4.76
+          "occupancy": 10.71
         }
       ],
-      "finalGrossRevenueUSD": 51.0
+      "finalGrossRevenueUSD": 114.75
     },
     {
       "state": "CA",
@@ -10769,6 +10769,111 @@
           "totalSeatCount": 0,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "NY",
+      "city": "West Nyack",
+      "zip": "10994",
+      "theater_name": "AMC Palisades Center 21",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:45",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 70,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 16.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "PA",
+      "city": "Center Valley",
+      "zip": "18034",
+      "theater_name": "AMC Center Valley 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+17:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 147,
+          "grossRevenueUSD": 24.98,
+          "adultTicketPrice": 12.49,
+          "occupancy": 1.36
+        }
+      ],
+      "finalGrossRevenueUSD": 24.98
+    },
+    {
+      "state": "WI",
+      "city": "Wauwatosa",
+      "zip": "53226",
+      "theater_name": "AMC Mayfair Mall 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+18:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 283,
+          "grossRevenueUSD": 27.52,
+          "adultTicketPrice": 13.76,
+          "occupancy": 0.71
+        }
+      ],
+      "finalGrossRevenueUSD": 27.52
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+14:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 82,
+          "grossRevenueUSD": 31.62,
+          "adultTicketPrice": 10.54,
+          "occupancy": 3.66
+        }
+      ],
+      "finalGrossRevenueUSD": 31.62
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "AMC Grapevine Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-29+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 111,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.81,
           "occupancy": 0.0
         }
       ],
