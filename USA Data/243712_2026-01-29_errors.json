@@ -1,0 +1,197 @@
+{
+  "last_updated": "2026-01-28 09:06:38 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Port Chester",
+      "zip": "10573",
+      "theater_name": "AMC Port Chester 14",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-29+15:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "404, message='HTTP 404', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=None'"
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 533124396,
+      "date": "2026-01-29+20:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=533124396'"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153969,
+      "date": "2026-01-29+14:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153970,
+      "date": "2026-01-29+18:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Duluth",
+      "zip": "30097",
+      "theater_name": "Regal Medlock Crossing & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 533153971,
+      "date": "2026-01-29+22:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": ""
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532843945,
+      "date": "2026-01-29+12:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532843945'"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532843944,
+      "date": "2026-01-29+16:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532843944'"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Orange Beach",
+      "zip": "36561",
+      "theater_name": "AMC CLASSIC Wharf 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532825917,
+      "date": "2026-01-29+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532825917'"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532700107,
+      "date": "2026-01-29+20:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532700107'"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532622142,
+      "date": "2026-01-29+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532622142'"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Eastvale",
+      "zip": "91752",
+      "theater_name": "Regal Edwards Eastvale Gateway",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532898753,
+      "date": "2026-01-29+21:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": ""
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Monroe",
+      "zip": "98272",
+      "theater_name": "Galaxy Monroe",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 532740427,
+      "date": "2026-01-29+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "attempts": 4,
+        "exception": "400, message='HTTP 400', url='https://usashowtime.boxoffice24.workers.dev/?showtimeId=532740427'"
+      }
+    }
+  ]
+}
