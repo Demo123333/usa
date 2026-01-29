@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29 04:36:17 AM",
+  "last_updated": "2026-01-29 05:55:23 AM",
   "shows": [
     {
       "state": "MA",
@@ -1420,14 +1420,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 8,
           "totalSeatCount": 119,
-          "grossRevenueUSD": 82.5,
+          "grossRevenueUSD": 132.0,
           "adultTicketPrice": 16.5,
-          "occupancy": 4.2
+          "occupancy": 6.72
         }
       ],
-      "finalGrossRevenueUSD": 82.5
+      "finalGrossRevenueUSD": 132.0
     },
     {
       "state": "NY",
@@ -2617,14 +2617,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 8,
           "totalSeatCount": 70,
-          "grossRevenueUSD": 102.9,
+          "grossRevenueUSD": 137.2,
           "adultTicketPrice": 17.15,
-          "occupancy": 8.57
+          "occupancy": 11.43
         }
       ],
-      "finalGrossRevenueUSD": 102.9
+      "finalGrossRevenueUSD": 137.2
     },
     {
       "state": "NC",
@@ -4255,14 +4255,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 11,
           "totalSeatCount": 47,
-          "grossRevenueUSD": 104.85,
+          "grossRevenueUSD": 128.15,
           "adultTicketPrice": 11.65,
-          "occupancy": 19.15
+          "occupancy": 23.4
         }
       ],
-      "finalGrossRevenueUSD": 104.85
+      "finalGrossRevenueUSD": 128.15
     },
     {
       "state": "KY",
@@ -8476,14 +8476,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 10,
           "totalSeatCount": 44,
-          "grossRevenueUSD": 101.94,
+          "grossRevenueUSD": 169.9,
           "adultTicketPrice": 16.99,
-          "occupancy": 13.64
+          "occupancy": 22.73
         }
       ],
-      "finalGrossRevenueUSD": 101.94
+      "finalGrossRevenueUSD": 169.9
     },
     {
       "state": "CA",
