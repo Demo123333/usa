@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29 02:29:35 AM",
+  "last_updated": "2026-01-29 03:05:38 AM",
   "shows": [
     {
       "state": "MA",
@@ -1210,14 +1210,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 133,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.98,
           "adultTicketPrice": 15.98,
-          "occupancy": 0.0
+          "occupancy": 0.75
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.98
     },
     {
       "state": "NJ",
@@ -1756,14 +1756,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 2,
           "totalSeatCount": 205,
-          "grossRevenueUSD": 40.47,
+          "grossRevenueUSD": 26.98,
           "adultTicketPrice": 13.49,
-          "occupancy": 1.46
+          "occupancy": 0.98
         }
       ],
-      "finalGrossRevenueUSD": 40.47
+      "finalGrossRevenueUSD": 26.98
     },
     {
       "state": "MD",
@@ -2680,14 +2680,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 1,
           "totalSeatCount": 303,
-          "grossRevenueUSD": 24.12,
+          "grossRevenueUSD": 12.06,
           "adultTicketPrice": 12.06,
-          "occupancy": 0.66
+          "occupancy": 0.33
         }
       ],
-      "finalGrossRevenueUSD": 24.12
+      "finalGrossRevenueUSD": 12.06
     },
     {
       "state": "SC",
@@ -5578,14 +5578,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 10,
           "totalSeatCount": 80,
-          "grossRevenueUSD": 131.76,
+          "grossRevenueUSD": 146.4,
           "adultTicketPrice": 14.64,
-          "occupancy": 11.25
+          "occupancy": 12.5
         }
       ],
-      "finalGrossRevenueUSD": 131.76
+      "finalGrossRevenueUSD": 146.4
     },
     {
       "state": "IL",
