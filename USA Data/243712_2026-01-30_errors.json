@@ -1,0 +1,206 @@
+{
+  "last_updated": "2026-01-30 02:05:34 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 533124226,
+      "date": "2026-01-30+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532934926,
+      "date": "2026-01-30+20:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532957907,
+      "date": "2026-01-30+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532957906,
+      "date": "2026-01-30+21:40",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Montgomery",
+      "zip": "36116",
+      "theater_name": "AMC Festival Plaza 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532717291,
+      "date": "2026-01-30+20:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532881418,
+      "date": "2026-01-30+14:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Huntsville",
+      "zip": "35802",
+      "theater_name": "AMC Valley Bend 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532611260,
+      "date": "2026-01-30+21:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532622188,
+      "date": "2026-01-30+19:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Highlands Ranch",
+      "zip": "80129",
+      "theater_name": "AMC Highlands Ranch 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533053641,
+      "date": "2026-01-30+12:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Highlands Ranch",
+      "zip": "80129",
+      "theater_name": "AMC Highlands Ranch 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533053652,
+      "date": "2026-01-30+18:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "San Jose",
+      "zip": "95122",
+      "theater_name": "AMC Eastridge 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532777870,
+      "date": "2026-01-30+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063601,
+      "date": "2026-01-30+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063592,
+      "date": "2026-01-30+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    }
+  ]
+}
