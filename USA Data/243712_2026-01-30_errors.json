@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 04:48:26 AM",
+  "last_updated": "2026-01-31 05:16:20 AM",
   "errors": [
     {
       "state": "NY",
@@ -110,22 +110,6 @@
       "language": "Hindi",
       "error": {
         "reason": "missing_showtime_id"
-      }
-    },
-    {
-      "state": "IL",
-      "city": "South Barrington",
-      "zip": "60010",
-      "theater_name": "AMC South Barrington 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 533301643,
-      "date": "2026-01-30+21:30",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "retry_exhausted",
-        "attempts": 4
       }
     }
   ]
