@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30 03:01:13 AM",
+  "last_updated": "2026-01-30 03:34:50 AM",
   "shows": [
     {
       "state": "MA",
@@ -454,14 +454,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 58,
+          "totalSeatSold": 56,
           "totalSeatCount": 110,
-          "grossRevenueUSD": 834.04,
+          "grossRevenueUSD": 805.28,
           "adultTicketPrice": 14.38,
-          "occupancy": 52.73
+          "occupancy": 50.91
         }
       ],
-      "finalGrossRevenueUSD": 834.04
+      "finalGrossRevenueUSD": 805.28
     },
     {
       "state": "NJ",
@@ -1462,14 +1462,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 0,
           "totalSeatCount": 141,
-          "grossRevenueUSD": 80.94,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 13.49,
-          "occupancy": 4.26
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 80.94
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "PA",
@@ -8308,14 +8308,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 11,
           "totalSeatCount": 48,
-          "grossRevenueUSD": 115.0,
+          "grossRevenueUSD": 126.5,
           "adultTicketPrice": 11.5,
-          "occupancy": 20.83
+          "occupancy": 22.92
         }
       ],
-      "finalGrossRevenueUSD": 115.0
+      "finalGrossRevenueUSD": 126.5
     },
     {
       "state": "CA",
@@ -9001,14 +9001,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 15,
+          "totalSeatSold": 17,
           "totalSeatCount": 73,
-          "grossRevenueUSD": 228.45,
+          "grossRevenueUSD": 258.91,
           "adultTicketPrice": 15.23,
-          "occupancy": 20.55
+          "occupancy": 23.29
         }
       ],
-      "finalGrossRevenueUSD": 228.45
+      "finalGrossRevenueUSD": 258.91
     },
     {
       "state": "WA",
