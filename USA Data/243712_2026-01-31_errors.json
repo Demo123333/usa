@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 07:49:57 PM",
+  "last_updated": "2026-01-31 08:19:13 PM",
   "errors": [
     {
       "state": "NY",
@@ -15,21 +15,6 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
-      }
-    },
-    {
-      "state": "VA",
-      "city": "Suffolk",
-      "zip": "23435",
-      "theater_name": "Regal Harbour View Grande",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 532802729,
-      "date": "2026-01-31+12:20",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "exception"
       }
     },
     {
