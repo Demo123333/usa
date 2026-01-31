@@ -1806,9 +1806,11 @@
     "date": "2026-01-31+20:35",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 7,
+    "totalSeatCount": 215,
+    "occupancy": 3.26,
+    "adultTicketPrice": 14.16,
+    "grossRevenueUSD": 99.12
   },
   {
     "state": "TN",
@@ -2210,9 +2212,11 @@
     "date": "2026-01-31+20:05",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 469,
+    "occupancy": 0.0,
+    "adultTicketPrice": 14.77,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "AL",
@@ -2904,11 +2908,11 @@
     "date": "2026-01-31+20:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
+    "totalSeatSold": 12,
     "totalSeatCount": 52,
-    "occupancy": 19.23,
+    "occupancy": 23.08,
     "adultTicketPrice": 13.99,
-    "grossRevenueUSD": 139.9
+    "grossRevenueUSD": 167.88
   },
   {
     "state": "OH",
@@ -4740,11 +4744,11 @@
     "date": "2026-01-31+18:05",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 6,
+    "totalSeatSold": 10,
     "totalSeatCount": 187,
-    "occupancy": 3.21,
+    "occupancy": 5.35,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 84.36
+    "grossRevenueUSD": 140.6
   },
   {
     "state": "TX",
@@ -4927,11 +4931,11 @@
     "date": "2026-01-31+20:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
+    "totalSeatSold": 8,
     "totalSeatCount": 134,
-    "occupancy": 6.72,
+    "occupancy": 5.97,
     "adultTicketPrice": 15.16,
-    "grossRevenueUSD": 136.44
+    "grossRevenueUSD": 121.28
   },
   {
     "state": "TX",
@@ -4944,11 +4948,11 @@
     "date": "2026-01-31+15:55",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
+    "totalSeatSold": 12,
     "totalSeatCount": 92,
-    "occupancy": 8.7,
+    "occupancy": 13.04,
     "adultTicketPrice": 12.44,
-    "grossRevenueUSD": 99.52
+    "grossRevenueUSD": 149.28
   },
   {
     "state": "TX",
@@ -5947,11 +5951,11 @@
     "date": "2026-01-31+16:30",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 44,
+    "totalSeatSold": 49,
     "totalSeatCount": 88,
-    "occupancy": 50.0,
+    "occupancy": 55.68,
     "adultTicketPrice": 15.5,
-    "grossRevenueUSD": 682.0
+    "grossRevenueUSD": 759.5
   },
   {
     "state": "CA",
@@ -6457,11 +6461,11 @@
     "date": "2026-01-31+21:35",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 21,
+    "totalSeatSold": 29,
     "totalSeatCount": 104,
-    "occupancy": 20.19,
+    "occupancy": 27.88,
     "adultTicketPrice": 17.99,
-    "grossRevenueUSD": 377.79
+    "grossRevenueUSD": 521.71
   },
   {
     "state": "CA",
@@ -6814,11 +6818,11 @@
     "date": "2026-01-31+13:40",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
+    "totalSeatSold": 5,
     "totalSeatCount": 119,
-    "occupancy": 1.68,
+    "occupancy": 4.2,
     "adultTicketPrice": 12.49,
-    "grossRevenueUSD": 24.98
+    "grossRevenueUSD": 62.45
   },
   {
     "state": "CA",
@@ -7429,5 +7433,136 @@
       "reason": "invalid_showtime",
       "status": 400
     }
+  },
+  {
+    "state": "GA",
+    "city": "Morrow",
+    "zip": "30260",
+    "theater_name": "AMC Southlake 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533333253,
+    "date": "2026-01-31+18:15",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "totalSeatCount": 39,
+    "occupancy": 0.0,
+    "adultTicketPrice": 16.19,
+    "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "GA",
+    "city": "Morrow",
+    "zip": "30260",
+    "theater_name": "AMC Southlake 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 532958365,
+    "date": "2026-01-31+20:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 21,
+    "totalSeatCount": 40,
+    "occupancy": 52.5,
+    "adultTicketPrice": 16.19,
+    "grossRevenueUSD": 339.99
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "AMC Grapevine Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533107333,
+    "date": "2026-01-31+19:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "reason": "retry_exhausted",
+      "attempts": 4
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "AMC Grapevine Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533324546,
+    "date": "2026-01-31+20:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 8,
+    "totalSeatCount": 52,
+    "occupancy": 15.38,
+    "adultTicketPrice": 12.98,
+    "grossRevenueUSD": 103.84
+  },
+  {
+    "state": "CA",
+    "city": "Ontario",
+    "zip": "91764",
+    "theater_name": "AMC DINE-IN Ontario Mills 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533145631,
+    "date": "2026-01-31+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "reason": "invalid_seat_count"
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Ontario",
+    "zip": "91764",
+    "theater_name": "AMC DINE-IN Ontario Mills 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 533145636,
+    "date": "2026-01-31+21:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "reason": "invalid_seat_count"
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 532977809,
+    "date": "2026-01-31+14:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 39,
+    "totalSeatCount": 106,
+    "occupancy": 36.79,
+    "adultTicketPrice": 13.99,
+    "grossRevenueUSD": 545.61
+  },
+  {
+    "state": "CA",
+    "city": "Santa Clara",
+    "zip": "95054",
+    "theater_name": "AMC Mercado 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 532977791,
+    "date": "2026-01-31+21:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 15,
+    "totalSeatCount": 114,
+    "occupancy": 13.16,
+    "adultTicketPrice": 17.49,
+    "grossRevenueUSD": 262.35
   }
 ]

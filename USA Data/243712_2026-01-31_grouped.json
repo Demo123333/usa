@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 12:20:24 AM",
+  "last_updated": "2026-01-31 12:53:33 AM",
   "shows": [
     {
       "state": "MA",
@@ -2219,7 +2219,7 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 39,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 0,
           "occupancy": 0.0
@@ -2239,14 +2239,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 7,
+          "totalSeatCount": 215,
+          "grossRevenueUSD": 99.12,
+          "adultTicketPrice": 14.16,
+          "occupancy": 3.26
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 99.12
     },
     {
       "state": "TN",
@@ -2744,9 +2744,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 469,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 14.77,
           "occupancy": 0.0
         }
       ],
@@ -3604,14 +3604,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 12,
           "totalSeatCount": 52,
-          "grossRevenueUSD": 139.9,
+          "grossRevenueUSD": 167.88,
           "adultTicketPrice": 13.99,
-          "occupancy": 19.23
+          "occupancy": 23.08
         }
       ],
-      "finalGrossRevenueUSD": 139.9
+      "finalGrossRevenueUSD": 167.88
     },
     {
       "state": "OH",
@@ -5872,14 +5872,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 10,
           "totalSeatCount": 187,
-          "grossRevenueUSD": 84.36,
+          "grossRevenueUSD": 140.6,
           "adultTicketPrice": 14.06,
-          "occupancy": 3.21
+          "occupancy": 5.35
         }
       ],
-      "finalGrossRevenueUSD": 84.36
+      "finalGrossRevenueUSD": 140.6
     },
     {
       "state": "TX",
@@ -6103,14 +6103,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 8,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 136.44,
+          "grossRevenueUSD": 121.28,
           "adultTicketPrice": 15.16,
-          "occupancy": 6.72
+          "occupancy": 5.97
         }
       ],
-      "finalGrossRevenueUSD": 136.44
+      "finalGrossRevenueUSD": 121.28
     },
     {
       "state": "TX",
@@ -6124,14 +6124,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 12,
           "totalSeatCount": 92,
-          "grossRevenueUSD": 99.52,
+          "grossRevenueUSD": 149.28,
           "adultTicketPrice": 12.44,
-          "occupancy": 8.7
+          "occupancy": 13.04
         }
       ],
-      "finalGrossRevenueUSD": 99.52
+      "finalGrossRevenueUSD": 149.28
     },
     {
       "state": "TX",
@@ -7363,14 +7363,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 44,
+          "totalSeatSold": 49,
           "totalSeatCount": 88,
-          "grossRevenueUSD": 682.0,
+          "grossRevenueUSD": 759.5,
           "adultTicketPrice": 15.5,
-          "occupancy": 50.0
+          "occupancy": 55.68
         }
       ],
-      "finalGrossRevenueUSD": 682.0
+      "finalGrossRevenueUSD": 759.5
     },
     {
       "state": "CA",
@@ -7993,14 +7993,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 21,
+          "totalSeatSold": 29,
           "totalSeatCount": 104,
-          "grossRevenueUSD": 377.79,
+          "grossRevenueUSD": 521.71,
           "adultTicketPrice": 17.99,
-          "occupancy": 20.19
+          "occupancy": 27.88
         }
       ],
-      "finalGrossRevenueUSD": 377.79
+      "finalGrossRevenueUSD": 521.71
     },
     {
       "state": "CA",
@@ -8434,14 +8434,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 5,
           "totalSeatCount": 119,
-          "grossRevenueUSD": 24.98,
+          "grossRevenueUSD": 62.45,
           "adultTicketPrice": 12.49,
-          "occupancy": 1.68
+          "occupancy": 4.2
         }
       ],
-      "finalGrossRevenueUSD": 24.98
+      "finalGrossRevenueUSD": 62.45
     },
     {
       "state": "CA",
@@ -9198,6 +9198,153 @@
         }
       ],
       "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 21,
+          "totalSeatCount": 40,
+          "grossRevenueUSD": 339.99,
+          "adultTicketPrice": 16.19,
+          "occupancy": 52.5
+        }
+      ],
+      "finalGrossRevenueUSD": 339.99
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "AMC Grapevine Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+19:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "AMC Grapevine Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+20:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 8,
+          "totalSeatCount": 52,
+          "grossRevenueUSD": 103.84,
+          "adultTicketPrice": 12.98,
+          "occupancy": 15.38
+        }
+      ],
+      "finalGrossRevenueUSD": 103.84
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+19:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+21:10",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+14:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 39,
+          "totalSeatCount": 106,
+          "grossRevenueUSD": 545.61,
+          "adultTicketPrice": 13.99,
+          "occupancy": 36.79
+        }
+      ],
+      "finalGrossRevenueUSD": 545.61
+    },
+    {
+      "state": "CA",
+      "city": "Santa Clara",
+      "zip": "95054",
+      "theater_name": "AMC Mercado 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-01-31+21:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 15,
+          "totalSeatCount": 114,
+          "grossRevenueUSD": 262.35,
+          "adultTicketPrice": 17.49,
+          "occupancy": 13.16
+        }
+      ],
+      "finalGrossRevenueUSD": 262.35
     }
   ]
 }

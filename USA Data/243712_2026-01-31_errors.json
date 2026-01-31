@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-31 01:50:24 PM",
+  "last_updated": "2026-01-31 02:23:33 PM",
   "errors": [
     {
       "state": "NY",
@@ -64,21 +64,6 @@
       }
     },
     {
-      "state": "GA",
-      "city": "Columbus",
-      "zip": "31904",
-      "theater_name": "AMC Ritz 13",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 532934970,
-      "date": "2026-01-31+20:35",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "invalid_seat_count"
-      }
-    },
-    {
       "state": "FL",
       "city": "Tampa",
       "zip": "33647",
@@ -108,21 +93,6 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Hoover",
-      "zip": "35244",
-      "theater_name": "AMC Patton Creek 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 532881436,
-      "date": "2026-01-31+20:05",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "reason": "invalid_seat_count"
       }
     },
     {
@@ -171,6 +141,52 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "AMC Grapevine Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533107333,
+      "date": "2026-01-31+19:50",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533145631,
+      "date": "2026-01-31+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Ontario",
+      "zip": "91764",
+      "theater_name": "AMC DINE-IN Ontario Mills 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533145636,
+      "date": "2026-01-31+21:10",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
       }
     }
   ]
