@@ -1,0 +1,177 @@
+{
+  "last_updated": "2026-01-31 01:50:24 PM",
+  "errors": [
+    {
+      "state": "NY",
+      "city": "Middletown",
+      "zip": "10940",
+      "theater_name": "Middletown Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 533124249,
+      "date": "2026-01-31+15:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Suffolk",
+      "zip": "23435",
+      "theater_name": "Regal Harbour View Grande",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 532802729,
+      "date": "2026-01-31+12:20",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "exception"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Greensboro",
+      "zip": "27408",
+      "theater_name": "Red Cinemas",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 532918293,
+      "date": "2026-01-31+12:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Morrow",
+      "zip": "30260",
+      "theater_name": "AMC Southlake 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-01-31+18:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "missing_showtime_id"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Columbus",
+      "zip": "31904",
+      "theater_name": "AMC Ritz 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532934970,
+      "date": "2026-01-31+20:35",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532993157,
+      "date": "2026-01-31+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532993156,
+      "date": "2026-01-31+21:45",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532881436,
+      "date": "2026-01-31+20:05",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Murfreesboro",
+      "zip": "37128",
+      "theater_name": "AMC CLASSIC Murfreesboro 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532622213,
+      "date": "2026-01-31+20:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063625,
+      "date": "2026-01-31+16:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kennewick",
+      "zip": "99336",
+      "theater_name": "AMC CLASSIC Kennewick 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533063616,
+      "date": "2026-01-31+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    }
+  ]
+}
