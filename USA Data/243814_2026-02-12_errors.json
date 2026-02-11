@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 12:18:10 AM",
+  "last_updated": "2026-02-12 01:20:09 AM",
   "errors": [
     {
       "state": "FL",
@@ -62,6 +62,22 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19702",
+      "theater_name": "Regal Peoples Plaza",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534804134,
+      "date": "2026-02-12+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
       }
     }
   ]
