@@ -452,11 +452,11 @@
     "date": "2026-02-12+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 23,
+    "totalSeatSold": 24,
     "totalSeatCount": 141,
-    "occupancy": 16.31,
+    "occupancy": 17.02,
     "adultTicketPrice": 14.51,
-    "grossRevenueUSD": 333.73
+    "grossRevenueUSD": 348.24
   },
   {
     "state": "VA",
@@ -2117,11 +2117,11 @@
     "date": "2026-02-12+20:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
+    "totalSeatSold": 7,
     "totalSeatCount": 101,
-    "occupancy": 4.95,
+    "occupancy": 6.93,
     "adultTicketPrice": 14.57,
-    "grossRevenueUSD": 72.85
+    "grossRevenueUSD": 101.99
   },
   {
     "state": "IL",
@@ -2406,11 +2406,11 @@
     "date": "2026-02-12+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 29,
+    "totalSeatSold": 31,
     "totalSeatCount": 51,
-    "occupancy": 56.86,
+    "occupancy": 60.78,
     "adultTicketPrice": 14.34,
-    "grossRevenueUSD": 415.86
+    "grossRevenueUSD": 444.54
   },
   {
     "state": "TX",
@@ -2457,11 +2457,11 @@
     "date": "2026-02-12+21:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 99,
+    "totalSeatSold": 98,
     "totalSeatCount": 126,
-    "occupancy": 78.57,
+    "occupancy": 77.78,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 1391.94
+    "grossRevenueUSD": 1377.88
   },
   {
     "state": "TX",
@@ -2763,11 +2763,11 @@
     "date": "2026-02-12+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 13,
+    "totalSeatSold": 15,
     "totalSeatCount": 47,
-    "occupancy": 27.66,
+    "occupancy": 31.91,
     "adultTicketPrice": 13.8,
-    "grossRevenueUSD": 179.4
+    "grossRevenueUSD": 207.0
   },
   {
     "state": "TX",
@@ -3868,11 +3868,11 @@
     "date": "2026-02-12+18:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 26,
+    "totalSeatSold": 27,
     "totalSeatCount": 73,
-    "occupancy": 35.62,
+    "occupancy": 36.99,
     "adultTicketPrice": 19.18,
-    "grossRevenueUSD": 498.68
+    "grossRevenueUSD": 517.86
   },
   {
     "state": "NJ",
@@ -5601,11 +5601,11 @@
     "date": "2026-02-12+20:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
+    "totalSeatSold": 11,
     "totalSeatCount": 45,
-    "occupancy": 17.78,
+    "occupancy": 24.44,
     "adultTicketPrice": 15.49,
-    "grossRevenueUSD": 123.92
+    "grossRevenueUSD": 170.39
   },
   {
     "state": "AZ",
@@ -5618,11 +5618,11 @@
     "date": "2026-02-12+20:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
+    "totalSeatSold": 9,
     "totalSeatCount": 119,
-    "occupancy": 6.72,
+    "occupancy": 7.56,
     "adultTicketPrice": 13.75,
-    "grossRevenueUSD": 110.0
+    "grossRevenueUSD": 123.75
   },
   {
     "state": "AZ",
@@ -5737,11 +5737,11 @@
     "date": "2026-02-12+19:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 48,
+    "totalSeatSold": 47,
     "totalSeatCount": 114,
-    "occupancy": 42.11,
+    "occupancy": 41.23,
     "adultTicketPrice": 17.49,
-    "grossRevenueUSD": 839.52
+    "grossRevenueUSD": 822.03
   },
   {
     "state": "CA",
@@ -5822,11 +5822,11 @@
     "date": "2026-02-12+20:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 16,
+    "totalSeatSold": 15,
     "totalSeatCount": 181,
-    "occupancy": 8.84,
+    "occupancy": 8.29,
     "adultTicketPrice": 14.0,
-    "grossRevenueUSD": 224.0
+    "grossRevenueUSD": 210.0
   },
   {
     "state": "CA",
@@ -5924,11 +5924,11 @@
     "date": "2026-02-12+19:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 20,
+    "totalSeatSold": 24,
     "totalSeatCount": 98,
-    "occupancy": 20.41,
+    "occupancy": 24.49,
     "adultTicketPrice": 15.75,
-    "grossRevenueUSD": 315.0
+    "grossRevenueUSD": 378.0
   },
   {
     "state": "WA",
@@ -6062,6 +6062,40 @@
     "totalSeatCount": 63,
     "occupancy": 0.0,
     "adultTicketPrice": 12.57,
+    "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534782961,
+    "date": "2026-02-12+18:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 1,
+    "totalSeatCount": 87,
+    "occupancy": 1.15,
+    "adultTicketPrice": 14.06,
+    "grossRevenueUSD": 14.06
+  },
+  {
+    "state": "AZ",
+    "city": "Glendale",
+    "zip": "85305",
+    "theater_name": "AMC Westgate 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534784194,
+    "date": "2026-02-12+16:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "totalSeatCount": 49,
+    "occupancy": 0.0,
+    "adultTicketPrice": 12.0,
     "grossRevenueUSD": 0.0
   }
 ]
