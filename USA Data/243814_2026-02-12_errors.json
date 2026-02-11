@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11 11:32:51 AM",
+  "last_updated": "2026-02-11 01:04:41 PM",
   "errors": [
     {
       "state": "FL",
@@ -31,6 +31,21 @@
       "error": {
         "reason": "retry_exhausted",
         "attempts": 4
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-02-12+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "missing_showtime_id"
       }
     }
   ]
