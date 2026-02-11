@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11 08:39:20 AM",
+  "last_updated": "2026-02-11 08:52:53 AM",
   "shows": [
     {
       "state": "MA",
@@ -790,14 +790,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 32,
+          "totalSeatSold": 35,
           "totalSeatCount": 78,
-          "grossRevenueUSD": 377.6,
+          "grossRevenueUSD": 413.0,
           "adultTicketPrice": 11.8,
-          "occupancy": 41.03
+          "occupancy": 44.87
         }
       ],
-      "finalGrossRevenueUSD": 377.6
+      "finalGrossRevenueUSD": 413.0
     },
     {
       "state": "NC",
@@ -1168,14 +1168,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 15,
+          "totalSeatSold": 17,
           "totalSeatCount": 64,
-          "grossRevenueUSD": 226.35,
+          "grossRevenueUSD": 256.53,
           "adultTicketPrice": 15.09,
-          "occupancy": 23.44
+          "occupancy": 26.56
         }
       ],
-      "finalGrossRevenueUSD": 226.35
+      "finalGrossRevenueUSD": 256.53
     },
     {
       "state": "GA",
@@ -5095,14 +5095,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 44,
+          "totalSeatSold": 46,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 616.0,
+          "grossRevenueUSD": 644.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 31.65
+          "occupancy": 33.09
         }
       ],
-      "finalGrossRevenueUSD": 616.0
+      "finalGrossRevenueUSD": 644.0
     },
     {
       "state": "PA",
@@ -7132,14 +7132,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 8,
           "totalSeatCount": 114,
-          "grossRevenueUSD": 104.94,
+          "grossRevenueUSD": 139.92,
           "adultTicketPrice": 17.49,
-          "occupancy": 5.26
+          "occupancy": 7.02
         }
       ],
-      "finalGrossRevenueUSD": 104.94
+      "finalGrossRevenueUSD": 139.92
     },
     {
       "state": "CA",
