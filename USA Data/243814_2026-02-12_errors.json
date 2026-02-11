@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-11 11:20:28 PM",
+  "last_updated": "2026-02-12 12:18:10 AM",
   "errors": [
     {
       "state": "FL",
@@ -46,6 +46,22 @@
       "language": "Telugu",
       "error": {
         "reason": "missing_showtime_id"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534797236,
+      "date": "2026-02-12+18:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
       }
     }
   ]
