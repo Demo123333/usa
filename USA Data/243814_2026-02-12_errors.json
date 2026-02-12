@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 05:23:01 AM",
+  "last_updated": "2026-02-12 06:38:19 AM",
   "errors": [
     {
       "state": "FL",
@@ -78,6 +78,37 @@
       "error": {
         "reason": "retry_exhausted",
         "attempts": 4
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Bellingham",
+      "zip": "02019",
+      "theater_name": "Regal Bellingham",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534819098,
+      "date": "2026-02-12+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 534024179,
+      "date": "2026-02-12+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
       }
     }
   ]
