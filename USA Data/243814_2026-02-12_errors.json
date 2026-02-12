@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 01:53:45 AM",
+  "last_updated": "2026-02-13 02:27:51 AM",
   "errors": [
     {
       "state": "FL",
@@ -57,6 +57,22 @@
       "chainCode": "VZ",
       "showtime_id": 534024179,
       "date": "2026-02-12+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534841228,
+      "date": "2026-02-12+18:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
