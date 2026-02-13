@@ -3120,11 +3120,11 @@
     "date": "2026-02-12+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 18,
+    "totalSeatSold": 28,
     "totalSeatCount": 63,
-    "occupancy": 28.57,
+    "occupancy": 44.44,
     "adultTicketPrice": 13.7,
-    "grossRevenueUSD": 246.6
+    "grossRevenueUSD": 383.6
   },
   {
     "state": "AZ",
@@ -3426,11 +3426,11 @@
     "date": "2026-02-12+21:15",
     "format": "Premium Large Format",
     "language": "Telugu",
-    "totalSeatSold": 38,
+    "totalSeatSold": 49,
     "totalSeatCount": 105,
-    "occupancy": 36.19,
+    "occupancy": 46.67,
     "adultTicketPrice": 10.75,
-    "grossRevenueUSD": 408.5
+    "grossRevenueUSD": 526.75
   },
   {
     "state": "CA",
@@ -3579,11 +3579,11 @@
     "date": "2026-02-12+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 11,
+    "totalSeatSold": 15,
     "totalSeatCount": 76,
-    "occupancy": 14.47,
+    "occupancy": 19.74,
     "adultTicketPrice": 16.5,
-    "grossRevenueUSD": 181.5
+    "grossRevenueUSD": 247.5
   },
   {
     "state": "CA",
@@ -3596,11 +3596,11 @@
     "date": "2026-02-12+22:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 12,
+    "totalSeatSold": 21,
     "totalSeatCount": 112,
-    "occupancy": 10.71,
+    "occupancy": 18.75,
     "adultTicketPrice": 16.5,
-    "grossRevenueUSD": 198.0
+    "grossRevenueUSD": 346.5
   },
   {
     "state": "CA",
@@ -3630,11 +3630,11 @@
     "date": "2026-02-12+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
+    "totalSeatSold": 14,
     "totalSeatCount": 48,
-    "occupancy": 6.25,
+    "occupancy": 29.17,
     "adultTicketPrice": 17.0,
-    "grossRevenueUSD": 51.0
+    "grossRevenueUSD": 238.0
   },
   {
     "state": "CA",
@@ -3698,11 +3698,11 @@
     "date": "2026-02-12+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 54,
+    "totalSeatSold": 63,
     "totalSeatCount": 130,
-    "occupancy": 41.54,
+    "occupancy": 48.46,
     "adultTicketPrice": 15.71,
-    "grossRevenueUSD": 848.34
+    "grossRevenueUSD": 989.73
   },
   {
     "state": "WA",
@@ -5772,11 +5772,11 @@
     "date": "2026-02-12+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 50,
+    "totalSeatSold": 60,
     "totalSeatCount": 118,
-    "occupancy": 42.37,
+    "occupancy": 50.85,
     "adultTicketPrice": 17.49,
-    "grossRevenueUSD": 874.5
+    "grossRevenueUSD": 1049.4
   },
   {
     "state": "CA",
@@ -5840,11 +5840,11 @@
     "date": "2026-02-12+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
+    "totalSeatSold": 8,
     "totalSeatCount": 65,
-    "occupancy": 6.15,
+    "occupancy": 12.31,
     "adultTicketPrice": 16.0,
-    "grossRevenueUSD": 64.0
+    "grossRevenueUSD": 128.0
   },
   {
     "state": "CA",
@@ -5891,11 +5891,11 @@
     "date": "2026-02-12+21:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 14,
+    "totalSeatSold": 15,
     "totalSeatCount": 38,
-    "occupancy": 36.84,
+    "occupancy": 39.47,
     "adultTicketPrice": 15.5,
-    "grossRevenueUSD": 217.0
+    "grossRevenueUSD": 232.5
   },
   {
     "state": "OR",
@@ -5959,11 +5959,11 @@
     "date": "2026-02-12+22:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 8,
     "totalSeatCount": 78,
-    "occupancy": 0.0,
+    "occupancy": 10.26,
     "adultTicketPrice": 10.75,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 86.0
   },
   {
     "state": "DE",
@@ -6027,11 +6027,11 @@
     "date": "2026-02-12+21:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 6,
+    "totalSeatSold": 11,
     "totalSeatCount": 82,
-    "occupancy": 7.32,
+    "occupancy": 13.41,
     "adultTicketPrice": 15.0,
-    "grossRevenueUSD": 90.0
+    "grossRevenueUSD": 165.0
   },
   {
     "state": "GA",
@@ -7540,5 +7540,37 @@
     "occupancy": 5.34,
     "adultTicketPrice": 14.0,
     "grossRevenueUSD": 98.0
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534870370,
+    "date": "2026-02-12+21:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "invalid_showtime",
+      "status": 404
+    }
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534870371,
+    "date": "2026-02-12+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "invalid_showtime",
+      "status": 404
+    }
   }
 ]
