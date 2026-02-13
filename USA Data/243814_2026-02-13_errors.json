@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 11:04:19 PM",
+  "last_updated": "2026-02-14 12:01:39 AM",
   "errors": [
     {
       "state": "PA",
@@ -127,6 +127,22 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Dallas",
+      "zip": "75234",
+      "theater_name": "Cinemark Dallas XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 534625276,
+      "date": "2026-02-13+11:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 404
       }
     }
   ]
