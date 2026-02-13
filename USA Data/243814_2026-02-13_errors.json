@@ -1,0 +1,238 @@
+{
+  "last_updated": "2026-02-13 02:01:40 PM",
+  "errors": [
+    {
+      "state": "MA",
+      "city": "Methuen",
+      "zip": "01844",
+      "theater_name": "AMC Methuen 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534025217,
+      "date": "2026-02-13+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "exception"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 534455083,
+      "date": "2026-02-13+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28273",
+      "theater_name": "AMC Carolina Pavilion 22",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534508838,
+      "date": "2026-02-13+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30022",
+      "theater_name": "AMC DINE-IN North Point Mall 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534464026,
+      "date": "2026-02-13+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534474935,
+      "date": "2026-02-13+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534874357,
+      "date": "2026-02-13+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531725763,
+      "date": "2026-02-13+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534062824,
+      "date": "2026-02-13+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534181983,
+      "date": "2026-02-13+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 532589988,
+      "date": "2026-02-13+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534871789,
+      "date": "2026-02-13+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "AMC Grand Prairie 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533888064,
+      "date": "2026-02-13+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613797,
+      "date": "2026-02-13+10:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613796,
+      "date": "2026-02-13+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613817,
+      "date": "2026-02-13+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    }
+  ]
+}
