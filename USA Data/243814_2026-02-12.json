@@ -3596,11 +3596,11 @@
     "date": "2026-02-12+22:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 21,
+    "totalSeatSold": 25,
     "totalSeatCount": 112,
-    "occupancy": 18.75,
+    "occupancy": 22.32,
     "adultTicketPrice": 16.5,
-    "grossRevenueUSD": 346.5
+    "grossRevenueUSD": 412.5
   },
   {
     "state": "CA",
@@ -5772,11 +5772,11 @@
     "date": "2026-02-12+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 60,
+    "totalSeatSold": 58,
     "totalSeatCount": 118,
-    "occupancy": 50.85,
+    "occupancy": 49.15,
     "adultTicketPrice": 17.49,
-    "grossRevenueUSD": 1049.4
+    "grossRevenueUSD": 1014.42
   },
   {
     "state": "CA",
@@ -5959,11 +5959,11 @@
     "date": "2026-02-12+22:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
+    "totalSeatSold": 14,
     "totalSeatCount": 78,
-    "occupancy": 10.26,
+    "occupancy": 17.95,
     "adultTicketPrice": 10.75,
-    "grossRevenueUSD": 86.0
+    "grossRevenueUSD": 150.5
   },
   {
     "state": "DE",
@@ -7566,6 +7566,22 @@
     "chainCode": "AMC",
     "showtime_id": 534870371,
     "date": "2026-02-12+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "invalid_showtime",
+      "status": 404
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 534882640,
+    "date": "2026-02-12+22:25",
     "format": "Standard",
     "language": "Telugu",
     "error": {

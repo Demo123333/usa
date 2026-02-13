@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-12 09:19:47 PM",
+  "last_updated": "2026-02-12 10:33:54 PM",
   "shows": [
     {
       "state": "MA",
@@ -4444,14 +4444,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 21,
+          "totalSeatSold": 25,
           "totalSeatCount": 112,
-          "grossRevenueUSD": 346.5,
+          "grossRevenueUSD": 412.5,
           "adultTicketPrice": 16.5,
-          "occupancy": 18.75
+          "occupancy": 22.32
         }
       ],
-      "finalGrossRevenueUSD": 346.5
+      "finalGrossRevenueUSD": 412.5
     },
     {
       "state": "CA",
@@ -7132,14 +7132,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 60,
+          "totalSeatSold": 58,
           "totalSeatCount": 118,
-          "grossRevenueUSD": 1049.4,
+          "grossRevenueUSD": 1014.42,
           "adultTicketPrice": 17.49,
-          "occupancy": 50.85
+          "occupancy": 49.15
         }
       ],
-      "finalGrossRevenueUSD": 1049.4
+      "finalGrossRevenueUSD": 1014.42
     },
     {
       "state": "CA",
@@ -7363,14 +7363,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 14,
           "totalSeatCount": 78,
-          "grossRevenueUSD": 86.0,
+          "grossRevenueUSD": 150.5,
           "adultTicketPrice": 10.75,
-          "occupancy": 10.26
+          "occupancy": 17.95
         }
       ],
-      "finalGrossRevenueUSD": 86.0
+      "finalGrossRevenueUSD": 150.5
     },
     {
       "state": "DE",
@@ -9291,6 +9291,27 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "date": "2026-02-12+21:40",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-02-12+22:25",
       "language": "Telugu",
       "formats": [
         {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 10:49:47 AM",
+  "last_updated": "2026-02-13 12:03:54 PM",
   "errors": [
     {
       "state": "FL",
@@ -105,6 +105,22 @@
       "chainCode": "AMC",
       "showtime_id": 534870371,
       "date": "2026-02-12+21:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 404
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 534882640,
+      "date": "2026-02-12+22:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
