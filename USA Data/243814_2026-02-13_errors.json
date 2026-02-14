@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 05:22:30 AM",
+  "last_updated": "2026-02-14 06:34:35 AM",
   "errors": [
     {
       "state": "PA",
@@ -158,6 +158,22 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 404
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 534914759,
+      "date": "2026-02-13+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
       }
     }
   ]
