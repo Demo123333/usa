@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 09:49:12 PM",
+  "last_updated": "2026-02-14 10:23:49 PM",
   "errors": [
     {
       "state": "PA",
@@ -143,22 +143,6 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Bloomington",
-      "zip": "61701",
-      "theater_name": "Marcus Bloomington Cinema + IMAX",
-      "chainName": "Marcus Theatres",
-      "chainCode": "MRCS",
-      "showtime_id": 534288673,
-      "date": "2026-02-14+20:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "retry_exhausted",
-        "attempts": 4
       }
     },
     {
