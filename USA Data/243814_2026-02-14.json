@@ -282,11 +282,11 @@
     "date": "2026-02-14+21:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 13,
+    "totalSeatSold": 14,
     "totalSeatCount": 62,
-    "occupancy": 20.97,
+    "occupancy": 22.58,
     "adultTicketPrice": 14.93,
-    "grossRevenueUSD": 194.09
+    "grossRevenueUSD": 209.02
   },
   {
     "state": "NJ",
@@ -1233,11 +1233,11 @@
     "date": "2026-02-14+19:00",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 56,
+    "totalSeatSold": 53,
     "totalSeatCount": 147,
-    "occupancy": 38.1,
+    "occupancy": 36.05,
     "adultTicketPrice": 11.8,
-    "grossRevenueUSD": 660.8
+    "grossRevenueUSD": 625.4
   },
   {
     "state": "NC",
@@ -1962,11 +1962,11 @@
     "date": "2026-02-14+12:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 4,
     "totalSeatCount": 116,
-    "occupancy": 0.86,
+    "occupancy": 3.45,
     "adultTicketPrice": 10.12,
-    "grossRevenueUSD": 10.12
+    "grossRevenueUSD": 40.48
   },
   {
     "state": "FL",
@@ -5802,5 +5802,20 @@
     "occupancy": 0.0,
     "adultTicketPrice": 13.2,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "IL",
+    "city": "South Barrington",
+    "zip": "60010",
+    "theater_name": "AMC South Barrington 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-14+18:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "missing_showtime_id"
+    }
   }
 ]
