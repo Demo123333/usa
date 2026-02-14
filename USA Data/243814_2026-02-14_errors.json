@@ -1,0 +1,240 @@
+{
+  "last_updated": "2026-02-14 01:51:45 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 534455108,
+      "date": "2026-02-14+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534484249,
+      "date": "2026-02-14+17:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534882919,
+      "date": "2026-02-14+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531725766,
+      "date": "2026-02-14+17:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "West Melbourne",
+      "zip": "32904",
+      "theater_name": "AMC West Melbourne 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534172902,
+      "date": "2026-02-14+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534820410,
+      "date": "2026-02-14+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534206465,
+      "date": "2026-02-14+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533336033,
+      "date": "2026-02-14+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 534914761,
+      "date": "2026-02-14+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 534914763,
+      "date": "2026-02-14+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Woodridge",
+      "zip": "60517",
+      "theater_name": "Cinemark Seven Bridges and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 534797752,
+      "date": "2026-02-14+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "AMC Grand Prairie 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534559359,
+      "date": "2026-02-14+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613851,
+      "date": "2026-02-14+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613865,
+      "date": "2026-02-14+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Bloomington",
+      "zip": "61701",
+      "theater_name": "Marcus Bloomington Cinema + IMAX",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 534288673,
+      "date": "2026-02-14+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
+      }
+    }
+  ]
+}
