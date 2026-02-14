@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 01:51:45 PM",
+  "last_updated": "2026-02-14 02:25:37 PM",
   "errors": [
     {
       "state": "PA",
@@ -35,21 +35,6 @@
     },
     {
       "state": "FL",
-      "city": "Jacksonville",
-      "zip": "32225",
-      "theater_name": "AMC Regency 24",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 534882919,
-      "date": "2026-02-14+12:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "invalid_seat_count"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Pensacola",
       "zip": "32505",
       "theater_name": "AMC CLASSIC Pensacola 18",
@@ -66,36 +51,6 @@
     },
     {
       "state": "FL",
-      "city": "West Melbourne",
-      "zip": "32904",
-      "theater_name": "AMC West Melbourne 12",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 534172902,
-      "date": "2026-02-14+20:20",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "invalid_seat_count"
-      }
-    },
-    {
-      "state": "FL",
-      "city": "Pompano Beach",
-      "zip": "33062",
-      "theater_name": "AMC Pompano Beach 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 534820410,
-      "date": "2026-02-14+21:45",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "invalid_seat_count"
-      }
-    },
-    {
-      "state": "FL",
       "city": "Tampa",
       "zip": "33647",
       "theater_name": "AMC Highwoods 20",
@@ -108,21 +63,6 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
-      }
-    },
-    {
-      "state": "AL",
-      "city": "Hoover",
-      "zip": "35244",
-      "theater_name": "AMC Patton Creek 15",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 533336033,
-      "date": "2026-02-14+20:10",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "invalid_seat_count"
       }
     },
     {
@@ -171,21 +111,6 @@
       "error": {
         "reason": "retry_exhausted",
         "attempts": 4
-      }
-    },
-    {
-      "state": "IL",
-      "city": "Peoria",
-      "zip": "61615",
-      "theater_name": "AMC Grand Prairie 18",
-      "chainName": "AMC",
-      "chainCode": "AMC",
-      "showtime_id": 534559359,
-      "date": "2026-02-14+20:00",
-      "format": "Standard",
-      "language": "Telugu",
-      "error": {
-        "reason": "invalid_seat_count"
       }
     },
     {
