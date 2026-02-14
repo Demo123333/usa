@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 02:16:12 AM",
+  "last_updated": "2026-02-14 02:53:47 AM",
   "shows": [
     {
       "state": "MA",
@@ -1336,14 +1336,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 10,
+          "totalSeatSold": 6,
           "totalSeatCount": 81,
-          "grossRevenueUSD": 130.0,
+          "grossRevenueUSD": 78.0,
           "adultTicketPrice": 13.0,
-          "occupancy": 12.35
+          "occupancy": 7.41
         }
       ],
-      "finalGrossRevenueUSD": 130.0
+      "finalGrossRevenueUSD": 78.0
     },
     {
       "state": "VA",
@@ -4129,14 +4129,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 1,
           "totalSeatCount": 68,
-          "grossRevenueUSD": 23.52,
+          "grossRevenueUSD": 11.76,
           "adultTicketPrice": 11.76,
-          "occupancy": 2.94
+          "occupancy": 1.47
         }
       ],
-      "finalGrossRevenueUSD": 23.52
+      "finalGrossRevenueUSD": 11.76
     },
     {
       "state": "MO",
@@ -6502,14 +6502,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 20,
+          "totalSeatSold": 19,
           "totalSeatCount": 90,
-          "grossRevenueUSD": 349.8,
+          "grossRevenueUSD": 332.31,
           "adultTicketPrice": 17.49,
-          "occupancy": 22.22
+          "occupancy": 21.11
         }
       ],
-      "finalGrossRevenueUSD": 349.8
+      "finalGrossRevenueUSD": 332.31
     },
     {
       "state": "CA",
@@ -6754,14 +6754,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 29,
+          "totalSeatSold": 27,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 406.0,
+          "grossRevenueUSD": 378.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 59.18
+          "occupancy": 55.1
         }
       ],
-      "finalGrossRevenueUSD": 406.0
+      "finalGrossRevenueUSD": 378.0
     },
     {
       "state": "CA",
