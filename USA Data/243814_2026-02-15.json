@@ -1926,9 +1926,11 @@
     "date": "2026-02-15+13:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 62,
+    "occupancy": 0.0,
+    "adultTicketPrice": 11.6,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "FL",
@@ -2043,9 +2045,11 @@
     "date": "2026-02-15+13:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 42,
+    "occupancy": 0.0,
+    "adultTicketPrice": 11.97,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "FL",
@@ -2125,9 +2129,11 @@
     "date": "2026-02-15+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 120,
+    "occupancy": 0.0,
+    "adultTicketPrice": 14.77,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "AL",
@@ -3546,11 +3552,11 @@
     "date": "2026-02-15+18:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 56,
+    "totalSeatSold": 55,
     "totalSeatCount": 127,
-    "occupancy": 44.09,
+    "occupancy": 43.31,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 787.36
+    "grossRevenueUSD": 773.3
   },
   {
     "state": "TX",
@@ -4395,9 +4401,11 @@
     "date": "2026-02-15+10:10",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 0,
+    "totalSeatCount": 60,
+    "occupancy": 0.0,
+    "adultTicketPrice": 12.39,
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "CO",
@@ -4410,9 +4418,11 @@
     "date": "2026-02-15+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "error": {
-      "reason": "invalid_seat_count"
-    }
+    "totalSeatSold": 13,
+    "totalSeatCount": 41,
+    "occupancy": 31.71,
+    "adultTicketPrice": 15.49,
+    "grossRevenueUSD": 201.37
   },
   {
     "state": "CO",
@@ -5207,11 +5217,11 @@
     "date": "2026-02-15+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 37,
-    "occupancy": 0.0,
+    "occupancy": 5.41,
     "adultTicketPrice": 14.5,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 29.0
   },
   {
     "state": "CA",
@@ -5416,5 +5426,56 @@
     "occupancy": 0.0,
     "adultTicketPrice": 14.7,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "NJ",
+    "city": "Jersey City",
+    "zip": "07310",
+    "theater_name": "AMC Newport Centre 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534618272,
+    "date": "2026-02-15+11:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 12,
+    "totalSeatCount": 72,
+    "occupancy": 16.67,
+    "adultTicketPrice": 15.34,
+    "grossRevenueUSD": 184.08
+  },
+  {
+    "state": "NJ",
+    "city": "Jersey City",
+    "zip": "07310",
+    "theater_name": "AMC Newport Centre 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534618255,
+    "date": "2026-02-15+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 14,
+    "totalSeatCount": 78,
+    "occupancy": 17.95,
+    "adultTicketPrice": 19.18,
+    "grossRevenueUSD": 268.52
+  },
+  {
+    "state": "NJ",
+    "city": "Jersey City",
+    "zip": "07310",
+    "theater_name": "AMC Newport Centre 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534618281,
+    "date": "2026-02-15+22:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 1,
+    "totalSeatCount": 39,
+    "occupancy": 2.56,
+    "adultTicketPrice": 19.18,
+    "grossRevenueUSD": 19.18
   }
 ]
