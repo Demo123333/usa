@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15 03:43:40 AM",
+  "last_updated": "2026-02-15 04:25:27 AM",
   "shows": [
     {
       "state": "MA",
@@ -580,14 +580,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 4,
           "totalSeatCount": 72,
-          "grossRevenueUSD": 49.17,
+          "grossRevenueUSD": 65.56,
           "adultTicketPrice": 16.39,
-          "occupancy": 4.17
+          "occupancy": 5.56
         }
       ],
-      "finalGrossRevenueUSD": 49.17
+      "finalGrossRevenueUSD": 65.56
     },
     {
       "state": "NJ",
@@ -1546,14 +1546,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 28,
+          "totalSeatSold": 24,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 323.4,
+          "grossRevenueUSD": 277.2,
           "adultTicketPrice": 11.55,
-          "occupancy": 20.14
+          "occupancy": 17.27
         }
       ],
-      "finalGrossRevenueUSD": 323.4
+      "finalGrossRevenueUSD": 277.2
     },
     {
       "state": "NC",
@@ -3142,14 +3142,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 101,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 36.94,
           "adultTicketPrice": 18.47,
-          "occupancy": 0.0
+          "occupancy": 1.98
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 36.94
     },
     {
       "state": "MI",
@@ -3163,14 +3163,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 89,
-          "grossRevenueUSD": 21.57,
+          "grossRevenueUSD": 35.95,
           "adultTicketPrice": 7.19,
-          "occupancy": 3.37
+          "occupancy": 5.62
         }
       ],
-      "finalGrossRevenueUSD": 21.57
+      "finalGrossRevenueUSD": 35.95
     },
     {
       "state": "MI",
