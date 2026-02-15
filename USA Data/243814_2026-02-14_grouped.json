@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 07:59:46 PM",
+  "last_updated": "2026-02-14 09:19:16 PM",
   "shows": [
     {
       "state": "MA",
@@ -5242,14 +5242,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 18,
+          "totalSeatSold": 32,
           "totalSeatCount": 57,
-          "grossRevenueUSD": 214.38,
+          "grossRevenueUSD": 381.12,
           "adultTicketPrice": 11.91,
-          "occupancy": 31.58
+          "occupancy": 56.14
         }
       ],
-      "finalGrossRevenueUSD": 214.38
+      "finalGrossRevenueUSD": 381.12
     },
     {
       "state": "TX",
@@ -6334,14 +6334,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 12,
           "totalSeatCount": 88,
-          "grossRevenueUSD": 93.0,
+          "grossRevenueUSD": 186.0,
           "adultTicketPrice": 15.5,
-          "occupancy": 6.82
+          "occupancy": 13.64
         }
       ],
-      "finalGrossRevenueUSD": 93.0
+      "finalGrossRevenueUSD": 186.0
     },
     {
       "state": "CA",
@@ -6460,14 +6460,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 112,
-          "grossRevenueUSD": 16.5,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 16.5,
-          "occupancy": 0.89
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 16.5
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "CA",
@@ -6502,14 +6502,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 36,
+          "totalSeatSold": 38,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 629.64,
+          "grossRevenueUSD": 664.62,
           "adultTicketPrice": 17.49,
-          "occupancy": 37.5
+          "occupancy": 39.58
         }
       ],
-      "finalGrossRevenueUSD": 629.64
+      "finalGrossRevenueUSD": 664.62
     },
     {
       "state": "CA",
@@ -6985,14 +6985,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 17,
+          "totalSeatSold": 19,
           "totalSeatCount": 57,
-          "grossRevenueUSD": 242.25,
+          "grossRevenueUSD": 270.75,
           "adultTicketPrice": 14.25,
-          "occupancy": 29.82
+          "occupancy": 33.33
         }
       ],
-      "finalGrossRevenueUSD": 242.25
+      "finalGrossRevenueUSD": 270.75
     },
     {
       "state": "WA",
@@ -7245,6 +7245,27 @@
         }
       ],
       "finalGrossRevenueUSD": 799.77
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15205",
+      "theater_name": "Cinemark Robinson Township and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-02-14+21:00",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
     }
   ]
 }

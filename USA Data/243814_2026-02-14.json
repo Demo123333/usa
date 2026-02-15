@@ -4234,11 +4234,11 @@
     "date": "2026-02-14+23:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 18,
+    "totalSeatSold": 32,
     "totalSeatCount": 57,
-    "occupancy": 31.58,
+    "occupancy": 56.14,
     "adultTicketPrice": 11.91,
-    "grossRevenueUSD": 214.38
+    "grossRevenueUSD": 381.12
   },
   {
     "state": "TX",
@@ -5118,11 +5118,11 @@
     "date": "2026-02-14+21:45",
     "format": "Standard",
     "language": "Unknown",
-    "totalSeatSold": 6,
+    "totalSeatSold": 12,
     "totalSeatCount": 88,
-    "occupancy": 6.82,
+    "occupancy": 13.64,
     "adultTicketPrice": 15.5,
-    "grossRevenueUSD": 93.0
+    "grossRevenueUSD": 186.0
   },
   {
     "state": "CA",
@@ -5220,11 +5220,11 @@
     "date": "2026-02-14+22:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 112,
-    "occupancy": 0.89,
+    "occupancy": 0.0,
     "adultTicketPrice": 16.5,
-    "grossRevenueUSD": 16.5
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "CA",
@@ -5254,11 +5254,11 @@
     "date": "2026-02-14+22:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 36,
+    "totalSeatSold": 38,
     "totalSeatCount": 96,
-    "occupancy": 37.5,
+    "occupancy": 39.58,
     "adultTicketPrice": 17.49,
-    "grossRevenueUSD": 629.64
+    "grossRevenueUSD": 664.62
   },
   {
     "state": "CA",
@@ -5645,11 +5645,11 @@
     "date": "2026-02-14+21:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 17,
+    "totalSeatSold": 19,
     "totalSeatCount": 57,
-    "occupancy": 29.82,
+    "occupancy": 33.33,
     "adultTicketPrice": 14.25,
-    "grossRevenueUSD": 242.25
+    "grossRevenueUSD": 270.75
   },
   {
     "state": "WA",
@@ -5869,5 +5869,21 @@
     "occupancy": 53.0,
     "adultTicketPrice": 15.09,
     "grossRevenueUSD": 799.77
+  },
+  {
+    "state": "PA",
+    "city": "Pittsburgh",
+    "zip": "15205",
+    "theater_name": "Cinemark Robinson Township and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 534578719,
+    "date": "2026-02-14+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "invalid_showtime",
+      "status": 404
+    }
   }
 ]
