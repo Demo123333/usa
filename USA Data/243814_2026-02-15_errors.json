@@ -1,0 +1,255 @@
+{
+  "last_updated": "2026-02-15 01:51:18 PM",
+  "errors": [
+    {
+      "state": "NJ",
+      "city": "Jersey City",
+      "zip": "07310",
+      "theater_name": "AMC Newport Centre 11",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-02-15+17:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "missing_showtime_id"
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 534463917,
+      "date": "2026-02-15+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534496897,
+      "date": "2026-02-15+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 531725770,
+      "date": "2026-02-15+19:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "theater_name": "AMC Regency 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534969377,
+      "date": "2026-02-15+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pompano Beach",
+      "zip": "33062",
+      "theater_name": "AMC Pompano Beach 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534927316,
+      "date": "2026-02-15+13:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534206466,
+      "date": "2026-02-15+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 533336034,
+      "date": "2026-02-15+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 534914764,
+      "date": "2026-02-15+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Memphis",
+      "zip": "38133",
+      "theater_name": "Malco Wolfchase Cinema Grill",
+      "chainName": "Malco Theatres 2",
+      "chainCode": "MALCO",
+      "showtime_id": 534914766,
+      "date": "2026-02-15+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IA",
+      "city": "Davenport",
+      "zip": "52807",
+      "theater_name": "Cinemark Davenport 18 XD and IMAX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 534670720,
+      "date": "2026-02-15+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "retry_exhausted",
+        "attempts": 4
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534614032,
+      "date": "2026-02-15+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534614045,
+      "date": "2026-02-15+21:50",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Woodlands",
+      "zip": "77380",
+      "theater_name": "Cinemark The Woodlands and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 534682617,
+      "date": "2026-02-15+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 404
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Highlands Ranch",
+      "zip": "80129",
+      "theater_name": "AMC Highlands Ranch 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534641876,
+      "date": "2026-02-15+10:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Highlands Ranch",
+      "zip": "80129",
+      "theater_name": "AMC Highlands Ranch 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534641855,
+      "date": "2026-02-15+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    }
+  ]
+}
