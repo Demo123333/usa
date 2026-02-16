@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16 06:40:14 AM",
+  "last_updated": "2026-02-16 07:32:46 AM",
   "shows": [
     {
       "state": "MA",
@@ -496,14 +496,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 15,
+          "totalSeatSold": 13,
           "totalSeatCount": 109,
-          "grossRevenueUSD": 223.95,
+          "grossRevenueUSD": 194.09,
           "adultTicketPrice": 14.93,
-          "occupancy": 13.76
+          "occupancy": 11.93
         }
       ],
-      "finalGrossRevenueUSD": 223.95
+      "finalGrossRevenueUSD": 194.09
     },
     {
       "state": "NJ",
@@ -727,14 +727,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 99,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.34,
           "adultTicketPrice": 15.34,
-          "occupancy": 0.0
+          "occupancy": 1.01
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.34
     },
     {
       "state": "NJ",
@@ -1168,14 +1168,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 3,
           "totalSeatCount": 130,
-          "grossRevenueUSD": 56.0,
+          "grossRevenueUSD": 42.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 3.08
+          "occupancy": 2.31
         }
       ],
-      "finalGrossRevenueUSD": 56.0
+      "finalGrossRevenueUSD": 42.0
     },
     {
       "state": "PA",
@@ -1231,14 +1231,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 10,
           "totalSeatCount": 93,
-          "grossRevenueUSD": 84.0,
+          "grossRevenueUSD": 140.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 6.45
+          "occupancy": 10.75
         }
       ],
-      "finalGrossRevenueUSD": 84.0
+      "finalGrossRevenueUSD": 140.0
     },
     {
       "state": "PA",
@@ -2239,14 +2239,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 32,
+          "totalSeatSold": 36,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 482.88,
+          "grossRevenueUSD": 543.24,
           "adultTicketPrice": 15.09,
-          "occupancy": 33.33
+          "occupancy": 37.5
         }
       ],
-      "finalGrossRevenueUSD": 482.88
+      "finalGrossRevenueUSD": 543.24
     },
     {
       "state": "GA",
@@ -3751,14 +3751,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 219,
-          "grossRevenueUSD": 14.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.46
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 14.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "IA",
@@ -4633,14 +4633,14 @@
       "formats": [
         {
           "format": "xl at amc",
-          "totalSeatSold": 3,
+          "totalSeatSold": 4,
           "totalSeatCount": 296,
-          "grossRevenueUSD": 48.18,
+          "grossRevenueUSD": 64.24,
           "adultTicketPrice": 16.06,
-          "occupancy": 1.01
+          "occupancy": 1.35
         }
       ],
-      "finalGrossRevenueUSD": 48.18
+      "finalGrossRevenueUSD": 64.24
     },
     {
       "state": "KS",
@@ -5158,14 +5158,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 97,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 28.14,
           "adultTicketPrice": 14.07,
-          "occupancy": 0.0
+          "occupancy": 2.06
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 28.14
     },
     {
       "state": "TX",
@@ -5473,14 +5473,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 106,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 13.5,
           "adultTicketPrice": 13.5,
-          "occupancy": 0.0
+          "occupancy": 0.94
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 13.5
     },
     {
       "state": "TX",
@@ -5515,14 +5515,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 255,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 8.65,
           "adultTicketPrice": 8.65,
-          "occupancy": 0.0
+          "occupancy": 0.39
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 8.65
     },
     {
       "state": "TX",
@@ -5636,7 +5636,7 @@
       "theater_name": "Cinemark Denton 14",
       "chainName": "Cinemark Theatres",
       "chainCode": "CNMK",
-      "date": "2026-02-16+10:25",
+      "date": "2026-02-16+10:50",
       "language": "Telugu",
       "formats": [
         {
@@ -6754,14 +6754,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 137,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 28.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 1.46
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 28.0
     },
     {
       "state": "CA",
@@ -7279,14 +7279,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 5,
           "totalSeatCount": 106,
-          "grossRevenueUSD": 69.96,
+          "grossRevenueUSD": 87.45,
           "adultTicketPrice": 17.49,
-          "occupancy": 3.77
+          "occupancy": 4.72
         }
       ],
-      "finalGrossRevenueUSD": 69.96
+      "finalGrossRevenueUSD": 87.45
     },
     {
       "state": "CA",
