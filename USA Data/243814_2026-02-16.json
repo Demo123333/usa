@@ -129,11 +129,11 @@
     "date": "2026-02-16+14:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
+    "totalSeatSold": 7,
     "totalSeatCount": 294,
-    "occupancy": 1.36,
+    "occupancy": 2.38,
     "adultTicketPrice": 12.79,
-    "grossRevenueUSD": 51.16
+    "grossRevenueUSD": 89.53
   },
   {
     "state": "MA",
@@ -2607,11 +2607,11 @@
     "date": "2026-02-16+13:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
+    "totalSeatSold": 5,
     "totalSeatCount": 50,
-    "occupancy": 6.0,
+    "occupancy": 10.0,
     "adultTicketPrice": 7.0,
-    "grossRevenueUSD": 21.0
+    "grossRevenueUSD": 35.0
   },
   {
     "state": "OH",
@@ -2930,11 +2930,11 @@
     "date": "2026-02-16+12:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 45,
-    "occupancy": 0.0,
+    "occupancy": 4.44,
     "adultTicketPrice": 6.75,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 13.5
   },
   {
     "state": "MI",
@@ -4424,11 +4424,11 @@
     "date": "2026-02-16+21:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 106,
-    "occupancy": 0.0,
+    "occupancy": 0.94,
     "adultTicketPrice": 13.5,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 13.5
   },
   {
     "state": "TX",
@@ -6265,5 +6265,20 @@
     "occupancy": 0.0,
     "adultTicketPrice": 14.7,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33634",
+    "theater_name": "AMC Veterans 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-16+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "missing_showtime_id"
+    }
   }
 ]

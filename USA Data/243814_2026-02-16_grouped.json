@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16 04:36:23 AM",
+  "last_updated": "2026-02-16 05:59:31 AM",
   "shows": [
     {
       "state": "MA",
@@ -160,14 +160,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 7,
           "totalSeatCount": 294,
-          "grossRevenueUSD": 51.16,
+          "grossRevenueUSD": 89.53,
           "adultTicketPrice": 12.79,
-          "occupancy": 1.36
+          "occupancy": 2.38
         }
       ],
-      "finalGrossRevenueUSD": 51.16
+      "finalGrossRevenueUSD": 89.53
     },
     {
       "state": "MA",
@@ -3226,14 +3226,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 50,
-          "grossRevenueUSD": 21.0,
+          "grossRevenueUSD": 35.0,
           "adultTicketPrice": 7.0,
-          "occupancy": 6.0
+          "occupancy": 10.0
         }
       ],
-      "finalGrossRevenueUSD": 21.0
+      "finalGrossRevenueUSD": 35.0
     },
     {
       "state": "OH",
@@ -3625,14 +3625,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 45,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 13.5,
           "adultTicketPrice": 6.75,
-          "occupancy": 0.0
+          "occupancy": 4.44
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 13.5
     },
     {
       "state": "MI",
@@ -5473,14 +5473,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 106,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 13.5,
           "adultTicketPrice": 13.5,
-          "occupancy": 0.0
+          "occupancy": 0.94
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 13.5
     },
     {
       "state": "TX",
