@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16 11:26:36 AM",
+  "last_updated": "2026-02-16 11:51:06 AM",
   "shows": [
     {
       "state": "MA",
@@ -160,14 +160,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 7,
           "totalSeatCount": 294,
-          "grossRevenueUSD": 76.74,
+          "grossRevenueUSD": 89.53,
           "adultTicketPrice": 12.79,
-          "occupancy": 2.04
+          "occupancy": 2.38
         }
       ],
-      "finalGrossRevenueUSD": 76.74
+      "finalGrossRevenueUSD": 89.53
     },
     {
       "state": "MA",
@@ -3646,14 +3646,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 45,
-          "grossRevenueUSD": 10.5,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 10.5,
-          "occupancy": 2.22
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 10.5
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "MI",
@@ -5221,14 +5221,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 127,
-          "grossRevenueUSD": 42.18,
+          "grossRevenueUSD": 70.3,
           "adultTicketPrice": 14.06,
-          "occupancy": 2.36
+          "occupancy": 3.94
         }
       ],
-      "finalGrossRevenueUSD": 42.18
+      "finalGrossRevenueUSD": 70.3
     },
     {
       "state": "TX",
@@ -7594,14 +7594,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 227,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.7,
           "adultTicketPrice": 14.7,
-          "occupancy": 0.0
+          "occupancy": 0.44
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.7
     },
     {
       "state": "WA",
