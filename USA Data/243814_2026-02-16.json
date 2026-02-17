@@ -1522,11 +1522,11 @@
     "date": "2026-02-16+23:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 4,
     "totalSeatCount": 139,
-    "occupancy": 0.72,
+    "occupancy": 2.88,
     "adultTicketPrice": 14.43,
-    "grossRevenueUSD": 14.43
+    "grossRevenueUSD": 57.72
   },
   {
     "state": "SC",
@@ -4254,11 +4254,11 @@
     "date": "2026-02-16+22:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
+    "totalSeatSold": 2,
     "totalSeatCount": 59,
-    "occupancy": 5.08,
+    "occupancy": 3.39,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 42.18
+    "grossRevenueUSD": 28.12
   },
   {
     "state": "TX",
@@ -4407,11 +4407,11 @@
     "date": "2026-02-16+22:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 3,
     "totalSeatCount": 91,
-    "occupancy": 0.0,
+    "occupancy": 3.3,
     "adultTicketPrice": 14.07,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 42.21
   },
   {
     "state": "TX",
@@ -4492,11 +4492,11 @@
     "date": "2026-02-16+21:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 4,
     "totalSeatCount": 57,
-    "occupancy": 0.0,
+    "occupancy": 7.02,
     "adultTicketPrice": 10.83,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 43.32
   },
   {
     "state": "TX",
@@ -5767,11 +5767,11 @@
     "date": "2026-02-16+21:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 51,
-    "occupancy": 0.0,
+    "occupancy": 1.96,
     "adultTicketPrice": 15.25,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 15.25
   },
   {
     "state": "CA",
@@ -5852,11 +5852,11 @@
     "date": "2026-02-16+22:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 112,
-    "occupancy": 0.0,
+    "occupancy": 1.79,
     "adultTicketPrice": 15.5,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 31.0
   },
   {
     "state": "CA",
@@ -5886,11 +5886,11 @@
     "date": "2026-02-16+21:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 8,
+    "totalSeatSold": 10,
     "totalSeatCount": 106,
-    "occupancy": 7.55,
+    "occupancy": 9.43,
     "adultTicketPrice": 17.49,
-    "grossRevenueUSD": 139.92
+    "grossRevenueUSD": 174.9
   },
   {
     "state": "CA",
@@ -6158,11 +6158,11 @@
     "date": "2026-02-16+19:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 6,
     "totalSeatCount": 227,
-    "occupancy": 0.0,
+    "occupancy": 2.64,
     "adultTicketPrice": 14.7,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 88.2
   },
   {
     "state": "WA",
@@ -6297,5 +6297,22 @@
     "occupancy": 30.23,
     "adultTicketPrice": 13.85,
     "grossRevenueUSD": 360.1
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 535125286,
+    "date": "2026-02-16+22:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "totalSeatCount": 80,
+    "occupancy": 0.0,
+    "adultTicketPrice": 7.58,
+    "grossRevenueUSD": 0.0
   }
 ]
