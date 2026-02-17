@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17 12:33:31 AM",
+  "last_updated": "2026-02-17 01:38:09 AM",
   "shows": [
     {
       "state": "MA",
@@ -160,14 +160,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 7,
           "totalSeatCount": 294,
-          "grossRevenueUSD": 76.74,
+          "grossRevenueUSD": 89.53,
           "adultTicketPrice": 12.79,
-          "occupancy": 2.04
+          "occupancy": 2.38
         }
       ],
-      "finalGrossRevenueUSD": 76.74
+      "finalGrossRevenueUSD": 89.53
     },
     {
       "state": "MA",
@@ -2743,14 +2743,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 0,
-          "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
-          "occupancy": 0.0
+          "totalSeatSold": 1,
+          "totalSeatCount": 116,
+          "grossRevenueUSD": 11.54,
+          "adultTicketPrice": 11.54,
+          "occupancy": 0.86
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.54
     },
     {
       "state": "TN",
@@ -6397,14 +6397,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 2,
           "totalSeatCount": 41,
-          "grossRevenueUSD": 29.85,
+          "grossRevenueUSD": 11.94,
           "adultTicketPrice": 5.97,
-          "occupancy": 12.2
+          "occupancy": 4.88
         }
       ],
-      "finalGrossRevenueUSD": 29.85
+      "finalGrossRevenueUSD": 11.94
     },
     {
       "state": "CO",
@@ -6566,9 +6566,9 @@
         {
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 39,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 0,
+          "adultTicketPrice": 11.34,
           "occupancy": 0.0
         }
       ],
