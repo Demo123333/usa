@@ -1,0 +1,131 @@
+{
+  "last_updated": "2026-02-17 02:03:31 PM",
+  "errors": [
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema D-Box & OCX",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 534885601,
+      "date": "2026-02-17+14:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Augusta",
+      "zip": "30909",
+      "theater_name": "Regal Augusta Exchange & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 534556264,
+      "date": "2026-02-17+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534617500,
+      "date": "2026-02-17+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33647",
+      "theater_name": "AMC Highwoods 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534596454,
+      "date": "2026-02-17+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Montgomery",
+      "zip": "36117",
+      "theater_name": "AMC Chantilly 13",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534777264,
+      "date": "2026-02-17+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613942,
+      "date": "2026-02-17+10:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534613941,
+      "date": "2026-02-17+16:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85044",
+      "theater_name": "AMC Ahwatukee 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 534704287,
+      "date": "2026-02-17+14:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "invalid_seat_count"
+      }
+    }
+  ]
+}
