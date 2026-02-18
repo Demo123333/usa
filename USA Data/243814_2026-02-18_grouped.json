@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 12:33:43 AM",
+  "last_updated": "2026-02-18 01:36:25 AM",
   "shows": [
     {
       "state": "MA",
@@ -1903,14 +1903,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 64,
-          "grossRevenueUSD": 15.09,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.09,
-          "occupancy": 1.56
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 15.09
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "GA",
