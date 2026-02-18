@@ -282,11 +282,11 @@
     "date": "2026-02-18+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 2,
+    "totalSeatSold": 4,
     "totalSeatCount": 71,
-    "occupancy": 2.82,
+    "occupancy": 5.63,
     "adultTicketPrice": 13.25,
-    "grossRevenueUSD": 26.5
+    "grossRevenueUSD": 53.0
   },
   {
     "state": "NJ",
@@ -5360,11 +5360,11 @@
     "date": "2026-02-18+15:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
+    "totalSeatSold": 0,
     "totalSeatCount": 106,
-    "occupancy": 2.83,
+    "occupancy": 0.0,
     "adultTicketPrice": 13.99,
-    "grossRevenueUSD": 41.97
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "CA",
@@ -5688,5 +5688,20 @@
     "occupancy": 0.0,
     "adultTicketPrice": 14.7,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "NJ",
+    "city": "Elizabeth",
+    "zip": "07201",
+    "theater_name": "AMC Jersey Gardens 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-18+14:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "missing_showtime_id"
+    }
   }
 ]
