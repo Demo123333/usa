@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 02:22:18 PM",
+  "last_updated": "2026-02-18 02:58:58 PM",
   "shows": [
     {
       "state": "MA",
@@ -601,14 +601,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 6,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 59.72,
+          "grossRevenueUSD": 89.58,
           "adultTicketPrice": 14.93,
-          "occupancy": 3.1
+          "occupancy": 4.65
         }
       ],
-      "finalGrossRevenueUSD": 59.72
+      "finalGrossRevenueUSD": 89.58
     },
     {
       "state": "NJ",
@@ -916,14 +916,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 65,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 12.25,
           "adultTicketPrice": 12.25,
-          "occupancy": 0.0
+          "occupancy": 1.54
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 12.25
     },
     {
       "state": "PA",
@@ -1210,14 +1210,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 299,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 0.33
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.0
     },
     {
       "state": "VA",
@@ -1588,14 +1588,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 11,
+          "totalSeatSold": 13,
           "totalSeatCount": 97,
-          "grossRevenueUSD": 158.73,
+          "grossRevenueUSD": 187.59,
           "adultTicketPrice": 14.43,
-          "occupancy": 11.34
+          "occupancy": 13.4
         }
       ],
-      "finalGrossRevenueUSD": 158.73
+      "finalGrossRevenueUSD": 187.59
     },
     {
       "state": "NC",
@@ -1693,14 +1693,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 70,
-          "grossRevenueUSD": 30.04,
+          "grossRevenueUSD": 60.08,
           "adultTicketPrice": 15.02,
-          "occupancy": 2.86
+          "occupancy": 5.71
         }
       ],
-      "finalGrossRevenueUSD": 30.04
+      "finalGrossRevenueUSD": 60.08
     },
     {
       "state": "NC",
@@ -1987,14 +1987,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 12,
+          "totalSeatSold": 13,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 181.08,
+          "grossRevenueUSD": 196.17,
           "adultTicketPrice": 15.09,
-          "occupancy": 12.5
+          "occupancy": 13.54
         }
       ],
-      "finalGrossRevenueUSD": 181.08
+      "finalGrossRevenueUSD": 196.17
     },
     {
       "state": "GA",
@@ -2134,14 +2134,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 4,
           "totalSeatCount": 92,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 61.0,
           "adultTicketPrice": 15.25,
-          "occupancy": 0.0
+          "occupancy": 4.35
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 61.0
     },
     {
       "state": "GA",
@@ -2197,14 +2197,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 67,
-          "grossRevenueUSD": 30.08,
+          "grossRevenueUSD": 60.16,
           "adultTicketPrice": 15.04,
-          "occupancy": 2.99
+          "occupancy": 5.97
         }
       ],
-      "finalGrossRevenueUSD": 30.08
+      "finalGrossRevenueUSD": 60.16
     },
     {
       "state": "FL",
@@ -3919,14 +3919,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 2,
           "totalSeatCount": 108,
-          "grossRevenueUSD": 11.99,
+          "grossRevenueUSD": 23.98,
           "adultTicketPrice": 11.99,
-          "occupancy": 0.93
+          "occupancy": 1.85
         }
       ],
-      "finalGrossRevenueUSD": 11.99
+      "finalGrossRevenueUSD": 23.98
     },
     {
       "state": "IL",
@@ -4234,14 +4234,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 12,
           "totalSeatCount": 86,
-          "grossRevenueUSD": 83.1,
+          "grossRevenueUSD": 166.2,
           "adultTicketPrice": 13.85,
-          "occupancy": 6.98
+          "occupancy": 13.95
         }
       ],
-      "finalGrossRevenueUSD": 83.1
+      "finalGrossRevenueUSD": 166.2
     },
     {
       "state": "KS",
@@ -6040,14 +6040,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 36.0,
+          "grossRevenueUSD": 60.0,
           "adultTicketPrice": 12.0,
-          "occupancy": 6.12
+          "occupancy": 10.2
         }
       ],
-      "finalGrossRevenueUSD": 36.0
+      "finalGrossRevenueUSD": 60.0
     },
     {
       "state": "AZ",
@@ -6539,7 +6539,7 @@
       "theater_name": "Cin\u00e9 Lounge Fremont 7",
       "chainName": "RTSIND",
       "chainCode": "RTSIND",
-      "date": "2026-02-18+18:30",
+      "date": "2026-02-18+16:30",
       "language": "Telugu",
       "formats": [
         {
@@ -6649,14 +6649,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 11,
+          "totalSeatSold": 13,
           "totalSeatCount": 114,
-          "grossRevenueUSD": 192.39,
+          "grossRevenueUSD": 227.37,
           "adultTicketPrice": 17.49,
-          "occupancy": 9.65
+          "occupancy": 11.4
         }
       ],
-      "finalGrossRevenueUSD": 192.39
+      "finalGrossRevenueUSD": 227.37
     },
     {
       "state": "CA",
