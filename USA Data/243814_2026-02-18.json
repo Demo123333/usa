@@ -282,11 +282,11 @@
     "date": "2026-02-18+21:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 4,
+    "totalSeatSold": 6,
     "totalSeatCount": 71,
-    "occupancy": 5.63,
+    "occupancy": 8.45,
     "adultTicketPrice": 13.25,
-    "grossRevenueUSD": 53.0
+    "grossRevenueUSD": 79.5
   },
   {
     "state": "NJ",
@@ -656,11 +656,11 @@
     "date": "2026-02-18+17:10",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 100,
-    "occupancy": 1.0,
+    "occupancy": 0.0,
     "adultTicketPrice": 14.0,
-    "grossRevenueUSD": 14.0
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NY",
@@ -911,11 +911,11 @@
     "date": "2026-02-18+19:55",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 48,
-    "occupancy": 0.0,
+    "occupancy": 2.08,
     "adultTicketPrice": 14.0,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 14.0
   },
   {
     "state": "PA",
@@ -1538,11 +1538,11 @@
     "date": "2026-02-18+15:50",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 64,
-    "occupancy": 0.0,
+    "occupancy": 1.56,
     "adultTicketPrice": 15.09,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 15.09
   },
   {
     "state": "GA",
@@ -1606,11 +1606,11 @@
     "date": "2026-02-18+18:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 7,
+    "totalSeatSold": 10,
     "totalSeatCount": 96,
-    "occupancy": 7.29,
+    "occupancy": 10.42,
     "adultTicketPrice": 15.09,
-    "grossRevenueUSD": 105.63
+    "grossRevenueUSD": 150.9
   },
   {
     "state": "GA",
@@ -2284,11 +2284,11 @@
     "date": "2026-02-18+21:40",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 59,
-    "occupancy": 0.0,
+    "occupancy": 1.69,
     "adultTicketPrice": 13.24,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 13.24
   },
   {
     "state": "OH",
@@ -3032,11 +3032,11 @@
     "date": "2026-02-18+16:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 2,
     "totalSeatCount": 89,
-    "occupancy": 0.0,
+    "occupancy": 2.25,
     "adultTicketPrice": 15.65,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 31.3
   },
   {
     "state": "IL",
@@ -3134,11 +3134,11 @@
     "date": "2026-02-18+15:05",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 4,
     "totalSeatCount": 174,
-    "occupancy": 0.0,
+    "occupancy": 2.3,
     "adultTicketPrice": 7.5,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 30.0
   },
   {
     "state": "IL",
@@ -3168,11 +3168,11 @@
     "date": "2026-02-18+20:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 108,
-    "occupancy": 0.0,
+    "occupancy": 0.93,
     "adultTicketPrice": 11.99,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 11.99
   },
   {
     "state": "IL",
@@ -3422,11 +3422,11 @@
     "date": "2026-02-18+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 3,
+    "totalSeatSold": 5,
     "totalSeatCount": 86,
-    "occupancy": 3.49,
+    "occupancy": 5.81,
     "adultTicketPrice": 13.85,
-    "grossRevenueUSD": 41.55
+    "grossRevenueUSD": 69.25
   },
   {
     "state": "KS",
@@ -3932,11 +3932,11 @@
     "date": "2026-02-18+19:45",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 14,
+    "totalSeatSold": 15,
     "totalSeatCount": 52,
-    "occupancy": 26.92,
+    "occupancy": 28.85,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 196.84
+    "grossRevenueUSD": 210.9
   },
   {
     "state": "TX",
@@ -5703,5 +5703,22 @@
     "error": {
       "reason": "missing_showtime_id"
     }
+  },
+  {
+    "state": "VA",
+    "city": "Herndon",
+    "zip": "20170",
+    "theater_name": "AMC Worldgate 9",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 534309192,
+    "date": "2026-02-18+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "totalSeatCount": 76,
+    "occupancy": 0.0,
+    "adultTicketPrice": 15.49,
+    "grossRevenueUSD": 0.0
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 12:28:00 PM",
+  "last_updated": "2026-02-18 01:03:55 PM",
   "shows": [
     {
       "state": "MA",
@@ -349,14 +349,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 6,
           "totalSeatCount": 71,
-          "grossRevenueUSD": 53.0,
+          "grossRevenueUSD": 79.5,
           "adultTicketPrice": 13.25,
-          "occupancy": 5.63
+          "occupancy": 8.45
         }
       ],
-      "finalGrossRevenueUSD": 53.0
+      "finalGrossRevenueUSD": 79.5
     },
     {
       "state": "NJ",
@@ -811,14 +811,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 100,
-          "grossRevenueUSD": 14.0,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 1.0
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 14.0
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "NY",
@@ -1126,14 +1126,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 48,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 2.08
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.0
     },
     {
       "state": "PA",
@@ -1903,14 +1903,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 64,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.09,
           "adultTicketPrice": 15.09,
-          "occupancy": 0.0
+          "occupancy": 1.56
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.09
     },
     {
       "state": "GA",
@@ -1987,14 +1987,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 10,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 105.63,
+          "grossRevenueUSD": 150.9,
           "adultTicketPrice": 15.09,
-          "occupancy": 7.29
+          "occupancy": 10.42
         }
       ],
-      "finalGrossRevenueUSD": 105.63
+      "finalGrossRevenueUSD": 150.9
     },
     {
       "state": "GA",
@@ -2827,14 +2827,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 59,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 13.24,
           "adultTicketPrice": 13.24,
-          "occupancy": 0.0
+          "occupancy": 1.69
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 13.24
     },
     {
       "state": "OH",
@@ -3751,14 +3751,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 89,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 31.3,
           "adultTicketPrice": 15.65,
-          "occupancy": 0.0
+          "occupancy": 2.25
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 31.3
     },
     {
       "state": "IL",
@@ -3877,14 +3877,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 4,
           "totalSeatCount": 174,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 30.0,
           "adultTicketPrice": 7.5,
-          "occupancy": 0.0
+          "occupancy": 2.3
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 30.0
     },
     {
       "state": "IL",
@@ -3919,14 +3919,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 108,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 11.99,
           "adultTicketPrice": 11.99,
-          "occupancy": 0.0
+          "occupancy": 0.93
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 11.99
     },
     {
       "state": "IL",
@@ -4234,14 +4234,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 86,
-          "grossRevenueUSD": 41.55,
+          "grossRevenueUSD": 69.25,
           "adultTicketPrice": 13.85,
-          "occupancy": 3.49
+          "occupancy": 5.81
         }
       ],
-      "finalGrossRevenueUSD": 41.55
+      "finalGrossRevenueUSD": 69.25
     },
     {
       "state": "KS",
@@ -4864,14 +4864,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 14,
+          "totalSeatSold": 15,
           "totalSeatCount": 52,
-          "grossRevenueUSD": 196.84,
+          "grossRevenueUSD": 210.9,
           "adultTicketPrice": 14.06,
-          "occupancy": 26.92
+          "occupancy": 28.85
         }
       ],
-      "finalGrossRevenueUSD": 196.84
+      "finalGrossRevenueUSD": 210.9
     },
     {
       "state": "TX",
@@ -7031,6 +7031,27 @@
           "totalSeatCount": 156,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.7,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "VA",
+      "city": "Herndon",
+      "zip": "20170",
+      "theater_name": "AMC Worldgate 9",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-02-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 76,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 15.49,
           "occupancy": 0.0
         }
       ],
