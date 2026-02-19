@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 05:01:19 PM",
+  "last_updated": "2026-02-19 05:32:32 PM",
   "errors": [
     {
       "state": "IL",
@@ -15,6 +15,21 @@
       "error": {
         "reason": "invalid_showtime",
         "status": 400
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": null,
+      "date": "2026-02-19+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "reason": "missing_showtime_id"
       }
     }
   ]

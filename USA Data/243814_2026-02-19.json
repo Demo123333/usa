@@ -112,11 +112,11 @@
     "date": "2026-02-19+12:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 109,
-    "occupancy": 0.92,
+    "occupancy": 0.0,
     "adultTicketPrice": 14.93,
-    "grossRevenueUSD": 14.93
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NJ",
@@ -605,11 +605,11 @@
     "date": "2026-02-19+20:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 92,
-    "occupancy": 1.09,
+    "occupancy": 0.0,
     "adultTicketPrice": 15.02,
-    "grossRevenueUSD": 15.02
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NC",
@@ -962,11 +962,11 @@
     "date": "2026-02-19+12:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 282,
-    "occupancy": 0.35,
+    "occupancy": 0.0,
     "adultTicketPrice": 15.4,
-    "grossRevenueUSD": 15.4
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "AL",
@@ -2581,5 +2581,20 @@
     "occupancy": 0.0,
     "adultTicketPrice": 14.7,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-19+16:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "missing_showtime_id"
+    }
   }
 ]
