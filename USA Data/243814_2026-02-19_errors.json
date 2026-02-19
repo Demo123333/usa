@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-02-19 02:01:37 PM",
+  "errors": [
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "GQT Willow Knolls 14",
+      "chainName": "GQT Movies",
+      "chainCode": "GOOD",
+      "showtime_id": 534614072,
+      "date": "2026-02-19+10:20",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "reason": "invalid_showtime",
+        "status": 400
+      }
+    }
+  ]
+}
