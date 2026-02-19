@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 09:42:33 AM",
+  "last_updated": "2026-02-19 10:38:39 AM",
   "shows": [
     {
       "state": "MA",
@@ -454,14 +454,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 131,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 0.76
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.0
     },
     {
       "state": "PA",
@@ -1000,14 +1000,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 8,
           "totalSeatCount": 186,
-          "grossRevenueUSD": 105.63,
+          "grossRevenueUSD": 120.72,
           "adultTicketPrice": 15.09,
-          "occupancy": 3.76
+          "occupancy": 4.3
         }
       ],
-      "finalGrossRevenueUSD": 105.63
+      "finalGrossRevenueUSD": 120.72
     },
     {
       "state": "GA",
@@ -1987,14 +1987,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 2,
           "totalSeatCount": 56,
-          "grossRevenueUSD": 11.07,
+          "grossRevenueUSD": 22.14,
           "adultTicketPrice": 11.07,
-          "occupancy": 1.79
+          "occupancy": 3.57
         }
       ],
-      "finalGrossRevenueUSD": 11.07
+      "finalGrossRevenueUSD": 22.14
     },
     {
       "state": "KS",
@@ -2218,14 +2218,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 87,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 28.12,
           "adultTicketPrice": 14.06,
-          "occupancy": 0.0
+          "occupancy": 2.3
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 28.12
     },
     {
       "state": "TX",
