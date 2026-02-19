@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 12:21:19 PM",
+  "last_updated": "2026-02-19 12:55:39 PM",
   "shows": [
     {
       "state": "MA",
@@ -34,14 +34,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 124,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.99,
           "adultTicketPrice": 15.99,
-          "occupancy": 0.0
+          "occupancy": 0.81
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.99
     },
     {
       "state": "MA",
@@ -160,14 +160,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 1,
           "totalSeatCount": 109,
-          "grossRevenueUSD": 29.86,
+          "grossRevenueUSD": 14.93,
           "adultTicketPrice": 14.93,
-          "occupancy": 1.83
+          "occupancy": 0.92
         }
       ],
-      "finalGrossRevenueUSD": 29.86
+      "finalGrossRevenueUSD": 14.93
     },
     {
       "state": "NJ",
@@ -328,14 +328,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 319,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 29.86,
           "adultTicketPrice": 14.93,
-          "occupancy": 0.0
+          "occupancy": 0.63
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 29.86
     },
     {
       "state": "NY",
@@ -2890,14 +2890,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 11,
           "totalSeatCount": 195,
-          "grossRevenueUSD": 84.0,
+          "grossRevenueUSD": 154.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 3.08
+          "occupancy": 5.64
         }
       ],
-      "finalGrossRevenueUSD": 84.0
+      "finalGrossRevenueUSD": 154.0
     },
     {
       "state": "CA",
