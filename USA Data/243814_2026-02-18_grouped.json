@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-18 05:08:26 PM",
+  "last_updated": "2026-02-18 07:57:16 PM",
   "shows": [
     {
       "state": "MA",
@@ -1609,14 +1609,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 12,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 72.15,
+          "grossRevenueUSD": 173.16,
           "adultTicketPrice": 14.43,
-          "occupancy": 3.6
+          "occupancy": 8.63
         }
       ],
-      "finalGrossRevenueUSD": 72.15
+      "finalGrossRevenueUSD": 173.16
     },
     {
       "state": "NC",
@@ -3331,14 +3331,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 50,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 36.94,
           "adultTicketPrice": 18.47,
-          "occupancy": 0.0
+          "occupancy": 4.0
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 36.94
     },
     {
       "state": "MI",
@@ -4444,14 +4444,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 76,
-          "grossRevenueUSD": 10.32,
+          "grossRevenueUSD": 30.96,
           "adultTicketPrice": 10.32,
-          "occupancy": 1.32
+          "occupancy": 3.95
         }
       ],
-      "finalGrossRevenueUSD": 10.32
+      "finalGrossRevenueUSD": 30.96
     },
     {
       "state": "OK",
@@ -5179,14 +5179,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 72,
-          "grossRevenueUSD": 14.07,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.07,
-          "occupancy": 1.39
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 14.07
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -6523,14 +6523,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 181,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 42.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 1.66
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 42.0
     },
     {
       "state": "CA",
@@ -6649,14 +6649,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 13,
+          "totalSeatSold": 15,
           "totalSeatCount": 114,
-          "grossRevenueUSD": 227.37,
+          "grossRevenueUSD": 262.35,
           "adultTicketPrice": 17.49,
-          "occupancy": 11.4
+          "occupancy": 13.16
         }
       ],
-      "finalGrossRevenueUSD": 227.37
+      "finalGrossRevenueUSD": 262.35
     },
     {
       "state": "CA",
@@ -7052,6 +7052,27 @@
           "totalSeatCount": 76,
           "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.49,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "date": "2026-02-18+22:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 87,
+          "grossRevenueUSD": 0.0,
+          "adultTicketPrice": 10.01,
           "occupancy": 0.0
         }
       ],
