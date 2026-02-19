@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 03:23:04 PM",
+  "last_updated": "2026-02-19 03:51:30 PM",
   "shows": [
     {
       "state": "MA",
@@ -979,14 +979,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 20,
+          "totalSeatSold": 22,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 301.8,
+          "grossRevenueUSD": 331.98,
           "adultTicketPrice": 15.09,
-          "occupancy": 20.83
+          "occupancy": 22.92
         }
       ],
-      "finalGrossRevenueUSD": 301.8
+      "finalGrossRevenueUSD": 331.98
     },
     {
       "state": "GA",
@@ -1966,14 +1966,14 @@
       "formats": [
         {
           "format": "xl at amc",
-          "totalSeatSold": 2,
+          "totalSeatSold": 1,
           "totalSeatCount": 296,
-          "grossRevenueUSD": 32.12,
+          "grossRevenueUSD": 16.06,
           "adultTicketPrice": 16.06,
-          "occupancy": 0.68
+          "occupancy": 0.34
         }
       ],
-      "finalGrossRevenueUSD": 32.12
+      "finalGrossRevenueUSD": 16.06
     },
     {
       "state": "KS",
@@ -2428,14 +2428,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 12.18,
+          "grossRevenueUSD": 36.54,
           "adultTicketPrice": 12.18,
-          "occupancy": 2.04
+          "occupancy": 6.12
         }
       ],
-      "finalGrossRevenueUSD": 12.18
+      "finalGrossRevenueUSD": 36.54
     },
     {
       "state": "TX",
