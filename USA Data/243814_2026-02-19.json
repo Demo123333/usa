@@ -44,11 +44,11 @@
     "date": "2026-02-19+11:00",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 1,
+    "totalSeatSold": 0,
     "totalSeatCount": 294,
-    "occupancy": 0.34,
+    "occupancy": 0.0,
     "adultTicketPrice": 12.79,
-    "grossRevenueUSD": 12.79
+    "grossRevenueUSD": 0.0
   },
   {
     "state": "NY",
@@ -639,11 +639,11 @@
     "date": "2026-02-19+19:25",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 5,
+    "totalSeatSold": 7,
     "totalSeatCount": 70,
-    "occupancy": 7.14,
+    "occupancy": 10.0,
     "adultTicketPrice": 15.02,
-    "grossRevenueUSD": 75.1
+    "grossRevenueUSD": 105.14
   },
   {
     "state": "NC",
