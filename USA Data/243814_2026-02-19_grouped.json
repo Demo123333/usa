@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 07:38:26 AM",
+  "last_updated": "2026-02-19 08:39:48 AM",
   "shows": [
     {
       "state": "MA",
@@ -349,14 +349,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 91,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 1.1
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.0
     },
     {
       "state": "NY",
@@ -979,14 +979,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 11,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 105.63,
+          "grossRevenueUSD": 165.99,
           "adultTicketPrice": 15.09,
-          "occupancy": 7.29
+          "occupancy": 11.46
         }
       ],
-      "finalGrossRevenueUSD": 105.63
+      "finalGrossRevenueUSD": 165.99
     },
     {
       "state": "GA",
@@ -1000,14 +1000,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 7,
           "totalSeatCount": 186,
-          "grossRevenueUSD": 90.54,
+          "grossRevenueUSD": 105.63,
           "adultTicketPrice": 15.09,
-          "occupancy": 3.23
+          "occupancy": 3.76
         }
       ],
-      "finalGrossRevenueUSD": 90.54
+      "finalGrossRevenueUSD": 105.63
     },
     {
       "state": "GA",
@@ -1234,7 +1234,7 @@
           "totalSeatSold": 0,
           "totalSeatCount": 215,
           "grossRevenueUSD": 0.0,
-          "adultTicketPrice": 17.55,
+          "adultTicketPrice": 15.37,
           "occupancy": 0.0
         }
       ],
@@ -1247,7 +1247,7 @@
       "theater_name": "Regal Providence",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-02-19+22:15",
+      "date": "2026-02-19+14:00",
       "language": "Telugu",
       "formats": [
         {
@@ -2218,14 +2218,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 0,
           "totalSeatCount": 87,
-          "grossRevenueUSD": 28.12,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 14.06,
-          "occupancy": 2.3
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 28.12
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TX",
@@ -2533,14 +2533,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 12.18,
           "adultTicketPrice": 12.18,
-          "occupancy": 0.0
+          "occupancy": 0.75
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 12.18
     },
     {
       "state": "TX",
@@ -2827,14 +2827,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 50,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 0.0
+          "occupancy": 2.0
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.0
     },
     {
       "state": "CA",
