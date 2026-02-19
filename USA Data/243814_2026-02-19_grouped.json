@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 02:33:25 AM",
+  "last_updated": "2026-02-19 03:31:19 AM",
   "shows": [
     {
       "state": "MA",
@@ -139,14 +139,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 109,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 14.93,
           "adultTicketPrice": 14.93,
-          "occupancy": 0.0
+          "occupancy": 0.92
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 14.93
     },
     {
       "state": "NJ",
@@ -223,14 +223,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 29.86,
           "adultTicketPrice": 14.93,
-          "occupancy": 0.0
+          "occupancy": 1.55
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 29.86
     },
     {
       "state": "NJ",
@@ -748,14 +748,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 92,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.02,
           "adultTicketPrice": 15.02,
-          "occupancy": 0.0
+          "occupancy": 1.09
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.02
     },
     {
       "state": "NC",
@@ -1189,14 +1189,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 282,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 15.4,
           "adultTicketPrice": 15.4,
-          "occupancy": 0.0
+          "occupancy": 0.35
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 15.4
     },
     {
       "state": "AL",
