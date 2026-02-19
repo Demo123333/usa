@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 05:46:33 AM",
+  "last_updated": "2026-02-19 06:41:46 AM",
   "shows": [
     {
       "state": "MA",
@@ -1210,14 +1210,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 165,
-          "grossRevenueUSD": 15.4,
+          "grossRevenueUSD": 0.0,
           "adultTicketPrice": 15.4,
-          "occupancy": 0.61
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 15.4
+      "finalGrossRevenueUSD": 0.0
     },
     {
       "state": "TN",
