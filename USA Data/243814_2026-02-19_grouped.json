@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 01:35:04 AM",
+  "last_updated": "2026-02-19 02:33:25 AM",
   "shows": [
     {
       "state": "MA",
@@ -76,14 +76,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 4,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 70.0,
+          "grossRevenueUSD": 56.0,
           "adultTicketPrice": 14.0,
-          "occupancy": 5.21
+          "occupancy": 4.17
         }
       ],
-      "finalGrossRevenueUSD": 70.0
+      "finalGrossRevenueUSD": 56.0
     },
     {
       "state": "CT",
@@ -286,14 +286,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 1,
           "totalSeatCount": 61,
-          "grossRevenueUSD": 29.86,
+          "grossRevenueUSD": 14.93,
           "adultTicketPrice": 14.93,
-          "occupancy": 3.28
+          "occupancy": 1.64
         }
       ],
-      "finalGrossRevenueUSD": 29.86
+      "finalGrossRevenueUSD": 14.93
     },
     {
       "state": "NJ",
