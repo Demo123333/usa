@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20 07:29:33 AM",
+  "last_updated": "2026-02-20 08:00:51 AM",
   "shows": [
     {
       "state": "NJ",
@@ -349,14 +349,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 17.99,
           "adultTicketPrice": 17.99,
-          "occupancy": 0.0
+          "occupancy": 2.04
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 17.99
     },
     {
       "state": "CA",
