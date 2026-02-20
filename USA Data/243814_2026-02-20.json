@@ -129,11 +129,11 @@
     "date": "2026-02-20+22:15",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
+    "totalSeatSold": 1,
     "totalSeatCount": 64,
-    "occupancy": 0.0,
+    "occupancy": 1.56,
     "adultTicketPrice": 15.99,
-    "grossRevenueUSD": 0.0
+    "grossRevenueUSD": 15.99
   },
   {
     "state": "NC",
@@ -265,11 +265,11 @@
     "date": "2026-02-20+17:35",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 6,
+    "totalSeatSold": 9,
     "totalSeatCount": 50,
-    "occupancy": 12.0,
+    "occupancy": 18.0,
     "adultTicketPrice": 14.06,
-    "grossRevenueUSD": 84.36
+    "grossRevenueUSD": 126.54
   },
   {
     "state": "CA",
@@ -338,5 +338,20 @@
     "occupancy": 0.0,
     "adultTicketPrice": 12.59,
     "grossRevenueUSD": 0.0
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-20+17:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "reason": "missing_showtime_id"
+    }
   }
 ]
