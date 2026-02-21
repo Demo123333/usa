@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 01:13:23 PM",
+  "last_updated": "2026-02-21 01:43:17 PM",
   "shows": [
     {
       "state": "NJ",
@@ -202,14 +202,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 54.93,
+          "grossRevenueUSD": 91.55,
           "adultTicketPrice": 18.31,
-          "occupancy": 3.12
+          "occupancy": 5.21
         }
       ],
-      "finalGrossRevenueUSD": 54.93
+      "finalGrossRevenueUSD": 91.55
     },
     {
       "state": "OH",
@@ -391,14 +391,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 8,
           "totalSeatCount": 123,
-          "grossRevenueUSD": 88.13,
+          "grossRevenueUSD": 100.72,
           "adultTicketPrice": 12.59,
-          "occupancy": 5.69
+          "occupancy": 6.5
         }
       ],
-      "finalGrossRevenueUSD": 88.13
+      "finalGrossRevenueUSD": 100.72
     }
   ]
 }
