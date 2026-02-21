@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 08:15:47 AM",
+  "last_updated": "2026-02-21 08:52:43 AM",
   "shows": [
     {
       "state": "NJ",
@@ -76,14 +76,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 4,
           "totalSeatCount": 52,
-          "grossRevenueUSD": 0.0,
+          "grossRevenueUSD": 61.8,
           "adultTicketPrice": 15.45,
-          "occupancy": 0.0
+          "occupancy": 7.69
         }
       ],
-      "finalGrossRevenueUSD": 0.0
+      "finalGrossRevenueUSD": 61.8
     },
     {
       "state": "NJ",
@@ -118,14 +118,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 6,
           "totalSeatCount": 64,
-          "grossRevenueUSD": 12.49,
+          "grossRevenueUSD": 74.94,
           "adultTicketPrice": 12.49,
-          "occupancy": 1.56
+          "occupancy": 9.38
         }
       ],
-      "finalGrossRevenueUSD": 12.49
+      "finalGrossRevenueUSD": 74.94
     },
     {
       "state": "VA",
@@ -286,14 +286,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 2,
           "totalSeatCount": 46,
-          "grossRevenueUSD": 13.85,
+          "grossRevenueUSD": 27.7,
           "adultTicketPrice": 13.85,
-          "occupancy": 2.17
+          "occupancy": 4.35
         }
       ],
-      "finalGrossRevenueUSD": 13.85
+      "finalGrossRevenueUSD": 27.7
     },
     {
       "state": "TX",
@@ -391,14 +391,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 7,
           "totalSeatCount": 123,
-          "grossRevenueUSD": 62.95,
+          "grossRevenueUSD": 88.13,
           "adultTicketPrice": 12.59,
-          "occupancy": 4.07
+          "occupancy": 5.69
         }
       ],
-      "finalGrossRevenueUSD": 62.95
+      "finalGrossRevenueUSD": 88.13
     }
   ]
 }
