@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21 03:43:38 PM",
+  "last_updated": "2026-02-21 05:06:50 PM",
   "shows": [
     {
       "state": "NJ",
@@ -202,14 +202,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 11,
+          "totalSeatSold": 14,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 201.41,
+          "grossRevenueUSD": 256.34,
           "adultTicketPrice": 18.31,
-          "occupancy": 11.46
+          "occupancy": 14.58
         }
       ],
-      "finalGrossRevenueUSD": 201.41
+      "finalGrossRevenueUSD": 256.34
     },
     {
       "state": "OH",
@@ -349,14 +349,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 8,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 125.93,
+          "grossRevenueUSD": 143.92,
           "adultTicketPrice": 17.99,
-          "occupancy": 14.29
+          "occupancy": 16.33
         }
       ],
-      "finalGrossRevenueUSD": 125.93
+      "finalGrossRevenueUSD": 143.92
     },
     {
       "state": "CA",
@@ -370,14 +370,14 @@
       "formats": [
         {
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 5,
           "totalSeatCount": 49,
-          "grossRevenueUSD": 71.96,
+          "grossRevenueUSD": 89.95,
           "adultTicketPrice": 17.99,
-          "occupancy": 8.16
+          "occupancy": 10.2
         }
       ],
-      "finalGrossRevenueUSD": 71.96
+      "finalGrossRevenueUSD": 89.95
     },
     {
       "state": "WA",
