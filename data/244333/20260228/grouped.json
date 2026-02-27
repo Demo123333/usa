@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-27 11:21:04 AM",
+  "last_updated": "2026-02-27 12:26:11 PM",
   "total_gross_usd": 708.6,
   "total_gross_with_fee": 809.34,
   "total_shows": 29,
   "total_sold": 46,
-  "total_capacity": 2991,
+  "total_capacity": 3132,
   "shows": [
     {
       "state": "NJ",
@@ -776,18 +776,18 @@
           "showtime_id": 536559099,
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 0,
+          "totalSeatCount": 141,
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
-          "adultTicketPrice": 0,
-          "fee": 0,
+          "adultTicketPrice": 15.71,
+          "fee": 2.19,
           "occupancy": 0.0
         }
       ],
       "finalGrossRevenueUSD": 0.0,
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
-      "finalTotalCapacity": 0
+      "finalTotalCapacity": 141
     }
   ]
 }

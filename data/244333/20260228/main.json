@@ -570,6 +570,26 @@
     "date": "2026-02-28+21:30",
     "format": "Standard",
     "language": "Unknown",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 141,
+    "totalSeatCount": 141,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.71,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "NC",
+    "city": "Concord",
+    "zip": "28027",
+    "theater_name": "AMC Concord Mills 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": null,
+    "date": "2026-02-28+22:00",
+    "format": "Standard",
+    "language": "Telugu",
     "error": {
       "status": 500,
       "reason": "No areas"
