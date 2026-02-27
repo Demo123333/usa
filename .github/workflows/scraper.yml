@@ -1,19 +1,10 @@
 name: Hey bhagawan
 
 on:
-  workflow_dispatch:   # manual run
-    inputs:
-      movie_id:
-        description: 'Target Movie ID'
-        required: false
-        default: '244333'
-      target_date:
-        description: 'Target Date (YYYY-MM-DD)'
-        required: false
-        default: '2026-02-28'
   schedule:
-    - cron: "*/30 * * * *"
-    
+    - cron: "0 * * * *"   # runs every 1 hour at minute 0
+  workflow_dispatch:      # optional manual trigger (no inputs)
+
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
@@ -36,8 +27,8 @@ jobs:
 
       - name: Run scraper
         env:
-          MOVIE_ID: ${{ github.event.inputs.movie_id || '243198' }}
-          TARGET_DATE: ${{ github.event.inputs.target_date }}
+          MOVIE_ID: "244333"
+          TARGET_DATE: "2026-02-28"
         run: |
           python usa.py
 
@@ -47,14 +38,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage & commit changes first
           git add "data/"
           git commit -m "Update USA Data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
 
-          # Fetch latest remote
           git fetch origin main || true
 
-          # Try safe rebase + push
           if git rebase origin/main; then
             git push origin HEAD:main
           else
