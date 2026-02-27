@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-02-28 12:51:04 AM",
+  "errors": [
+    {
+      "state": "WA",
+      "city": "Bellevue",
+      "zip": "98004",
+      "theater_name": "Cinemark Lincoln Square",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 536559099,
+      "date": "2026-02-28+21:30",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    }
+  ]
+}
