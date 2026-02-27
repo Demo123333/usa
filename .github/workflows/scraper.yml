@@ -1,33 +1,64 @@
-name: Scraper Cron Job
+name: Hey bhagawan
 
 on:
+  workflow_dispatch:   # manual run
+    inputs:
+      movie_id:
+        description: 'Target Movie ID'
+        required: false
+        default: '244333'
+      target_date:
+        description: 'Target Date (YYYY-MM-DD)'
+        required: false
+        default: '2026-02-28'
   schedule:
-    - cron: '0 0,4,8,12,16,20 * * *' # Every 4 hours
-  workflow_dispatch:
-
+    - cron: "*/30 * * * *"
+    
 jobs:
-  scrape:
+  run-scraper:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.12.1"
 
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Scraper
+      - name: Run scraper
+        env:
+          MOVIE_ID: ${{ github.event.inputs.movie_id || '243198' }}
+          TARGET_DATE: ${{ github.event.inputs.target_date }}
         run: |
           python usa.py
-        
-      - name: Commit and push if changed
+
+      - name: Commit & Push results
         run: |
-          git config --global user.name 'GitHub Actions Automation'
-          git config --global user.email 'actions@github.com'
-          git add "USA Data/"
-          git commit -m "Auto-update Box Office Data" || echo "No changes to commit"
-          git push
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage & commit changes first
+          git add "data/"
+          git commit -m "Update USA Data ($(date -u +'%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+
+          # Fetch latest remote
+          git fetch origin main || true
+
+          # Try safe rebase + push
+          if git rebase origin/main; then
+            git push origin HEAD:main
+          else
+            echo "⚠️ Rebase failed, force pushing instead..."
+            git rebase --abort || true
+            git push origin HEAD:main --force
+          fi
