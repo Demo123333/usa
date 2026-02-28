@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 04:04:47 AM",
+  "last_updated": "2026-03-01 05:03:05 AM",
   "errors": [
     {
       "state": "FL",
@@ -42,22 +42,6 @@
       "chainCode": "AMC",
       "showtime_id": 536718654,
       "date": "2026-03-18+19:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No areas"
-      }
-    },
-    {
-      "state": "GA",
-      "city": "Duluth",
-      "zip": "30097",
-      "theater_name": "Regal Medlock Crossing & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 536746862,
-      "date": "2026-03-18+22:00",
       "format": "Standard",
       "language": "Hindi",
       "error": {
