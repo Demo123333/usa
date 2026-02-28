@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 11:23:53 AM",
-  "total_gross_usd": 2967.6,
-  "total_gross_with_fee": 3307.05,
-  "total_shows": 95,
-  "total_sold": 155,
-  "total_capacity": 14246,
+  "last_updated": "2026-02-28 12:29:54 PM",
+  "total_gross_usd": 3295.45,
+  "total_gross_with_fee": 3669.94,
+  "total_shows": 103,
+  "total_sold": 171,
+  "total_capacity": 15313,
   "shows": [
     {
       "state": "MA",
@@ -127,18 +127,18 @@
         {
           "showtime_id": 536691733,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 7,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 42.66,
-          "grossRevenueWithFee": 47.04,
+          "grossRevenueUSD": 149.31,
+          "grossRevenueWithFee": 164.64,
           "adultTicketPrice": 21.33,
           "fee": 2.19,
-          "occupancy": 1.55
+          "occupancy": 5.43
         }
       ],
-      "finalGrossRevenueUSD": 42.66,
-      "finalGrossRevenueWithFee": 47.04,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 149.31,
+      "finalGrossRevenueWithFee": 164.64,
+      "finalTotalSold": 7,
       "finalTotalCapacity": 129
     },
     {
@@ -937,18 +937,18 @@
         {
           "showtime_id": 536728789,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 3,
           "totalSeatCount": 251,
-          "grossRevenueUSD": 42.4,
-          "grossRevenueWithFee": 46.78,
+          "grossRevenueUSD": 63.6,
+          "grossRevenueWithFee": 70.17,
           "adultTicketPrice": 21.2,
           "fee": 2.19,
-          "occupancy": 0.8
+          "occupancy": 1.2
         }
       ],
-      "finalGrossRevenueUSD": 42.4,
-      "finalGrossRevenueWithFee": 46.78,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 63.6,
+      "finalGrossRevenueWithFee": 70.17,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 251
     },
     {
@@ -2570,6 +2570,222 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 99
+    },
+    {
+      "state": "PA",
+      "city": "Warrington",
+      "zip": "18976",
+      "theater_name": "Regal Warrington Crossing ScreenX, 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536745248,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 101,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 101
+    },
+    {
+      "state": "IL",
+      "city": "Bolingbrook",
+      "zip": "60440",
+      "theater_name": "Regal Bolingbrook",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+17:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536744907,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 88,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.6,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 88
+    },
+    {
+      "state": "TX",
+      "city": "Spring",
+      "zip": "77386",
+      "theater_name": "Regal Benders Landing 4DX, ScreenX, RPX & VIP",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+19:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536745273,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 157,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.65,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 157
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "date": "2026-03-18+15:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536742677,
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 66,
+          "grossRevenueUSD": 40.0,
+          "grossRevenueWithFee": 44.38,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 3.03
+        }
+      ],
+      "finalGrossRevenueUSD": 40.0,
+      "finalGrossRevenueWithFee": 44.38,
+      "finalTotalSold": 2,
+      "finalTotalCapacity": 66
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "date": "2026-03-18+19:45",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536742678,
+          "format": "standard",
+          "totalSeatSold": 2,
+          "totalSeatCount": 66,
+          "grossRevenueUSD": 40.0,
+          "grossRevenueWithFee": 44.38,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 3.03
+        }
+      ],
+      "finalGrossRevenueUSD": 40.0,
+      "finalGrossRevenueWithFee": 44.38,
+      "finalTotalSold": 2,
+      "finalTotalCapacity": 66
+    },
+    {
+      "state": "AZ",
+      "city": "Flagstaff",
+      "zip": "86004",
+      "theater_name": "Harkins Flagstaff 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "date": "2026-03-18+15:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536744777,
+          "format": "standard",
+          "totalSeatSold": 6,
+          "totalSeatCount": 227,
+          "grossRevenueUSD": 120.0,
+          "grossRevenueWithFee": 133.14,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 2.64
+        }
+      ],
+      "finalGrossRevenueUSD": 120.0,
+      "finalGrossRevenueWithFee": 133.14,
+      "finalTotalSold": 6,
+      "finalTotalCapacity": 227
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:15",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744960,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 181,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 181
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+21:15",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744961,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 181,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 181
     }
   ]
 }
