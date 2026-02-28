@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 08:31:05 AM",
-  "total_gross_usd": 2765.2,
-  "total_gross_with_fee": 3082.75,
+  "last_updated": "2026-02-28 09:23:45 AM",
+  "total_gross_usd": 2825.2,
+  "total_gross_with_fee": 3149.32,
   "total_shows": 95,
-  "total_sold": 145,
-  "total_capacity": 14238,
+  "total_sold": 148,
+  "total_capacity": 14246,
   "shows": [
     {
       "state": "MA",
@@ -668,7 +668,7 @@
           "showtime_id": 536734482,
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 92,
+          "totalSeatCount": 100,
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 20.0,
@@ -679,7 +679,7 @@
       "finalGrossRevenueUSD": 0.0,
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
-      "finalTotalCapacity": 92
+      "finalTotalCapacity": 100
     },
     {
       "state": "PA",
@@ -1261,18 +1261,18 @@
         {
           "showtime_id": 536658232,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 75,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 60.0,
+          "grossRevenueWithFee": 66.57,
           "adultTicketPrice": 20.0,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 4.0
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 60.0,
+      "finalGrossRevenueWithFee": 66.57,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 75
     },
     {
