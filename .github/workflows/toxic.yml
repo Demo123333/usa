@@ -27,8 +27,8 @@ jobs:
 
       - name: Run scraper
         env:
-          MOVIE_ID: "244333"
-          TARGET_DATE: "2026-02-28"
+          MOVIE_ID: "244612"
+          TARGET_DATE: "2026-03-18"
         run: |
           python usa.py
 
@@ -50,3 +50,4 @@ jobs:
             git rebase --abort || true
             git push origin HEAD:main --force
           fi
+
