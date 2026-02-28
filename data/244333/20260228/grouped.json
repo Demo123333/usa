@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-27 03:23:08 PM",
-  "total_gross_usd": 877.82,
-  "total_gross_with_fee": 1000.46,
+  "last_updated": "2026-02-27 05:43:29 PM",
+  "total_gross_usd": 1035.55,
+  "total_gross_with_fee": 1177.9,
   "total_shows": 29,
-  "total_sold": 56,
-  "total_capacity": 3132,
+  "total_sold": 65,
+  "total_capacity": 3171,
   "shows": [
     {
       "state": "NJ",
@@ -316,18 +316,18 @@
         {
           "showtime_id": 536530678,
           "format": "standard",
-          "totalSeatSold": 24,
+          "totalSeatSold": 32,
           "totalSeatCount": 93,
-          "grossRevenueUSD": 439.44,
-          "grossRevenueWithFee": 492.0,
+          "grossRevenueUSD": 585.92,
+          "grossRevenueWithFee": 656.0,
           "adultTicketPrice": 18.31,
           "fee": 2.19,
-          "occupancy": 25.81
+          "occupancy": 34.41
         }
       ],
-      "finalGrossRevenueUSD": 439.44,
-      "finalGrossRevenueWithFee": 492.0,
-      "finalTotalSold": 24,
+      "finalGrossRevenueUSD": 585.92,
+      "finalGrossRevenueWithFee": 656.0,
+      "finalTotalSold": 32,
       "finalTotalCapacity": 93
     },
     {
@@ -505,19 +505,19 @@
         {
           "showtime_id": 536148423,
           "format": "standard",
-          "totalSeatSold": 9,
-          "totalSeatCount": 50,
-          "grossRevenueUSD": 101.25,
-          "grossRevenueWithFee": 120.96,
+          "totalSeatSold": 10,
+          "totalSeatCount": 87,
+          "grossRevenueUSD": 112.5,
+          "grossRevenueWithFee": 134.4,
           "adultTicketPrice": 11.25,
           "fee": 2.19,
-          "occupancy": 18.0
+          "occupancy": 11.49
         }
       ],
-      "finalGrossRevenueUSD": 101.25,
-      "finalGrossRevenueWithFee": 120.96,
-      "finalTotalSold": 9,
-      "finalTotalCapacity": 50
+      "finalGrossRevenueUSD": 112.5,
+      "finalGrossRevenueWithFee": 134.4,
+      "finalTotalSold": 10,
+      "finalTotalCapacity": 87
     },
     {
       "state": "TX",
@@ -533,18 +533,18 @@
           "showtime_id": 536148421,
           "format": "standard",
           "totalSeatSold": 2,
-          "totalSeatCount": 50,
+          "totalSeatCount": 52,
           "grossRevenueUSD": 28.12,
           "grossRevenueWithFee": 32.5,
           "adultTicketPrice": 14.06,
           "fee": 2.19,
-          "occupancy": 4.0
+          "occupancy": 3.85
         }
       ],
       "finalGrossRevenueUSD": 28.12,
       "finalGrossRevenueWithFee": 32.5,
       "finalTotalSold": 2,
-      "finalTotalCapacity": 50
+      "finalTotalCapacity": 52
     },
     {
       "state": "TX",
