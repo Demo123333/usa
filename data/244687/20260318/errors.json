@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 02:07:32 AM",
+  "last_updated": "2026-03-01 03:01:55 AM",
   "errors": [
     {
       "state": "FL",
@@ -43,22 +43,6 @@
       "showtime_id": 536718654,
       "date": "2026-03-18+19:00",
       "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No areas"
-      }
-    },
-    {
-      "state": "CA",
-      "city": "Dublin",
-      "zip": "94568",
-      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 536744963,
-      "date": "2026-03-18+20:00",
-      "format": "RPX",
       "language": "Hindi",
       "error": {
         "status": 500,
