@@ -1,0 +1,21 @@
+{
+  "last_updated": "2026-02-28 06:15:30 PM",
+  "errors": [
+    {
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536631063,
+      "date": "2026-03-18+19:30",
+      "format": "Standard",
+      "language": "Kannada",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    }
+  ]
+}
