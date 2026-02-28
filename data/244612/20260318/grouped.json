@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 02:26:59 PM",
-  "total_gross_usd": 3274.25,
-  "total_gross_with_fee": 3646.55,
-  "total_shows": 104,
-  "total_sold": 170,
-  "total_capacity": 15465,
+  "last_updated": "2026-02-28 03:25:41 PM",
+  "total_gross_usd": 3231.59,
+  "total_gross_with_fee": 3599.51,
+  "total_shows": 105,
+  "total_sold": 168,
+  "total_capacity": 15434,
   "shows": [
     {
       "state": "MA",
@@ -154,18 +154,18 @@
         {
           "showtime_id": 536691734,
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 5,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 149.31,
-          "grossRevenueWithFee": 164.64,
+          "grossRevenueUSD": 106.65,
+          "grossRevenueWithFee": 117.6,
           "adultTicketPrice": 21.33,
           "fee": 2.19,
-          "occupancy": 5.43
+          "occupancy": 3.88
         }
       ],
-      "finalGrossRevenueUSD": 149.31,
-      "finalGrossRevenueWithFee": 164.64,
-      "finalTotalSold": 7,
+      "finalGrossRevenueUSD": 106.65,
+      "finalGrossRevenueWithFee": 117.6,
+      "finalTotalSold": 5,
       "finalTotalCapacity": 129
     },
     {
@@ -803,7 +803,7 @@
           "showtime_id": 536731316,
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 275,
+          "totalSeatCount": 175,
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 20.0,
@@ -814,7 +814,7 @@
       "finalGrossRevenueUSD": 0.0,
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
-      "finalTotalCapacity": 275
+      "finalTotalCapacity": 175
     },
     {
       "state": "VA",
@@ -2813,6 +2813,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 152
+    },
+    {
+      "state": "OK",
+      "city": "Norman",
+      "zip": "73072",
+      "theater_name": "Regal Spotlight",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+17:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536748311,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.76,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 69
     }
   ]
 }
