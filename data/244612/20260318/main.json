@@ -1706,14 +1706,14 @@
     "date": "2026-03-18+15:30",
     "format": "Standard",
     "language": "Kannada",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 523,
+    "totalSeatSold": 5,
+    "occupancy": 0.96,
+    "totalAvailableSeatCount": 518,
     "totalSeatCount": 523,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 100.0,
     "adultTicketPrice": 20.0,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 110.95
   },
   {
     "state": "CA",
@@ -1871,7 +1871,7 @@
     "totalAvailableSeatCount": 99,
     "totalSeatCount": 99,
     "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 12.59,
+    "adultTicketPrice": 21.0,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
   },
@@ -1891,7 +1891,7 @@
     "totalAvailableSeatCount": 99,
     "totalSeatCount": 99,
     "grossRevenueUSD": 0.0,
-    "adultTicketPrice": 16.26,
+    "adultTicketPrice": 21.0,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
   }
