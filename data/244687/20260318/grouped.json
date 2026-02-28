@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 08:38:49 AM",
-  "total_gross_usd": 6245.06,
-  "total_gross_with_fee": 7096.45,
-  "total_shows": 129,
-  "total_sold": 381,
-  "total_capacity": 19302,
+  "last_updated": "2026-02-28 09:31:06 AM",
+  "total_gross_usd": 6939.94,
+  "total_gross_with_fee": 7887.69,
+  "total_shows": 130,
+  "total_sold": 425,
+  "total_capacity": 19524,
   "shows": [
     {
       "state": "MA",
@@ -829,18 +829,18 @@
         {
           "showtime_id": 536672863,
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 8,
           "totalSeatCount": 102,
-          "grossRevenueUSD": 72.45,
-          "grossRevenueWithFee": 83.4,
+          "grossRevenueUSD": 115.92,
+          "grossRevenueWithFee": 133.44,
           "adultTicketPrice": 14.49,
           "fee": 2.19,
-          "occupancy": 4.9
+          "occupancy": 7.84
         }
       ],
-      "finalGrossRevenueUSD": 72.45,
-      "finalGrossRevenueWithFee": 83.4,
-      "finalTotalSold": 5,
+      "finalGrossRevenueUSD": 115.92,
+      "finalGrossRevenueWithFee": 133.44,
+      "finalTotalSold": 8,
       "finalTotalCapacity": 102
     },
     {
@@ -931,7 +931,7 @@
       "theater_name": "Regal Westview & IMAX",
       "chainName": "Regal",
       "chainCode": "REGL",
-      "date": "2026-03-18+18:40",
+      "date": "2026-03-18+19:00",
       "language": "Hindi",
       "formats": [
         {
@@ -1018,18 +1018,18 @@
         {
           "showtime_id": 536728195,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 33.98,
-          "grossRevenueWithFee": 38.36,
+          "grossRevenueUSD": 67.96,
+          "grossRevenueWithFee": 76.72,
           "adultTicketPrice": 16.99,
           "fee": 2.19,
-          "occupancy": 1.44
+          "occupancy": 2.88
         }
       ],
-      "finalGrossRevenueUSD": 33.98,
-      "finalGrossRevenueWithFee": 38.36,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 67.96,
+      "finalGrossRevenueWithFee": 76.72,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 139
     },
     {
@@ -1045,18 +1045,18 @@
         {
           "showtime_id": 536728197,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 4,
           "totalSeatCount": 91,
-          "grossRevenueUSD": 16.99,
-          "grossRevenueWithFee": 19.18,
+          "grossRevenueUSD": 67.96,
+          "grossRevenueWithFee": 76.72,
           "adultTicketPrice": 16.99,
           "fee": 2.19,
-          "occupancy": 1.1
+          "occupancy": 4.4
         }
       ],
-      "finalGrossRevenueUSD": 16.99,
-      "finalGrossRevenueWithFee": 19.18,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 67.96,
+      "finalGrossRevenueWithFee": 76.72,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 91
     },
     {
@@ -1207,18 +1207,18 @@
         {
           "showtime_id": 536734362,
           "format": "standard",
-          "totalSeatSold": 22,
+          "totalSeatSold": 28,
           "totalSeatCount": 86,
-          "grossRevenueUSD": 373.78,
-          "grossRevenueWithFee": 421.96,
+          "grossRevenueUSD": 475.72,
+          "grossRevenueWithFee": 537.04,
           "adultTicketPrice": 16.99,
           "fee": 2.19,
-          "occupancy": 25.58
+          "occupancy": 32.56
         }
       ],
-      "finalGrossRevenueUSD": 373.78,
-      "finalGrossRevenueWithFee": 421.96,
-      "finalTotalSold": 22,
+      "finalGrossRevenueUSD": 475.72,
+      "finalGrossRevenueWithFee": 537.04,
+      "finalTotalSold": 28,
       "finalTotalCapacity": 86
     },
     {
@@ -1234,18 +1234,18 @@
         {
           "showtime_id": 536734361,
           "format": "standard",
-          "totalSeatSold": 26,
+          "totalSeatSold": 44,
           "totalSeatCount": 299,
-          "grossRevenueUSD": 415.74,
-          "grossRevenueWithFee": 472.68,
+          "grossRevenueUSD": 703.56,
+          "grossRevenueWithFee": 799.92,
           "adultTicketPrice": 15.99,
           "fee": 2.19,
-          "occupancy": 8.7
+          "occupancy": 14.72
         }
       ],
-      "finalGrossRevenueUSD": 415.74,
-      "finalGrossRevenueWithFee": 472.68,
-      "finalTotalSold": 26,
+      "finalGrossRevenueUSD": 703.56,
+      "finalGrossRevenueWithFee": 799.92,
+      "finalTotalSold": 44,
       "finalTotalCapacity": 299
     },
     {
@@ -1342,18 +1342,18 @@
         {
           "showtime_id": 536720298,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 6,
           "totalSeatCount": 90,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 90.0,
+          "grossRevenueWithFee": 103.14,
           "adultTicketPrice": 15.0,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 6.67
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 90.0,
+      "finalGrossRevenueWithFee": 103.14,
+      "finalTotalSold": 6,
       "finalTotalCapacity": 90
     },
     {
@@ -2071,18 +2071,18 @@
         {
           "showtime_id": 536664783,
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 10,
           "totalSeatCount": 284,
-          "grossRevenueUSD": 103.92,
-          "grossRevenueWithFee": 121.44,
+          "grossRevenueUSD": 129.9,
+          "grossRevenueWithFee": 151.8,
           "adultTicketPrice": 12.99,
           "fee": 2.19,
-          "occupancy": 2.82
+          "occupancy": 3.52
         }
       ],
-      "finalGrossRevenueUSD": 103.92,
-      "finalGrossRevenueWithFee": 121.44,
-      "finalTotalSold": 8,
+      "finalGrossRevenueUSD": 129.9,
+      "finalGrossRevenueWithFee": 151.8,
+      "finalTotalSold": 10,
       "finalTotalCapacity": 284
     },
     {
@@ -2395,18 +2395,18 @@
         {
           "showtime_id": 536677091,
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 8,
           "totalSeatCount": 88,
-          "grossRevenueUSD": 72.05,
-          "grossRevenueWithFee": 83.0,
+          "grossRevenueUSD": 115.28,
+          "grossRevenueWithFee": 132.8,
           "adultTicketPrice": 14.41,
           "fee": 2.19,
-          "occupancy": 5.68
+          "occupancy": 9.09
         }
       ],
-      "finalGrossRevenueUSD": 72.05,
-      "finalGrossRevenueWithFee": 83.0,
-      "finalTotalSold": 5,
+      "finalGrossRevenueUSD": 115.28,
+      "finalGrossRevenueWithFee": 132.8,
+      "finalTotalSold": 8,
       "finalTotalCapacity": 88
     },
     {
@@ -2881,18 +2881,18 @@
         {
           "showtime_id": 536736971,
           "format": "standard",
-          "totalSeatSold": 8,
+          "totalSeatSold": 9,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 139.92,
-          "grossRevenueWithFee": 157.44,
+          "grossRevenueUSD": 157.41,
+          "grossRevenueWithFee": 177.12,
           "adultTicketPrice": 17.49,
           "fee": 2.19,
-          "occupancy": 5.97
+          "occupancy": 6.72
         }
       ],
-      "finalGrossRevenueUSD": 139.92,
-      "finalGrossRevenueWithFee": 157.44,
-      "finalTotalSold": 8,
+      "finalGrossRevenueUSD": 157.41,
+      "finalGrossRevenueWithFee": 177.12,
+      "finalTotalSold": 9,
       "finalTotalCapacity": 134
     },
     {
@@ -3488,6 +3488,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 124
+    },
+    {
+      "state": "NY",
+      "city": "Westbury",
+      "zip": "11590",
+      "theater_name": "Regal Westbury IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+20:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "showtime_id": 536740386,
+          "format": "rpx",
+          "totalSeatSold": 0,
+          "totalSeatCount": 222,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.49,
+          "fee": 2.69,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 222
     }
   ]
 }
