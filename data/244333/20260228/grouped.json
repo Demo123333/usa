@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-27 07:53:09 PM",
-  "total_gross_usd": 1351.11,
-  "total_gross_with_fee": 1532.88,
+  "last_updated": "2026-02-27 08:54:04 PM",
+  "total_gross_usd": 1420.47,
+  "total_gross_with_fee": 1611.0,
   "total_shows": 29,
-  "total_sold": 83,
-  "total_capacity": 3171,
+  "total_sold": 87,
+  "total_capacity": 2975,
   "shows": [
     {
       "state": "NJ",
@@ -263,7 +263,7 @@
           "showtime_id": 536431346,
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 299,
+          "totalSeatCount": 103,
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 15.99,
@@ -274,7 +274,7 @@
       "finalGrossRevenueUSD": 0.0,
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
-      "finalTotalCapacity": 299
+      "finalTotalCapacity": 103
     },
     {
       "state": "NC",
@@ -289,18 +289,18 @@
         {
           "showtime_id": 536112540,
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 7,
           "totalSeatCount": 56,
-          "grossRevenueUSD": 86.58,
-          "grossRevenueWithFee": 99.72,
+          "grossRevenueUSD": 101.01,
+          "grossRevenueWithFee": 116.34,
           "adultTicketPrice": 14.43,
           "fee": 2.19,
-          "occupancy": 10.71
+          "occupancy": 12.5
         }
       ],
-      "finalGrossRevenueUSD": 86.58,
-      "finalGrossRevenueWithFee": 99.72,
-      "finalTotalSold": 6,
+      "finalGrossRevenueUSD": 101.01,
+      "finalGrossRevenueWithFee": 116.34,
+      "finalTotalSold": 7,
       "finalTotalCapacity": 56
     },
     {
@@ -316,18 +316,18 @@
         {
           "showtime_id": 536530678,
           "format": "standard",
-          "totalSeatSold": 43,
+          "totalSeatSold": 46,
           "totalSeatCount": 93,
-          "grossRevenueUSD": 787.33,
-          "grossRevenueWithFee": 881.5,
+          "grossRevenueUSD": 842.26,
+          "grossRevenueWithFee": 943.0,
           "adultTicketPrice": 18.31,
           "fee": 2.19,
-          "occupancy": 46.24
+          "occupancy": 49.46
         }
       ],
-      "finalGrossRevenueUSD": 787.33,
-      "finalGrossRevenueWithFee": 881.5,
-      "finalTotalSold": 43,
+      "finalGrossRevenueUSD": 842.26,
+      "finalGrossRevenueWithFee": 943.0,
+      "finalTotalSold": 46,
       "finalTotalCapacity": 93
     },
     {
