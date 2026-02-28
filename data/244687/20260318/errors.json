@@ -1,0 +1,69 @@
+{
+  "last_updated": "2026-02-28 09:15:51 PM",
+  "errors": [
+    {
+      "state": "MD",
+      "city": "Rockville",
+      "zip": "20850",
+      "theater_name": "Regal Rockville Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 536733529,
+      "date": "2026-03-18+20:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Brandon",
+      "zip": "33511",
+      "theater_name": "AMC The Regency 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536718769,
+      "date": "2026-03-18+19:15",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "FL",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "theater_name": "AMC Merchants Crossing 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536728547,
+      "date": "2026-03-18+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Houston",
+      "zip": "77089",
+      "theater_name": "AMC Gulf Pointe 30",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536718654,
+      "date": "2026-03-18+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    }
+  ]
+}
