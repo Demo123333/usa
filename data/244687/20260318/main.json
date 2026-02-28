@@ -110,14 +110,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 25,
-    "occupancy": 11.9,
-    "totalAvailableSeatCount": 185,
+    "totalSeatSold": 29,
+    "occupancy": 13.81,
+    "totalAvailableSeatCount": 181,
     "totalSeatCount": 210,
-    "grossRevenueUSD": 386.25,
+    "grossRevenueUSD": 448.05,
     "adultTicketPrice": 15.45,
     "fee": 2.19,
-    "totalRevenueWithFee": 441.0
+    "totalRevenueWithFee": 511.56
   },
   {
     "state": "NJ",
@@ -170,14 +170,14 @@
     "date": "2026-03-18+20:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 2.33,
-    "totalAvailableSeatCount": 126,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 129,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 46.35,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 15.45,
     "fee": 2.19,
-    "totalRevenueWithFee": 52.92
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "NJ",
@@ -210,14 +210,14 @@
     "date": "2026-03-18+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 10,
-    "occupancy": 7.75,
-    "totalAvailableSeatCount": 119,
+    "totalSeatSold": 13,
+    "occupancy": 10.08,
+    "totalAvailableSeatCount": 116,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 154.5,
+    "grossRevenueUSD": 200.85,
     "adultTicketPrice": 15.45,
     "fee": 2.19,
-    "totalRevenueWithFee": 176.4
+    "totalRevenueWithFee": 229.32
   },
   {
     "state": "NY",
@@ -250,14 +250,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 1.55,
-    "totalAvailableSeatCount": 127,
+    "totalSeatSold": 4,
+    "occupancy": 3.1,
+    "totalAvailableSeatCount": 125,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 30.92,
+    "grossRevenueUSD": 61.84,
     "adultTicketPrice": 15.46,
     "fee": 2.19,
-    "totalRevenueWithFee": 35.3
+    "totalRevenueWithFee": 70.6
   },
   {
     "state": "NJ",
@@ -430,14 +430,14 @@
     "date": "2026-03-18+19:30",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 6.92,
-    "totalAvailableSeatCount": 121,
+    "totalSeatSold": 11,
+    "occupancy": 8.46,
+    "totalAvailableSeatCount": 119,
     "totalSeatCount": 130,
-    "grossRevenueUSD": 177.39,
+    "grossRevenueUSD": 216.81,
     "adultTicketPrice": 19.71,
     "fee": 2.69,
-    "totalRevenueWithFee": 201.6
+    "totalRevenueWithFee": 246.4
   },
   {
     "state": "NJ",
@@ -492,8 +492,8 @@
     "language": "Hindi",
     "totalSeatSold": 0,
     "occupancy": 0.0,
-    "totalAvailableSeatCount": 82,
-    "totalSeatCount": 82,
+    "totalAvailableSeatCount": 144,
+    "totalSeatCount": 144,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.99,
     "fee": 2.19,
@@ -610,14 +610,14 @@
     "date": "2026-03-18+19:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 3.92,
-    "totalAvailableSeatCount": 98,
+    "totalSeatSold": 5,
+    "occupancy": 4.9,
+    "totalAvailableSeatCount": 97,
     "totalSeatCount": 102,
-    "grossRevenueUSD": 57.96,
+    "grossRevenueUSD": 72.45,
     "adultTicketPrice": 14.49,
     "fee": 2.19,
-    "totalRevenueWithFee": 66.72
+    "totalRevenueWithFee": 83.4
   },
   {
     "state": "NY",
@@ -770,14 +770,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 91,
+    "totalSeatSold": 1,
+    "occupancy": 1.1,
+    "totalAvailableSeatCount": 90,
     "totalSeatCount": 91,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 16.99,
     "adultTicketPrice": 16.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 19.18
   },
   {
     "state": "DE",
@@ -850,10 +850,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 123,
+    "totalSeatCount": 123,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 17.59,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "VA",
@@ -866,14 +870,14 @@
     "date": "2026-03-18+19:30",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 11,
-    "occupancy": 18.33,
-    "totalAvailableSeatCount": 49,
+    "totalSeatSold": 16,
+    "occupancy": 26.67,
+    "totalAvailableSeatCount": 44,
     "totalSeatCount": 60,
-    "grossRevenueUSD": 186.89,
+    "grossRevenueUSD": 271.84,
     "adultTicketPrice": 16.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 210.98
+    "totalRevenueWithFee": 306.88
   },
   {
     "state": "VA",
@@ -906,14 +910,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 2.34,
-    "totalAvailableSeatCount": 292,
+    "totalSeatSold": 26,
+    "occupancy": 8.7,
+    "totalAvailableSeatCount": 273,
     "totalSeatCount": 299,
-    "grossRevenueUSD": 111.93,
+    "grossRevenueUSD": 415.74,
     "adultTicketPrice": 15.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 127.26
+    "totalRevenueWithFee": 472.68
   },
   {
     "state": "VA",
@@ -1478,14 +1482,14 @@
     "date": "2026-03-18+19:00",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 1.27,
-    "totalAvailableSeatCount": 156,
+    "totalSeatSold": 3,
+    "occupancy": 1.9,
+    "totalAvailableSeatCount": 155,
     "totalSeatCount": 158,
-    "grossRevenueUSD": 37.98,
+    "grossRevenueUSD": 56.97,
     "adultTicketPrice": 18.99,
     "fee": 2.69,
-    "totalRevenueWithFee": 43.36
+    "totalRevenueWithFee": 65.04
   },
   {
     "state": "OH",
@@ -1758,14 +1762,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 2.27,
-    "totalAvailableSeatCount": 86,
+    "totalSeatSold": 5,
+    "occupancy": 5.68,
+    "totalAvailableSeatCount": 83,
     "totalSeatCount": 88,
-    "grossRevenueUSD": 28.82,
+    "grossRevenueUSD": 72.05,
     "adultTicketPrice": 14.41,
     "fee": 2.19,
-    "totalRevenueWithFee": 33.2
+    "totalRevenueWithFee": 83.0
   },
   {
     "state": "IL",

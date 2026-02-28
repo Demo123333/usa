@@ -1,22 +1,6 @@
 {
-  "last_updated": "2026-02-28 09:15:51 PM",
+  "last_updated": "2026-02-28 10:08:49 PM",
   "errors": [
-    {
-      "state": "MD",
-      "city": "Rockville",
-      "zip": "20850",
-      "theater_name": "Regal Rockville Center",
-      "chainName": "Regal",
-      "chainCode": "REGL",
-      "showtime_id": 536733529,
-      "date": "2026-03-18+20:00",
-      "format": "Standard",
-      "language": "Hindi",
-      "error": {
-        "status": 500,
-        "reason": "No areas"
-      }
-    },
     {
       "state": "FL",
       "city": "Brandon",
