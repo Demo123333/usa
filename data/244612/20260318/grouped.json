@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 03:25:41 PM",
-  "total_gross_usd": 3231.59,
-  "total_gross_with_fee": 3599.51,
-  "total_shows": 105,
-  "total_sold": 168,
-  "total_capacity": 15434,
+  "last_updated": "2026-02-28 06:35:24 PM",
+  "total_gross_usd": 3329.71,
+  "total_gross_with_fee": 3708.58,
+  "total_shows": 109,
+  "total_sold": 173,
+  "total_capacity": 15941,
   "shows": [
     {
       "state": "MA",
@@ -181,18 +181,18 @@
         {
           "showtime_id": 536691735,
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 7,
           "totalSeatCount": 84,
-          "grossRevenueUSD": 106.65,
-          "grossRevenueWithFee": 117.6,
+          "grossRevenueUSD": 149.31,
+          "grossRevenueWithFee": 164.64,
           "adultTicketPrice": 21.33,
           "fee": 2.19,
-          "occupancy": 5.95
+          "occupancy": 8.33
         }
       ],
-      "finalGrossRevenueUSD": 106.65,
-      "finalGrossRevenueWithFee": 117.6,
-      "finalTotalSold": 5,
+      "finalGrossRevenueUSD": 149.31,
+      "finalGrossRevenueWithFee": 164.64,
+      "finalTotalSold": 7,
       "finalTotalCapacity": 84
     },
     {
@@ -235,18 +235,18 @@
         {
           "showtime_id": 536729906,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 62,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 15.46,
+          "grossRevenueWithFee": 17.65,
           "adultTicketPrice": 15.46,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 1.61
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 15.46,
+      "finalGrossRevenueWithFee": 17.65,
+      "finalTotalSold": 1,
       "finalTotalCapacity": 62
     },
     {
@@ -775,18 +775,18 @@
         {
           "showtime_id": 536735416,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 103,
-          "grossRevenueUSD": 20.0,
-          "grossRevenueWithFee": 22.19,
+          "grossRevenueUSD": 60.0,
+          "grossRevenueWithFee": 66.57,
           "adultTicketPrice": 20.0,
           "fee": 2.19,
-          "occupancy": 0.97
+          "occupancy": 2.91
         }
       ],
-      "finalGrossRevenueUSD": 20.0,
-      "finalGrossRevenueWithFee": 22.19,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 60.0,
+      "finalGrossRevenueWithFee": 66.57,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 103
     },
     {
@@ -803,7 +803,7 @@
           "showtime_id": 536731316,
           "format": "standard",
           "totalSeatSold": 0,
-          "totalSeatCount": 175,
+          "totalSeatCount": 172,
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 20.0,
@@ -814,7 +814,7 @@
       "finalGrossRevenueUSD": 0.0,
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
-      "finalTotalCapacity": 175
+      "finalTotalCapacity": 172
     },
     {
       "state": "VA",
@@ -2832,6 +2832,114 @@
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 21.76,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 69
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+20:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536757093,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 228,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 228
+    },
+    {
+      "state": "VA",
+      "city": "Alexandria",
+      "zip": "22315",
+      "theater_name": "Regal Kingstowne ScreenX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536755255,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 144,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 144
+    },
+    {
+      "state": "CA",
+      "city": "Long Beach",
+      "zip": "90808",
+      "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+15:35",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536758230,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 69
+    },
+    {
+      "state": "CA",
+      "city": "Long Beach",
+      "zip": "90808",
+      "theater_name": "Regal Edwards Long Beach ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+20:05",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536758231,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
           "fee": 2.19,
           "occupancy": 0.0
         }
