@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 07:27:26 AM",
+  "last_updated": "2026-03-01 08:33:10 AM",
   "total_gross_usd": 3493.62,
   "total_gross_with_fee": 3890.01,
-  "total_shows": 116,
+  "total_shows": 117,
   "total_sold": 181,
-  "total_capacity": 16565,
+  "total_capacity": 16612,
   "shows": [
     {
       "state": "MA",
@@ -3137,6 +3137,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 88
+    },
+    {
+      "state": "KY",
+      "city": "Lexington",
+      "zip": "40509",
+      "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536764578,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 47,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 14.83,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 47
     }
   ]
 }

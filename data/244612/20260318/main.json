@@ -2326,5 +2326,25 @@
       "status": 500,
       "reason": "No areas"
     }
+  },
+  {
+    "state": "KY",
+    "city": "Lexington",
+    "zip": "40509",
+    "theater_name": "Regal Hamburg Pavilion IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536764578,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 47,
+    "totalSeatCount": 47,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.83,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   }
 ]
