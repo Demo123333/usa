@@ -950,14 +950,14 @@
     "date": "2026-03-18+19:20",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 3.03,
-    "totalAvailableSeatCount": 64,
+    "totalSeatSold": 4,
+    "occupancy": 6.06,
+    "totalAvailableSeatCount": 62,
     "totalSeatCount": 66,
-    "grossRevenueUSD": 27.74,
+    "grossRevenueUSD": 55.48,
     "adultTicketPrice": 13.87,
     "fee": 2.19,
-    "totalRevenueWithFee": 32.12
+    "totalRevenueWithFee": 64.24
   },
   {
     "state": "NC",
@@ -2118,14 +2118,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 14,
-    "occupancy": 10.45,
-    "totalAvailableSeatCount": 120,
+    "totalSeatSold": 28,
+    "occupancy": 20.9,
+    "totalAvailableSeatCount": 106,
     "totalSeatCount": 134,
-    "grossRevenueUSD": 244.86,
+    "grossRevenueUSD": 489.72,
     "adultTicketPrice": 17.49,
     "fee": 2.19,
-    "totalRevenueWithFee": 275.52
+    "totalRevenueWithFee": 551.04
   },
   {
     "state": "CA",
@@ -3478,5 +3478,25 @@
     "adultTicketPrice": 15.69,
     "fee": 2.19,
     "totalRevenueWithFee": 107.28
+  },
+  {
+    "state": "CA",
+    "city": "El Dorado Hills",
+    "zip": "95762",
+    "theater_name": "Regal El Dorado Hills & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536762928,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 83,
+    "totalSeatCount": 83,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.49,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   }
 ]
