@@ -350,14 +350,14 @@
     "date": "2026-03-18+19:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 100,
+    "totalSeatSold": 1,
+    "occupancy": 1.0,
+    "totalAvailableSeatCount": 99,
     "totalSeatCount": 100,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 20.0,
     "adultTicketPrice": 20.0,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 22.19
   },
   {
     "state": "NY",
@@ -1306,14 +1306,14 @@
     "date": "2026-03-18+18:30",
     "format": "Standard",
     "language": "Kannada",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 114,
+    "totalSeatSold": 1,
+    "occupancy": 0.88,
+    "totalAvailableSeatCount": 113,
     "totalSeatCount": 114,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 21.65,
     "adultTicketPrice": 21.65,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 23.84
   },
   {
     "state": "TX",
@@ -2106,14 +2106,14 @@
     "date": "2026-03-18+20:30",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 20,
-    "occupancy": 8.77,
-    "totalAvailableSeatCount": 208,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 228,
     "totalSeatCount": 228,
-    "grossRevenueUSD": 400.0,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 20.0,
     "fee": 2.19,
-    "totalRevenueWithFee": 443.8
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "VA",
