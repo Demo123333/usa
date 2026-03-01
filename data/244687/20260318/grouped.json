@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01 01:40:24 AM",
-  "total_gross_usd": 15762.79,
-  "total_gross_with_fee": 17843.33,
+  "last_updated": "2026-03-01 02:38:00 AM",
+  "total_gross_usd": 15836.53,
+  "total_gross_with_fee": 17925.83,
   "total_shows": 177,
-  "total_sold": 916,
+  "total_sold": 920,
   "total_capacity": 26181,
   "shows": [
     {
@@ -2881,18 +2881,18 @@
         {
           "showtime_id": 536736971,
           "format": "standard",
-          "totalSeatSold": 29,
+          "totalSeatSold": 31,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 507.21,
-          "grossRevenueWithFee": 570.72,
+          "grossRevenueUSD": 542.19,
+          "grossRevenueWithFee": 610.08,
           "adultTicketPrice": 17.49,
           "fee": 2.19,
-          "occupancy": 21.64
+          "occupancy": 23.13
         }
       ],
-      "finalGrossRevenueUSD": 507.21,
-      "finalGrossRevenueWithFee": 570.72,
-      "finalTotalSold": 29,
+      "finalGrossRevenueUSD": 542.19,
+      "finalGrossRevenueWithFee": 610.08,
+      "finalTotalSold": 31,
       "finalTotalCapacity": 134
     },
     {
@@ -4663,18 +4663,18 @@
         {
           "showtime_id": 536760695,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 202,
-          "grossRevenueUSD": 19.38,
-          "grossRevenueWithFee": 21.57,
+          "grossRevenueUSD": 58.14,
+          "grossRevenueWithFee": 64.71,
           "adultTicketPrice": 19.38,
           "fee": 2.19,
-          "occupancy": 0.5
+          "occupancy": 1.49
         }
       ],
-      "finalGrossRevenueUSD": 19.38,
-      "finalGrossRevenueWithFee": 21.57,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 58.14,
+      "finalGrossRevenueWithFee": 64.71,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 202
     },
     {
