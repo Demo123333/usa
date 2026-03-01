@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-01 12:44:45 AM",
-  "total_gross_usd": 15681.46,
-  "total_gross_with_fee": 17751.05,
-  "total_shows": 176,
-  "total_sold": 911,
+  "last_updated": "2026-03-01 01:40:24 AM",
+  "total_gross_usd": 15762.79,
+  "total_gross_with_fee": 17843.33,
+  "total_shows": 177,
+  "total_sold": 916,
   "total_capacity": 26181,
   "shows": [
     {
@@ -1234,18 +1234,18 @@
         {
           "showtime_id": 536734361,
           "format": "standard",
-          "totalSeatSold": 76,
+          "totalSeatSold": 77,
           "totalSeatCount": 299,
-          "grossRevenueUSD": 1215.24,
-          "grossRevenueWithFee": 1381.68,
+          "grossRevenueUSD": 1231.23,
+          "grossRevenueWithFee": 1399.86,
           "adultTicketPrice": 15.99,
           "fee": 2.19,
-          "occupancy": 25.42
+          "occupancy": 25.75
         }
       ],
-      "finalGrossRevenueUSD": 1215.24,
-      "finalGrossRevenueWithFee": 1381.68,
-      "finalTotalSold": 76,
+      "finalGrossRevenueUSD": 1231.23,
+      "finalGrossRevenueWithFee": 1399.86,
+      "finalTotalSold": 77,
       "finalTotalCapacity": 299
     },
     {
@@ -2805,7 +2805,7 @@
           "grossRevenueUSD": 0.0,
           "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 13.77,
-          "fee": 2.69,
+          "fee": 2.19,
           "occupancy": 0.0
         }
       ],
@@ -2881,18 +2881,18 @@
         {
           "showtime_id": 536736971,
           "format": "standard",
-          "totalSeatSold": 28,
+          "totalSeatSold": 29,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 489.72,
-          "grossRevenueWithFee": 551.04,
+          "grossRevenueUSD": 507.21,
+          "grossRevenueWithFee": 570.72,
           "adultTicketPrice": 17.49,
           "fee": 2.19,
-          "occupancy": 20.9
+          "occupancy": 21.64
         }
       ],
-      "finalGrossRevenueUSD": 489.72,
-      "finalGrossRevenueWithFee": 551.04,
-      "finalTotalSold": 28,
+      "finalGrossRevenueUSD": 507.21,
+      "finalGrossRevenueWithFee": 570.72,
+      "finalTotalSold": 29,
       "finalTotalCapacity": 134
     },
     {
@@ -3934,18 +3934,18 @@
         {
           "showtime_id": 536748657,
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 12,
           "totalSeatCount": 209,
-          "grossRevenueUSD": 143.55,
-          "grossRevenueWithFee": 163.26,
+          "grossRevenueUSD": 191.4,
+          "grossRevenueWithFee": 217.68,
           "adultTicketPrice": 15.95,
           "fee": 2.19,
-          "occupancy": 4.31
+          "occupancy": 5.74
         }
       ],
-      "finalGrossRevenueUSD": 143.55,
-      "finalGrossRevenueWithFee": 163.26,
-      "finalTotalSold": 9,
+      "finalGrossRevenueUSD": 191.4,
+      "finalGrossRevenueWithFee": 217.68,
+      "finalTotalSold": 12,
       "finalTotalCapacity": 209
     },
     {
@@ -4757,6 +4757,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 83
+    },
+    {
+      "state": "FL",
+      "city": "Pensacola",
+      "zip": "32505",
+      "theater_name": "AMC CLASSIC Pensacola 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-03-18+19:00",
+      "language": "Hindi",
+      "formats": [
+        {
+          "showtime_id": 536763682,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 0,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 0,
+          "fee": 0,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 0
     }
   ]
 }

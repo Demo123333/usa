@@ -910,14 +910,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 76,
-    "occupancy": 25.42,
-    "totalAvailableSeatCount": 223,
+    "totalSeatSold": 77,
+    "occupancy": 25.75,
+    "totalAvailableSeatCount": 222,
     "totalSeatCount": 299,
-    "grossRevenueUSD": 1215.24,
+    "grossRevenueUSD": 1231.23,
     "adultTicketPrice": 15.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 1381.68
+    "totalRevenueWithFee": 1399.86
   },
   {
     "state": "VA",
@@ -2064,7 +2064,7 @@
     "totalSeatCount": 63,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 13.77,
-    "fee": 2.69,
+    "fee": 2.19,
     "totalRevenueWithFee": 0.0
   },
   {
@@ -2118,14 +2118,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 28,
-    "occupancy": 20.9,
-    "totalAvailableSeatCount": 106,
+    "totalSeatSold": 29,
+    "occupancy": 21.64,
+    "totalAvailableSeatCount": 105,
     "totalSeatCount": 134,
-    "grossRevenueUSD": 489.72,
+    "grossRevenueUSD": 507.21,
     "adultTicketPrice": 17.49,
     "fee": 2.19,
-    "totalRevenueWithFee": 551.04
+    "totalRevenueWithFee": 570.72
   },
   {
     "state": "CA",
@@ -2898,14 +2898,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 4.31,
-    "totalAvailableSeatCount": 200,
+    "totalSeatSold": 12,
+    "occupancy": 5.74,
+    "totalAvailableSeatCount": 197,
     "totalSeatCount": 209,
-    "grossRevenueUSD": 143.55,
+    "grossRevenueUSD": 191.4,
     "adultTicketPrice": 15.95,
     "fee": 2.19,
-    "totalRevenueWithFee": 163.26
+    "totalRevenueWithFee": 217.68
   },
   {
     "state": "WA",
@@ -3498,5 +3498,21 @@
     "adultTicketPrice": 15.49,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "FL",
+    "city": "Pensacola",
+    "zip": "32505",
+    "theater_name": "AMC CLASSIC Pensacola 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 536763682,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 500,
+      "reason": "No areas"
+    }
   }
 ]
