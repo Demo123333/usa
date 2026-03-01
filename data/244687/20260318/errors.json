@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 10:52:19 AM",
+  "last_updated": "2026-03-01 12:30:16 PM",
   "errors": [
     {
       "state": "FL",
@@ -42,6 +42,38 @@
       "chainCode": "AMC",
       "showtime_id": 536718654,
       "date": "2026-03-18+19:00",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536761858,
+      "date": "2026-03-18+19:30",
+      "format": "Standard",
+      "language": "Hindi",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536761859,
+      "date": "2026-03-18+21:30",
       "format": "Standard",
       "language": "Hindi",
       "error": {
