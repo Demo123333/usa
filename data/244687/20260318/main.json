@@ -150,14 +150,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 13,
-    "occupancy": 10.0,
-    "totalAvailableSeatCount": 117,
+    "totalSeatSold": 20,
+    "occupancy": 15.38,
+    "totalAvailableSeatCount": 110,
     "totalSeatCount": 130,
-    "grossRevenueUSD": 200.85,
+    "grossRevenueUSD": 309.0,
     "adultTicketPrice": 15.45,
     "fee": 2.19,
-    "totalRevenueWithFee": 229.32
+    "totalRevenueWithFee": 352.8
   },
   {
     "state": "NJ",
@@ -250,14 +250,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 5.43,
-    "totalAvailableSeatCount": 122,
+    "totalSeatSold": 14,
+    "occupancy": 10.85,
+    "totalAvailableSeatCount": 115,
     "totalSeatCount": 129,
-    "grossRevenueUSD": 108.22,
+    "grossRevenueUSD": 216.44,
     "adultTicketPrice": 15.46,
     "fee": 2.19,
-    "totalRevenueWithFee": 123.55
+    "totalRevenueWithFee": 247.1
   },
   {
     "state": "NJ",
@@ -1442,14 +1442,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 111,
+    "totalSeatSold": 1,
+    "occupancy": 0.9,
+    "totalAvailableSeatCount": 110,
     "totalSeatCount": 111,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 12.08,
     "adultTicketPrice": 12.08,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 14.27
   },
   {
     "state": "IN",
@@ -1782,14 +1782,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 2.52,
-    "totalAvailableSeatCount": 116,
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 119,
     "totalSeatCount": 119,
-    "grossRevenueUSD": 36.66,
+    "grossRevenueUSD": 0.0,
     "adultTicketPrice": 12.22,
     "fee": 2.19,
-    "totalRevenueWithFee": 43.23
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "IL",
@@ -2698,14 +2698,14 @@
     "date": "2026-03-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 3,
-    "occupancy": 1.27,
-    "totalAvailableSeatCount": 234,
+    "totalSeatSold": 5,
+    "occupancy": 2.11,
+    "totalAvailableSeatCount": 232,
     "totalSeatCount": 237,
-    "grossRevenueUSD": 53.97,
+    "grossRevenueUSD": 89.95,
     "adultTicketPrice": 17.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 60.54
+    "totalRevenueWithFee": 100.9
   },
   {
     "state": "VA",
@@ -2858,14 +2858,14 @@
     "date": "2026-03-18+21:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 4,
-    "occupancy": 4.08,
-    "totalAvailableSeatCount": 94,
+    "totalSeatSold": 15,
+    "occupancy": 15.31,
+    "totalAvailableSeatCount": 83,
     "totalSeatCount": 98,
-    "grossRevenueUSD": 73.24,
+    "grossRevenueUSD": 274.65,
     "adultTicketPrice": 18.31,
     "fee": 2.19,
-    "totalRevenueWithFee": 82.0
+    "totalRevenueWithFee": 307.5
   },
   {
     "state": "CA",
@@ -3118,14 +3118,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 2,
-    "occupancy": 0.77,
-    "totalAvailableSeatCount": 258,
+    "totalSeatSold": 5,
+    "occupancy": 1.92,
+    "totalAvailableSeatCount": 255,
     "totalSeatCount": 260,
-    "grossRevenueUSD": 27.98,
+    "grossRevenueUSD": 69.95,
     "adultTicketPrice": 13.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 32.36
+    "totalRevenueWithFee": 80.9
   },
   {
     "state": "NC",
@@ -3450,14 +3450,14 @@
     "date": "2026-03-18+19:15",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 8,
-    "occupancy": 6.5,
-    "totalAvailableSeatCount": 115,
+    "totalSeatSold": 10,
+    "occupancy": 8.13,
+    "totalAvailableSeatCount": 113,
     "totalSeatCount": 123,
-    "grossRevenueUSD": 125.52,
+    "grossRevenueUSD": 156.9,
     "adultTicketPrice": 15.69,
     "fee": 2.19,
-    "totalRevenueWithFee": 143.04
+    "totalRevenueWithFee": 178.8
   },
   {
     "state": "TX",
@@ -3572,6 +3572,26 @@
     "totalSeatCount": 47,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 14.83,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "SC",
+    "city": "Columbia",
+    "zip": "29212",
+    "theater_name": "Regal Columbiana Grande",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536764803,
+    "date": "2026-03-18+19:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 78,
+    "totalSeatCount": 78,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 15.21,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
   }
