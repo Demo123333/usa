@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 12:22:51 PM",
+  "last_updated": "2026-03-01 01:05:43 PM",
   "errors": [
     {
       "state": "FL",
@@ -25,6 +25,22 @@
       "chainName": "AMC",
       "chainCode": "AMC",
       "showtime_id": null,
+      "date": "2026-03-18+17:40",
+      "format": "Standard",
+      "language": "Unknown",
+      "error": {
+        "status": 500,
+        "reason": "No areas"
+      }
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 536762770,
       "date": "2026-03-18+17:40",
       "format": "Standard",
       "language": "Unknown",
