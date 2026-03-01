@@ -1846,14 +1846,14 @@
     "date": "2026-03-18+20:20",
     "format": "Standard",
     "language": "Telugu",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 74,
+    "totalSeatSold": 2,
+    "occupancy": 2.7,
+    "totalAvailableSeatCount": 72,
     "totalSeatCount": 74,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 42.0,
     "adultTicketPrice": 21.0,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 46.38
   },
   {
     "state": "WA",
@@ -2234,5 +2234,25 @@
     "adultTicketPrice": 20.0,
     "fee": 2.19,
     "totalRevenueWithFee": 44.38
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30009",
+    "theater_name": "Regal Avalon",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536760699,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Kannada",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 132,
+    "totalSeatCount": 132,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.55,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   }
 ]

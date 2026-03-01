@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-02-28 08:57:04 PM",
-  "total_gross_usd": 3409.71,
-  "total_gross_with_fee": 3797.34,
-  "total_shows": 112,
-  "total_sold": 177,
-  "total_capacity": 16257,
+  "last_updated": "2026-02-28 09:56:07 PM",
+  "total_gross_usd": 3451.71,
+  "total_gross_with_fee": 3843.72,
+  "total_shows": 113,
+  "total_sold": 179,
+  "total_capacity": 16389,
   "shows": [
     {
       "state": "MA",
@@ -2503,18 +2503,18 @@
         {
           "showtime_id": 536729446,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 74,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 42.0,
+          "grossRevenueWithFee": 46.38,
           "adultTicketPrice": 21.0,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 2.7
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 42.0,
+      "finalGrossRevenueWithFee": 46.38,
+      "finalTotalSold": 2,
       "finalTotalCapacity": 74
     },
     {
@@ -3029,6 +3029,33 @@
       "finalGrossRevenueWithFee": 44.38,
       "finalTotalSold": 2,
       "finalTotalCapacity": 67
+    },
+    {
+      "state": "GA",
+      "city": "Alpharetta",
+      "zip": "30009",
+      "theater_name": "Regal Avalon",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536760699,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 132,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.55,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 132
     }
   ]
 }
