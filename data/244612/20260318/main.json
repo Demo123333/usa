@@ -2346,5 +2346,25 @@
     "adultTicketPrice": 14.83,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536767893,
+    "date": "2026-03-18+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 44,
+    "totalSeatCount": 44,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 22.0,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   }
 ]

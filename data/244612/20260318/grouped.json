@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 12:31:56 PM",
+  "last_updated": "2026-03-01 01:27:23 PM",
   "total_gross_usd": 3493.62,
   "total_gross_with_fee": 3890.01,
-  "total_shows": 117,
+  "total_shows": 118,
   "total_sold": 181,
-  "total_capacity": 16612,
+  "total_capacity": 16656,
   "shows": [
     {
       "state": "MA",
@@ -3164,6 +3164,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 47
+    },
+    {
+      "state": "MD",
+      "city": "Rockville",
+      "zip": "20850",
+      "theater_name": "Regal Rockville Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536767893,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 44,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 22.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 44
     }
   ]
 }
