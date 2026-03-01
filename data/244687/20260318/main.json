@@ -150,14 +150,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 21,
-    "occupancy": 16.15,
-    "totalAvailableSeatCount": 109,
+    "totalSeatSold": 17,
+    "occupancy": 13.08,
+    "totalAvailableSeatCount": 113,
     "totalSeatCount": 130,
-    "grossRevenueUSD": 324.45,
+    "grossRevenueUSD": 262.65,
     "adultTicketPrice": 15.45,
     "fee": 2.19,
-    "totalRevenueWithFee": 370.44
+    "totalRevenueWithFee": 299.88
   },
   {
     "state": "NJ",
@@ -290,14 +290,14 @@
     "date": "2026-03-18+20:10",
     "format": "4DX",
     "language": "Hindi",
-    "totalSeatSold": 34,
-    "occupancy": 11.41,
-    "totalAvailableSeatCount": 264,
+    "totalSeatSold": 36,
+    "occupancy": 12.08,
+    "totalAvailableSeatCount": 262,
     "totalSeatCount": 298,
-    "grossRevenueUSD": 900.66,
+    "grossRevenueUSD": 953.64,
     "adultTicketPrice": 26.49,
     "fee": 2.69,
-    "totalRevenueWithFee": 992.12
+    "totalRevenueWithFee": 1050.48
   },
   {
     "state": "NY",
@@ -1350,10 +1350,14 @@
     "date": "2026-03-18+19:15",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 123,
+    "totalSeatCount": 123,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 13.96,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "FL",
@@ -1406,10 +1410,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 96,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 10.64,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "AL",
@@ -1582,14 +1590,14 @@
     "date": "2026-03-18+19:00",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 12,
-    "occupancy": 8.45,
-    "totalAvailableSeatCount": 130,
+    "totalSeatSold": 14,
+    "occupancy": 9.86,
+    "totalAvailableSeatCount": 128,
     "totalSeatCount": 142,
-    "grossRevenueUSD": 221.88,
+    "grossRevenueUSD": 258.86,
     "adultTicketPrice": 18.49,
     "fee": 2.69,
-    "totalRevenueWithFee": 254.16
+    "totalRevenueWithFee": 296.52
   },
   {
     "state": "IN",
@@ -1702,14 +1710,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 157,
+    "totalSeatSold": 2,
+    "occupancy": 1.27,
+    "totalAvailableSeatCount": 155,
     "totalSeatCount": 157,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 22.8,
     "adultTicketPrice": 11.4,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 27.18
   },
   {
     "state": "ND",
@@ -1982,10 +1990,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 96,
+    "totalSeatCount": 96,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 12.44,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "TX",
@@ -2338,14 +2350,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 145,
+    "totalSeatSold": 1,
+    "occupancy": 0.69,
+    "totalAvailableSeatCount": 144,
     "totalSeatCount": 145,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 14.99,
     "adultTicketPrice": 14.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 17.18
   },
   {
     "state": "CA",
@@ -2578,14 +2590,14 @@
     "date": "2026-03-18+20:00",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 7,
-    "occupancy": 3.15,
-    "totalAvailableSeatCount": 215,
+    "totalSeatSold": 15,
+    "occupancy": 6.76,
+    "totalAvailableSeatCount": 207,
     "totalSeatCount": 222,
-    "grossRevenueUSD": 150.43,
+    "grossRevenueUSD": 322.35,
     "adultTicketPrice": 21.49,
     "fee": 2.69,
-    "totalRevenueWithFee": 169.26
+    "totalRevenueWithFee": 362.7
   },
   {
     "state": "PA",
@@ -2678,14 +2690,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 12,
-    "occupancy": 4.14,
-    "totalAvailableSeatCount": 278,
+    "totalSeatSold": 13,
+    "occupancy": 4.48,
+    "totalAvailableSeatCount": 277,
     "totalSeatCount": 290,
-    "grossRevenueUSD": 215.88,
+    "grossRevenueUSD": 233.87,
     "adultTicketPrice": 17.99,
     "fee": 2.19,
-    "totalRevenueWithFee": 242.16
+    "totalRevenueWithFee": 262.34
   },
   {
     "state": "CA",
@@ -2798,14 +2810,14 @@
     "date": "2026-03-18+19:00",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 42,
-    "occupancy": 23.08,
-    "totalAvailableSeatCount": 140,
+    "totalSeatSold": 45,
+    "occupancy": 24.73,
+    "totalAvailableSeatCount": 137,
     "totalSeatCount": 182,
-    "grossRevenueUSD": 972.72,
+    "grossRevenueUSD": 1042.2,
     "adultTicketPrice": 23.16,
     "fee": 2.69,
-    "totalRevenueWithFee": 1085.7
+    "totalRevenueWithFee": 1163.25
   },
   {
     "state": "GA",
@@ -2818,14 +2830,14 @@
     "date": "2026-03-18+20:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 38,
-    "occupancy": 20.43,
-    "totalAvailableSeatCount": 148,
+    "totalSeatSold": 41,
+    "occupancy": 22.04,
+    "totalAvailableSeatCount": 145,
     "totalSeatCount": 186,
-    "grossRevenueUSD": 695.78,
+    "grossRevenueUSD": 750.71,
     "adultTicketPrice": 18.31,
     "fee": 2.19,
-    "totalRevenueWithFee": 779.0
+    "totalRevenueWithFee": 840.5
   },
   {
     "state": "GA",
@@ -3158,14 +3170,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 9,
-    "occupancy": 9.47,
-    "totalAvailableSeatCount": 86,
+    "totalSeatSold": 12,
+    "occupancy": 12.63,
+    "totalAvailableSeatCount": 83,
     "totalSeatCount": 95,
-    "grossRevenueUSD": 154.35,
+    "grossRevenueUSD": 205.8,
     "adultTicketPrice": 17.15,
     "fee": 2.19,
-    "totalRevenueWithFee": 174.06
+    "totalRevenueWithFee": 232.08
   },
   {
     "state": "NC",
@@ -3398,10 +3410,14 @@
     "date": "2026-03-18+19:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 141,
+    "totalSeatCount": 141,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.43,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   },
   {
     "state": "NC",
@@ -3414,10 +3430,14 @@
     "date": "2026-03-18+21:30",
     "format": "Standard",
     "language": "Hindi",
-    "error": {
-      "status": 500,
-      "reason": "No areas"
-    }
+    "totalSeatSold": 1,
+    "occupancy": 0.72,
+    "totalAvailableSeatCount": 138,
+    "totalSeatCount": 139,
+    "grossRevenueUSD": 14.43,
+    "adultTicketPrice": 14.43,
+    "fee": 2.19,
+    "totalRevenueWithFee": 16.62
   },
   {
     "state": "GA",
@@ -3430,14 +3450,14 @@
     "date": "2026-03-18+19:00",
     "format": "Standard",
     "language": "Hindi",
-    "totalSeatSold": 25,
-    "occupancy": 12.38,
-    "totalAvailableSeatCount": 177,
+    "totalSeatSold": 27,
+    "occupancy": 13.37,
+    "totalAvailableSeatCount": 175,
     "totalSeatCount": 202,
-    "grossRevenueUSD": 484.5,
+    "grossRevenueUSD": 523.26,
     "adultTicketPrice": 19.38,
     "fee": 2.19,
-    "totalRevenueWithFee": 539.25
+    "totalRevenueWithFee": 582.39
   },
   {
     "state": "TX",
@@ -3606,14 +3626,14 @@
     "date": "2026-03-18+20:30",
     "format": "RPX",
     "language": "Hindi",
-    "totalSeatSold": 0,
-    "occupancy": 0.0,
-    "totalAvailableSeatCount": 210,
+    "totalSeatSold": 2,
+    "occupancy": 0.95,
+    "totalAvailableSeatCount": 208,
     "totalSeatCount": 210,
-    "grossRevenueUSD": 0.0,
+    "grossRevenueUSD": 39.42,
     "adultTicketPrice": 19.71,
     "fee": 2.69,
-    "totalRevenueWithFee": 0.0
+    "totalRevenueWithFee": 44.8
   },
   {
     "state": "TX",
@@ -3632,6 +3652,26 @@
     "totalSeatCount": 56,
     "grossRevenueUSD": 0.0,
     "adultTicketPrice": 16.23,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "OH",
+    "city": "Willoughby",
+    "zip": "44094",
+    "theater_name": "Regal Willoughby Commons",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536766581,
+    "date": "2026-03-18+19:00",
+    "format": "Standard",
+    "language": "Hindi",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 68,
+    "totalSeatCount": 68,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 14.92,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
   }
