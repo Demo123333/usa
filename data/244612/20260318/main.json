@@ -2506,5 +2506,25 @@
     "adultTicketPrice": 21.4,
     "fee": 2.19,
     "totalRevenueWithFee": 0.0
+  },
+  {
+    "state": "OK",
+    "city": "Norman",
+    "zip": "73072",
+    "theater_name": "Regal Spotlight",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 536774622,
+    "date": "2026-03-18+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "totalSeatSold": 0,
+    "occupancy": 0.0,
+    "totalAvailableSeatCount": 69,
+    "totalSeatCount": 69,
+    "grossRevenueUSD": 0.0,
+    "adultTicketPrice": 21.76,
+    "fee": 2.19,
+    "totalRevenueWithFee": 0.0
   }
 ]

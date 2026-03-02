@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 08:51:02 PM",
+  "last_updated": "2026-03-01 09:55:25 PM",
   "total_gross_usd": 3739.64,
   "total_gross_with_fee": 4162.31,
-  "total_shows": 125,
+  "total_shows": 126,
   "total_sold": 193,
-  "total_capacity": 17480,
+  "total_capacity": 17549,
   "shows": [
     {
       "state": "MA",
@@ -3380,6 +3380,33 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 164
+    },
+    {
+      "state": "OK",
+      "city": "Norman",
+      "zip": "73072",
+      "theater_name": "Regal Spotlight",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+21:00",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536774622,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 69,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.76,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 69
     }
   ]
 }
