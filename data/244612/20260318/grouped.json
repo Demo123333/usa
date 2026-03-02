@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 06:25:34 PM",
-  "total_gross_usd": 3513.62,
-  "total_gross_with_fee": 3912.2,
-  "total_shows": 119,
-  "total_sold": 182,
-  "total_capacity": 16830,
+  "last_updated": "2026-03-01 08:51:02 PM",
+  "total_gross_usd": 3739.64,
+  "total_gross_with_fee": 4162.31,
+  "total_shows": 125,
+  "total_sold": 193,
+  "total_capacity": 17480,
   "shows": [
     {
       "state": "MA",
@@ -235,18 +235,18 @@
         {
           "showtime_id": 536729906,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 62,
-          "grossRevenueUSD": 15.46,
-          "grossRevenueWithFee": 17.65,
+          "grossRevenueUSD": 46.38,
+          "grossRevenueWithFee": 52.95,
           "adultTicketPrice": 15.46,
           "fee": 2.19,
-          "occupancy": 1.61
+          "occupancy": 4.84
         }
       ],
-      "finalGrossRevenueUSD": 15.46,
-      "finalGrossRevenueWithFee": 17.65,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 46.38,
+      "finalGrossRevenueWithFee": 52.95,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 62
     },
     {
@@ -2773,18 +2773,18 @@
         {
           "showtime_id": 536744961,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 152,
-          "grossRevenueUSD": 20.0,
-          "grossRevenueWithFee": 22.19,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 20.0,
           "fee": 2.19,
-          "occupancy": 0.66
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 20.0,
-      "finalGrossRevenueWithFee": 22.19,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
       "finalTotalCapacity": 152
     },
     {
@@ -3043,18 +3043,18 @@
         {
           "showtime_id": 536760699,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 132,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 43.1,
+          "grossRevenueWithFee": 47.48,
           "adultTicketPrice": 21.55,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 1.52
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 43.1,
+      "finalGrossRevenueWithFee": 47.48,
+      "finalTotalSold": 2,
       "finalTotalCapacity": 132
     },
     {
@@ -3218,6 +3218,168 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 203
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536772032,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 120,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.33,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 120
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:50",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536772033,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 115,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.33,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 115
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536773940,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 50,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.45,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 50
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:35",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536773941,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 73,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.45,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 73
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32607",
+      "theater_name": "Regal Royal Park",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536772969,
+          "format": "standard",
+          "totalSeatSold": 8,
+          "totalSeatCount": 128,
+          "grossRevenueUSD": 172.0,
+          "grossRevenueWithFee": 189.52,
+          "adultTicketPrice": 21.5,
+          "fee": 2.19,
+          "occupancy": 6.25
+        }
+      ],
+      "finalGrossRevenueUSD": 172.0,
+      "finalGrossRevenueWithFee": 189.52,
+      "finalTotalSold": 8,
+      "finalTotalCapacity": 128
+    },
+    {
+      "state": "FL",
+      "city": "Oviedo",
+      "zip": "32765",
+      "theater_name": "Regal Oviedo Mall",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536774092,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 164,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.4,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 164
     }
   ]
 }
