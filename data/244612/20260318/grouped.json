@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 03:28:03 PM",
-  "total_gross_usd": 3493.62,
-  "total_gross_with_fee": 3890.01,
+  "last_updated": "2026-03-01 06:25:34 PM",
+  "total_gross_usd": 3513.62,
+  "total_gross_with_fee": 3912.2,
   "total_shows": 119,
-  "total_sold": 181,
-  "total_capacity": 16859,
+  "total_sold": 182,
+  "total_capacity": 16830,
   "shows": [
     {
       "state": "MA",
@@ -2773,19 +2773,19 @@
         {
           "showtime_id": 536744961,
           "format": "standard",
-          "totalSeatSold": 0,
-          "totalSeatCount": 181,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "totalSeatSold": 1,
+          "totalSeatCount": 152,
+          "grossRevenueUSD": 20.0,
+          "grossRevenueWithFee": 22.19,
           "adultTicketPrice": 20.0,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 0.66
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
-      "finalTotalCapacity": 181
+      "finalGrossRevenueUSD": 20.0,
+      "finalGrossRevenueWithFee": 22.19,
+      "finalTotalSold": 1,
+      "finalTotalCapacity": 152
     },
     {
       "state": "GA",
