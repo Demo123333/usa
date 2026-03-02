@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 11:03:17 PM",
-  "total_gross_usd": 3835.1,
-  "total_gross_with_fee": 4268.72,
-  "total_shows": 126,
-  "total_sold": 198,
-  "total_capacity": 17549,
+  "last_updated": "2026-03-02 12:51:46 AM",
+  "total_gross_usd": 4512.2,
+  "total_gross_with_fee": 5028.28,
+  "total_shows": 141,
+  "total_sold": 232,
+  "total_capacity": 19329,
   "shows": [
     {
       "state": "MA",
@@ -3043,18 +3043,18 @@
         {
           "showtime_id": 536760699,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 132,
-          "grossRevenueUSD": 43.1,
-          "grossRevenueWithFee": 47.48,
+          "grossRevenueUSD": 86.2,
+          "grossRevenueWithFee": 94.96,
           "adultTicketPrice": 21.55,
           "fee": 2.19,
-          "occupancy": 1.52
+          "occupancy": 3.03
         }
       ],
-      "finalGrossRevenueUSD": 43.1,
-      "finalGrossRevenueWithFee": 47.48,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 86.2,
+      "finalGrossRevenueWithFee": 94.96,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 132
     },
     {
@@ -3407,6 +3407,411 @@
       "finalGrossRevenueWithFee": 0.0,
       "finalTotalSold": 0,
       "finalTotalCapacity": 69
+    },
+    {
+      "state": "MA",
+      "city": "Cambridge",
+      "zip": "02138",
+      "theater_name": "Apple Cinemas Cambridge",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536744891,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 97,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 97
+    },
+    {
+      "state": "MA",
+      "city": "Cambridge",
+      "zip": "02138",
+      "theater_name": "Apple Cinemas Cambridge",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744892,
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 110,
+          "grossRevenueUSD": 80.0,
+          "grossRevenueWithFee": 88.76,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 3.64
+        }
+      ],
+      "finalGrossRevenueUSD": 80.0,
+      "finalGrossRevenueWithFee": 88.76,
+      "finalTotalSold": 4,
+      "finalTotalCapacity": 110
+    },
+    {
+      "state": "NH",
+      "city": "Merrimack",
+      "zip": "03054",
+      "theater_name": "Apple Cinemas Merrimack",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+21:00",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744902,
+          "format": "acx",
+          "totalSeatSold": 1,
+          "totalSeatCount": 113,
+          "grossRevenueUSD": 20.0,
+          "grossRevenueWithFee": 22.69,
+          "adultTicketPrice": 20.0,
+          "fee": 2.69,
+          "occupancy": 0.88
+        }
+      ],
+      "finalGrossRevenueUSD": 20.0,
+      "finalGrossRevenueWithFee": 22.69,
+      "finalTotalSold": 1,
+      "finalTotalCapacity": 113
+    },
+    {
+      "state": "NH",
+      "city": "Merrimack",
+      "zip": "03054",
+      "theater_name": "Apple Cinemas Merrimack",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+18:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744903,
+          "format": "standard",
+          "totalSeatSold": 5,
+          "totalSeatCount": 78,
+          "grossRevenueUSD": 100.0,
+          "grossRevenueWithFee": 110.95,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 6.41
+        }
+      ],
+      "finalGrossRevenueUSD": 100.0,
+      "finalGrossRevenueWithFee": 110.95,
+      "finalTotalSold": 5,
+      "finalTotalCapacity": 78
+    },
+    {
+      "state": "NH",
+      "city": "Merrimack",
+      "zip": "03054",
+      "theater_name": "Apple Cinemas Merrimack",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536744904,
+          "format": "standard",
+          "totalSeatSold": 4,
+          "totalSeatCount": 78,
+          "grossRevenueUSD": 80.0,
+          "grossRevenueWithFee": 88.76,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 5.13
+        }
+      ],
+      "finalGrossRevenueUSD": 80.0,
+      "finalGrossRevenueWithFee": 88.76,
+      "finalTotalSold": 4,
+      "finalTotalCapacity": 78
+    },
+    {
+      "state": "CT",
+      "city": "Waterbury",
+      "zip": "06706",
+      "theater_name": "Apple Cinemas Brass Mill",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+19:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536745312,
+          "format": "acx",
+          "totalSeatSold": 3,
+          "totalSeatCount": 162,
+          "grossRevenueUSD": 57.0,
+          "grossRevenueWithFee": 65.07,
+          "adultTicketPrice": 19.0,
+          "fee": 2.69,
+          "occupancy": 1.85
+        }
+      ],
+      "finalGrossRevenueUSD": 57.0,
+      "finalGrossRevenueWithFee": 65.07,
+      "finalTotalSold": 3,
+      "finalTotalCapacity": 162
+    },
+    {
+      "state": "CT",
+      "city": "Waterbury",
+      "zip": "06706",
+      "theater_name": "Apple Cinemas Brass Mill",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536745311,
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 77,
+          "grossRevenueUSD": 57.0,
+          "grossRevenueWithFee": 63.57,
+          "adultTicketPrice": 19.0,
+          "fee": 2.19,
+          "occupancy": 3.9
+        }
+      ],
+      "finalGrossRevenueUSD": 57.0,
+      "finalGrossRevenueWithFee": 63.57,
+      "finalTotalSold": 3,
+      "finalTotalCapacity": 77
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Cin\u00e9 Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+18:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536737660,
+          "format": "premium large format",
+          "totalSeatSold": 0,
+          "totalSeatCount": 160,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.69,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 160
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Cin\u00e9 Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+21:30",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536737662,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 112,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 20.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 112
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Cin\u00e9 Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+22:25",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536762559,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 94,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 18.52,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 94
+    },
+    {
+      "state": "CA",
+      "city": "San Diego",
+      "zip": "92126",
+      "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+20:00",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536758884,
+          "format": "rpx",
+          "totalSeatSold": 0,
+          "totalSeatCount": 148,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 21.99,
+          "fee": 2.69,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 148
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+16:00",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536737173,
+          "format": "premium large format",
+          "totalSeatSold": 2,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 40.0,
+          "grossRevenueWithFee": 45.38,
+          "adultTicketPrice": 20.0,
+          "fee": 2.69,
+          "occupancy": 1.9
+        }
+      ],
+      "finalGrossRevenueUSD": 40.0,
+      "finalGrossRevenueWithFee": 45.38,
+      "finalTotalSold": 2,
+      "finalTotalCapacity": 105
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+19:45",
+      "language": "Kannada",
+      "formats": [
+        {
+          "showtime_id": 536737174,
+          "format": "premium large format",
+          "totalSeatSold": 10,
+          "totalSeatCount": 105,
+          "grossRevenueUSD": 200.0,
+          "grossRevenueWithFee": 226.9,
+          "adultTicketPrice": 20.0,
+          "fee": 2.69,
+          "occupancy": 9.52
+        }
+      ],
+      "finalGrossRevenueUSD": 200.0,
+      "finalGrossRevenueWithFee": 226.9,
+      "finalTotalSold": 10,
+      "finalTotalCapacity": 105
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cin\u00e9 Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "date": "2026-03-18+15:45",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536777303,
+          "format": "standard",
+          "totalSeatSold": 0,
+          "totalSeatCount": 51,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 18.0,
+          "fee": 2.19,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 51
+    },
+    {
+      "state": "CA",
+      "city": "Dublin",
+      "zip": "94568",
+      "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+15:30",
+      "language": "Telugu",
+      "formats": [
+        {
+          "showtime_id": 536744962,
+          "format": "rpx",
+          "totalSeatSold": 0,
+          "totalSeatCount": 290,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
+          "adultTicketPrice": 22.49,
+          "fee": 2.69,
+          "occupancy": 0.0
+        }
+      ],
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
+      "finalTotalCapacity": 290
     }
   ]
 }
