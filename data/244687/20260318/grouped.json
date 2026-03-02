@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-01 06:51:26 PM",
-  "total_gross_usd": 33889.01,
-  "total_gross_with_fee": 38344.1,
-  "total_shows": 210,
-  "total_sold": 1961,
-  "total_capacity": 30968,
+  "last_updated": "2026-03-01 08:56:53 PM",
+  "total_gross_usd": 36576.57,
+  "total_gross_with_fee": 41384.54,
+  "total_shows": 213,
+  "total_sold": 2113,
+  "total_capacity": 31395,
   "shows": [
     {
       "state": "MA",
@@ -154,18 +154,18 @@
         {
           "showtime_id": 536691727,
           "format": "standard",
-          "totalSeatSold": 71,
+          "totalSeatSold": 67,
           "totalSeatCount": 210,
-          "grossRevenueUSD": 1096.95,
-          "grossRevenueWithFee": 1252.44,
+          "grossRevenueUSD": 1035.15,
+          "grossRevenueWithFee": 1181.88,
           "adultTicketPrice": 15.45,
           "fee": 2.19,
-          "occupancy": 33.81
+          "occupancy": 31.9
         }
       ],
-      "finalGrossRevenueUSD": 1096.95,
-      "finalGrossRevenueWithFee": 1252.44,
-      "finalTotalSold": 71,
+      "finalGrossRevenueUSD": 1035.15,
+      "finalGrossRevenueWithFee": 1181.88,
+      "finalTotalSold": 67,
       "finalTotalCapacity": 210
     },
     {
@@ -246,18 +246,18 @@
         {
           "showtime_id": 536765919,
           "format": "rpx",
-          "totalSeatSold": 56,
+          "totalSeatSold": 65,
           "totalSeatCount": 210,
-          "grossRevenueUSD": 1103.76,
-          "grossRevenueWithFee": 1254.4,
+          "grossRevenueUSD": 1281.15,
+          "grossRevenueWithFee": 1456.0,
           "adultTicketPrice": 19.71,
           "fee": 2.69,
-          "occupancy": 26.67
+          "occupancy": 30.95
         }
       ],
-      "finalGrossRevenueUSD": 1103.76,
-      "finalGrossRevenueWithFee": 1254.4,
-      "finalTotalSold": 56,
+      "finalGrossRevenueUSD": 1281.15,
+      "finalGrossRevenueWithFee": 1456.0,
+      "finalTotalSold": 65,
       "finalTotalCapacity": 339
     },
     {
@@ -354,18 +354,18 @@
         {
           "showtime_id": 536729904,
           "format": "standard",
-          "totalSeatSold": 29,
+          "totalSeatSold": 30,
           "totalSeatCount": 129,
-          "grossRevenueUSD": 448.34,
-          "grossRevenueWithFee": 511.85,
+          "grossRevenueUSD": 463.8,
+          "grossRevenueWithFee": 529.5,
           "adultTicketPrice": 15.46,
           "fee": 2.19,
-          "occupancy": 22.48
+          "occupancy": 23.26
         }
       ],
-      "finalGrossRevenueUSD": 448.34,
-      "finalGrossRevenueWithFee": 511.85,
-      "finalTotalSold": 29,
+      "finalGrossRevenueUSD": 463.8,
+      "finalGrossRevenueWithFee": 529.5,
+      "finalTotalSold": 30,
       "finalTotalCapacity": 129
     },
     {
@@ -1002,18 +1002,18 @@
         {
           "showtime_id": 536728194,
           "format": "standard",
-          "totalSeatSold": 38,
+          "totalSeatSold": 40,
           "totalSeatCount": 177,
-          "grossRevenueUSD": 645.62,
-          "grossRevenueWithFee": 728.84,
+          "grossRevenueUSD": 679.6,
+          "grossRevenueWithFee": 767.2,
           "adultTicketPrice": 16.99,
           "fee": 2.19,
-          "occupancy": 21.47
+          "occupancy": 22.6
         }
       ],
-      "finalGrossRevenueUSD": 645.62,
-      "finalGrossRevenueWithFee": 728.84,
-      "finalTotalSold": 38,
+      "finalGrossRevenueUSD": 679.6,
+      "finalGrossRevenueWithFee": 767.2,
+      "finalTotalSold": 40,
       "finalTotalCapacity": 177
     },
     {
@@ -1029,18 +1029,18 @@
         {
           "showtime_id": 536728195,
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 9,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 118.93,
-          "grossRevenueWithFee": 134.26,
+          "grossRevenueUSD": 152.91,
+          "grossRevenueWithFee": 172.62,
           "adultTicketPrice": 16.99,
           "fee": 2.19,
-          "occupancy": 5.04
+          "occupancy": 6.47
         }
       ],
-      "finalGrossRevenueUSD": 118.93,
-      "finalGrossRevenueWithFee": 134.26,
-      "finalTotalSold": 7,
+      "finalGrossRevenueUSD": 152.91,
+      "finalGrossRevenueWithFee": 172.62,
+      "finalTotalSold": 9,
       "finalTotalCapacity": 139
     },
     {
@@ -1731,18 +1731,18 @@
         {
           "showtime_id": 536694232,
           "format": "standard",
-          "totalSeatSold": 5,
+          "totalSeatSold": 6,
           "totalSeatCount": 38,
-          "grossRevenueUSD": 87.8,
-          "grossRevenueWithFee": 98.75,
+          "grossRevenueUSD": 105.36,
+          "grossRevenueWithFee": 118.5,
           "adultTicketPrice": 17.56,
           "fee": 2.19,
-          "occupancy": 13.16
+          "occupancy": 15.79
         }
       ],
-      "finalGrossRevenueUSD": 87.8,
-      "finalGrossRevenueWithFee": 98.75,
-      "finalTotalSold": 5,
+      "finalGrossRevenueUSD": 105.36,
+      "finalGrossRevenueWithFee": 118.5,
+      "finalTotalSold": 6,
       "finalTotalCapacity": 38
     },
     {
@@ -1974,18 +1974,18 @@
         {
           "showtime_id": 536698540,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 0,
           "totalSeatCount": 128,
-          "grossRevenueUSD": 12.08,
-          "grossRevenueWithFee": 14.27,
+          "grossRevenueUSD": 0.0,
+          "grossRevenueWithFee": 0.0,
           "adultTicketPrice": 12.08,
           "fee": 2.19,
-          "occupancy": 0.78
+          "occupancy": 0.0
         }
       ],
-      "finalGrossRevenueUSD": 12.08,
-      "finalGrossRevenueWithFee": 14.27,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 0.0,
+      "finalGrossRevenueWithFee": 0.0,
+      "finalTotalSold": 0,
       "finalTotalCapacity": 128
     },
     {
@@ -2163,18 +2163,18 @@
         {
           "showtime_id": 536668340,
           "format": "rpx",
-          "totalSeatSold": 18,
+          "totalSeatSold": 21,
           "totalSeatCount": 142,
-          "grossRevenueUSD": 332.82,
-          "grossRevenueWithFee": 381.24,
+          "grossRevenueUSD": 388.29,
+          "grossRevenueWithFee": 444.78,
           "adultTicketPrice": 18.49,
           "fee": 2.69,
-          "occupancy": 12.68
+          "occupancy": 14.79
         }
       ],
-      "finalGrossRevenueUSD": 332.82,
-      "finalGrossRevenueWithFee": 381.24,
-      "finalTotalSold": 18,
+      "finalGrossRevenueUSD": 388.29,
+      "finalGrossRevenueWithFee": 444.78,
+      "finalTotalSold": 21,
       "finalTotalCapacity": 142
     },
     {
@@ -2703,18 +2703,18 @@
         {
           "showtime_id": 536718654,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 96,
-          "grossRevenueUSD": 24.88,
-          "grossRevenueWithFee": 29.26,
+          "grossRevenueUSD": 49.76,
+          "grossRevenueWithFee": 58.52,
           "adultTicketPrice": 12.44,
           "fee": 2.19,
-          "occupancy": 2.08
+          "occupancy": 4.17
         }
       ],
-      "finalGrossRevenueUSD": 24.88,
-      "finalGrossRevenueWithFee": 29.26,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 49.76,
+      "finalGrossRevenueWithFee": 58.52,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 96
     },
     {
@@ -2811,18 +2811,18 @@
         {
           "showtime_id": 536704207,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 1,
           "totalSeatCount": 63,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 13.77,
+          "grossRevenueWithFee": 15.96,
           "adultTicketPrice": 13.77,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 1.59
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 13.77,
+      "finalGrossRevenueWithFee": 15.96,
+      "finalTotalSold": 1,
       "finalTotalCapacity": 63
     },
     {
@@ -2892,18 +2892,18 @@
         {
           "showtime_id": 536736971,
           "format": "standard",
-          "totalSeatSold": 32,
+          "totalSeatSold": 36,
           "totalSeatCount": 134,
-          "grossRevenueUSD": 559.68,
-          "grossRevenueWithFee": 629.76,
+          "grossRevenueUSD": 629.64,
+          "grossRevenueWithFee": 708.48,
           "adultTicketPrice": 17.49,
           "fee": 2.19,
-          "occupancy": 23.88
+          "occupancy": 26.87
         }
       ],
-      "finalGrossRevenueUSD": 559.68,
-      "finalGrossRevenueWithFee": 629.76,
-      "finalTotalSold": 32,
+      "finalGrossRevenueUSD": 629.64,
+      "finalGrossRevenueWithFee": 708.48,
+      "finalTotalSold": 36,
       "finalTotalCapacity": 134
     },
     {
@@ -3054,18 +3054,18 @@
         {
           "showtime_id": 536734407,
           "format": "rpx",
-          "totalSeatSold": 2,
+          "totalSeatSold": 6,
           "totalSeatCount": 523,
-          "grossRevenueUSD": 47.98,
-          "grossRevenueWithFee": 53.36,
+          "grossRevenueUSD": 143.94,
+          "grossRevenueWithFee": 160.08,
           "adultTicketPrice": 23.99,
           "fee": 2.69,
-          "occupancy": 0.38
+          "occupancy": 1.15
         }
       ],
-      "finalGrossRevenueUSD": 47.98,
-      "finalGrossRevenueWithFee": 53.36,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 143.94,
+      "finalGrossRevenueWithFee": 160.08,
+      "finalTotalSold": 6,
       "finalTotalCapacity": 523
     },
     {
@@ -3270,18 +3270,18 @@
         {
           "showtime_id": 536697531,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 114,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 30.98,
+          "grossRevenueWithFee": 35.36,
           "adultTicketPrice": 15.49,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 1.75
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 30.98,
+      "finalGrossRevenueWithFee": 35.36,
+      "finalTotalSold": 2,
       "finalTotalCapacity": 114
     },
     {
@@ -3432,18 +3432,18 @@
         {
           "showtime_id": 536707657,
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 2,
           "totalSeatCount": 141,
-          "grossRevenueUSD": 65.04,
-          "grossRevenueWithFee": 73.8,
+          "grossRevenueUSD": 32.52,
+          "grossRevenueWithFee": 36.9,
           "adultTicketPrice": 16.26,
           "fee": 2.19,
-          "occupancy": 2.84
+          "occupancy": 1.42
         }
       ],
-      "finalGrossRevenueUSD": 65.04,
-      "finalGrossRevenueWithFee": 73.8,
-      "finalTotalSold": 4,
+      "finalGrossRevenueUSD": 32.52,
+      "finalGrossRevenueWithFee": 36.9,
+      "finalTotalSold": 2,
       "finalTotalCapacity": 141
     },
     {
@@ -3459,18 +3459,18 @@
         {
           "showtime_id": 536729444,
           "format": "standard",
-          "totalSeatSold": 35,
+          "totalSeatSold": 45,
           "totalSeatCount": 73,
-          "grossRevenueUSD": 642.6,
-          "grossRevenueWithFee": 719.25,
+          "grossRevenueUSD": 826.2,
+          "grossRevenueWithFee": 924.75,
           "adultTicketPrice": 18.36,
           "fee": 2.19,
-          "occupancy": 47.95
+          "occupancy": 61.64
         }
       ],
-      "finalGrossRevenueUSD": 642.6,
-      "finalGrossRevenueWithFee": 719.25,
-      "finalTotalSold": 35,
+      "finalGrossRevenueUSD": 826.2,
+      "finalGrossRevenueWithFee": 924.75,
+      "finalTotalSold": 45,
       "finalTotalCapacity": 73
     },
     {
@@ -3540,18 +3540,18 @@
         {
           "showtime_id": 536745246,
           "format": "rpx",
-          "totalSeatSold": 6,
+          "totalSeatSold": 8,
           "totalSeatCount": 342,
-          "grossRevenueUSD": 128.94,
-          "grossRevenueWithFee": 145.08,
+          "grossRevenueUSD": 171.92,
+          "grossRevenueWithFee": 193.44,
           "adultTicketPrice": 21.49,
           "fee": 2.69,
-          "occupancy": 1.75
+          "occupancy": 2.34
         }
       ],
-      "finalGrossRevenueUSD": 128.94,
-      "finalGrossRevenueWithFee": 145.08,
-      "finalTotalSold": 6,
+      "finalGrossRevenueUSD": 171.92,
+      "finalGrossRevenueWithFee": 193.44,
+      "finalTotalSold": 8,
       "finalTotalCapacity": 342
     },
     {
@@ -3621,18 +3621,18 @@
         {
           "showtime_id": 536744963,
           "format": "rpx",
-          "totalSeatSold": 43,
+          "totalSeatSold": 54,
           "totalSeatCount": 290,
-          "grossRevenueUSD": 967.07,
-          "grossRevenueWithFee": 1082.74,
+          "grossRevenueUSD": 1214.46,
+          "grossRevenueWithFee": 1359.72,
           "adultTicketPrice": 22.49,
           "fee": 2.69,
-          "occupancy": 14.83
+          "occupancy": 18.62
         }
       ],
-      "finalGrossRevenueUSD": 967.07,
-      "finalGrossRevenueWithFee": 1082.74,
-      "finalTotalSold": 43,
+      "finalGrossRevenueUSD": 1214.46,
+      "finalGrossRevenueWithFee": 1359.72,
+      "finalTotalSold": 54,
       "finalTotalCapacity": 290
     },
     {
@@ -3648,18 +3648,18 @@
         {
           "showtime_id": 536744958,
           "format": "standard",
-          "totalSeatSold": 14,
+          "totalSeatSold": 19,
           "totalSeatCount": 290,
-          "grossRevenueUSD": 251.86,
-          "grossRevenueWithFee": 282.52,
+          "grossRevenueUSD": 341.81,
+          "grossRevenueWithFee": 383.42,
           "adultTicketPrice": 17.99,
           "fee": 2.19,
-          "occupancy": 4.83
+          "occupancy": 6.55
         }
       ],
-      "finalGrossRevenueUSD": 251.86,
-      "finalGrossRevenueWithFee": 282.52,
-      "finalTotalSold": 14,
+      "finalGrossRevenueUSD": 341.81,
+      "finalGrossRevenueWithFee": 383.42,
+      "finalTotalSold": 19,
       "finalTotalCapacity": 290
     },
     {
@@ -3675,18 +3675,18 @@
         {
           "showtime_id": 536744959,
           "format": "standard",
-          "totalSeatSold": 9,
+          "totalSeatSold": 11,
           "totalSeatCount": 237,
-          "grossRevenueUSD": 161.91,
-          "grossRevenueWithFee": 181.62,
+          "grossRevenueUSD": 197.89,
+          "grossRevenueWithFee": 221.98,
           "adultTicketPrice": 17.99,
           "fee": 2.19,
-          "occupancy": 3.8
+          "occupancy": 4.64
         }
       ],
-      "finalGrossRevenueUSD": 161.91,
-      "finalGrossRevenueWithFee": 181.62,
-      "finalTotalSold": 9,
+      "finalGrossRevenueUSD": 197.89,
+      "finalGrossRevenueWithFee": 221.98,
+      "finalTotalSold": 11,
       "finalTotalCapacity": 237
     },
     {
@@ -3810,18 +3810,18 @@
         {
           "showtime_id": 536746859,
           "format": "rpx",
-          "totalSeatSold": 64,
+          "totalSeatSold": 68,
           "totalSeatCount": 182,
-          "grossRevenueUSD": 1482.24,
-          "grossRevenueWithFee": 1654.4,
+          "grossRevenueUSD": 1574.88,
+          "grossRevenueWithFee": 1757.8,
           "adultTicketPrice": 23.16,
           "fee": 2.69,
-          "occupancy": 35.16
+          "occupancy": 37.36
         }
       ],
-      "finalGrossRevenueUSD": 1482.24,
-      "finalGrossRevenueWithFee": 1654.4,
-      "finalTotalSold": 64,
+      "finalGrossRevenueUSD": 1574.88,
+      "finalGrossRevenueWithFee": 1757.8,
+      "finalTotalSold": 68,
       "finalTotalCapacity": 182
     },
     {
@@ -3837,18 +3837,18 @@
         {
           "showtime_id": 536746860,
           "format": "standard",
-          "totalSeatSold": 51,
+          "totalSeatSold": 56,
           "totalSeatCount": 186,
-          "grossRevenueUSD": 933.81,
-          "grossRevenueWithFee": 1045.5,
+          "grossRevenueUSD": 1025.36,
+          "grossRevenueWithFee": 1148.0,
           "adultTicketPrice": 18.31,
           "fee": 2.19,
-          "occupancy": 27.42
+          "occupancy": 30.11
         }
       ],
-      "finalGrossRevenueUSD": 933.81,
-      "finalGrossRevenueWithFee": 1045.5,
-      "finalTotalSold": 51,
+      "finalGrossRevenueUSD": 1025.36,
+      "finalGrossRevenueWithFee": 1148.0,
+      "finalTotalSold": 56,
       "finalTotalCapacity": 186
     },
     {
@@ -3864,18 +3864,18 @@
         {
           "showtime_id": 536746862,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 95,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 54.93,
+          "grossRevenueWithFee": 61.5,
           "adultTicketPrice": 18.31,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 3.16
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 54.93,
+      "finalGrossRevenueWithFee": 61.5,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 95
     },
     {
@@ -3972,18 +3972,18 @@
         {
           "showtime_id": 536748659,
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 5,
           "totalSeatCount": 120,
-          "grossRevenueUSD": 47.85,
-          "grossRevenueWithFee": 54.42,
+          "grossRevenueUSD": 79.75,
+          "grossRevenueWithFee": 90.7,
           "adultTicketPrice": 15.95,
           "fee": 2.19,
-          "occupancy": 2.5
+          "occupancy": 4.17
         }
       ],
-      "finalGrossRevenueUSD": 47.85,
-      "finalGrossRevenueWithFee": 54.42,
-      "finalTotalSold": 3,
+      "finalGrossRevenueUSD": 79.75,
+      "finalGrossRevenueWithFee": 90.7,
+      "finalTotalSold": 5,
       "finalTotalCapacity": 120
     },
     {
@@ -4188,18 +4188,18 @@
         {
           "showtime_id": 536756599,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 4,
           "totalSeatCount": 69,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 65.96,
+          "grossRevenueWithFee": 74.72,
           "adultTicketPrice": 16.49,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 5.8
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 65.96,
+      "finalGrossRevenueWithFee": 74.72,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 69
     },
     {
@@ -4296,18 +4296,18 @@
         {
           "showtime_id": 536758924,
           "format": "standard",
-          "totalSeatSold": 31,
+          "totalSeatSold": 23,
           "totalSeatCount": 95,
-          "grossRevenueUSD": 531.65,
-          "grossRevenueWithFee": 599.54,
+          "grossRevenueUSD": 394.45,
+          "grossRevenueWithFee": 444.82,
           "adultTicketPrice": 17.15,
           "fee": 2.19,
-          "occupancy": 32.63
+          "occupancy": 24.21
         }
       ],
-      "finalGrossRevenueUSD": 531.65,
-      "finalGrossRevenueWithFee": 599.54,
-      "finalTotalSold": 31,
+      "finalGrossRevenueUSD": 394.45,
+      "finalGrossRevenueWithFee": 444.82,
+      "finalTotalSold": 23,
       "finalTotalCapacity": 95
     },
     {
@@ -4404,18 +4404,18 @@
         {
           "showtime_id": 536758928,
           "format": "standard",
-          "totalSeatSold": 1,
+          "totalSeatSold": 3,
           "totalSeatCount": 80,
-          "grossRevenueUSD": 17.15,
-          "grossRevenueWithFee": 19.34,
+          "grossRevenueUSD": 51.45,
+          "grossRevenueWithFee": 58.02,
           "adultTicketPrice": 17.15,
           "fee": 2.19,
-          "occupancy": 1.25
+          "occupancy": 3.75
         }
       ],
-      "finalGrossRevenueUSD": 17.15,
-      "finalGrossRevenueWithFee": 19.34,
-      "finalTotalSold": 1,
+      "finalGrossRevenueUSD": 51.45,
+      "finalGrossRevenueWithFee": 58.02,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 80
     },
     {
@@ -4512,18 +4512,18 @@
         {
           "showtime_id": 536758885,
           "format": "standard",
-          "totalSeatSold": 7,
+          "totalSeatSold": 8,
           "totalSeatCount": 212,
-          "grossRevenueUSD": 122.43,
-          "grossRevenueWithFee": 137.76,
+          "grossRevenueUSD": 139.92,
+          "grossRevenueWithFee": 157.44,
           "adultTicketPrice": 17.49,
           "fee": 2.19,
-          "occupancy": 3.3
+          "occupancy": 3.77
         }
       ],
-      "finalGrossRevenueUSD": 122.43,
-      "finalGrossRevenueWithFee": 137.76,
-      "finalTotalSold": 7,
+      "finalGrossRevenueUSD": 139.92,
+      "finalGrossRevenueWithFee": 157.44,
+      "finalTotalSold": 8,
       "finalTotalCapacity": 212
     },
     {
@@ -4647,18 +4647,18 @@
         {
           "showtime_id": 536761859,
           "format": "standard",
-          "totalSeatSold": 20,
+          "totalSeatSold": 22,
           "totalSeatCount": 139,
-          "grossRevenueUSD": 288.6,
-          "grossRevenueWithFee": 332.4,
+          "grossRevenueUSD": 317.46,
+          "grossRevenueWithFee": 365.64,
           "adultTicketPrice": 14.43,
           "fee": 2.19,
-          "occupancy": 14.39
+          "occupancy": 15.83
         }
       ],
-      "finalGrossRevenueUSD": 288.6,
-      "finalGrossRevenueWithFee": 332.4,
-      "finalTotalSold": 20,
+      "finalGrossRevenueUSD": 317.46,
+      "finalGrossRevenueWithFee": 365.64,
+      "finalTotalSold": 22,
       "finalTotalCapacity": 139
     },
     {
@@ -4674,18 +4674,18 @@
         {
           "showtime_id": 536760695,
           "format": "standard",
-          "totalSeatSold": 60,
+          "totalSeatSold": 64,
           "totalSeatCount": 202,
-          "grossRevenueUSD": 1162.8,
-          "grossRevenueWithFee": 1294.2,
+          "grossRevenueUSD": 1240.32,
+          "grossRevenueWithFee": 1380.48,
           "adultTicketPrice": 19.38,
           "fee": 2.19,
-          "occupancy": 29.7
+          "occupancy": 31.68
         }
       ],
-      "finalGrossRevenueUSD": 1162.8,
-      "finalGrossRevenueWithFee": 1294.2,
-      "finalTotalSold": 60,
+      "finalGrossRevenueUSD": 1240.32,
+      "finalGrossRevenueWithFee": 1380.48,
+      "finalTotalSold": 64,
       "finalTotalCapacity": 202
     },
     {
@@ -4890,18 +4890,18 @@
         {
           "showtime_id": 536764803,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 2,
           "totalSeatCount": 78,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 30.42,
+          "grossRevenueWithFee": 34.8,
           "adultTicketPrice": 15.21,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 2.56
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 30.42,
+      "finalGrossRevenueWithFee": 34.8,
+      "finalTotalSold": 2,
       "finalTotalCapacity": 78
     },
     {
@@ -5241,18 +5241,18 @@
         {
           "showtime_id": 536767974,
           "format": "standard",
-          "totalSeatSold": 6,
+          "totalSeatSold": 10,
           "totalSeatCount": 83,
-          "grossRevenueUSD": 86.82,
-          "grossRevenueWithFee": 99.96,
+          "grossRevenueUSD": 144.7,
+          "grossRevenueWithFee": 166.6,
           "adultTicketPrice": 14.47,
           "fee": 2.19,
-          "occupancy": 7.23
+          "occupancy": 12.05
         }
       ],
-      "finalGrossRevenueUSD": 86.82,
-      "finalGrossRevenueWithFee": 99.96,
-      "finalTotalSold": 6,
+      "finalGrossRevenueUSD": 144.7,
+      "finalGrossRevenueWithFee": 166.6,
+      "finalTotalSold": 10,
       "finalTotalCapacity": 83
     },
     {
@@ -5322,18 +5322,18 @@
         {
           "showtime_id": 536767975,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 4,
           "totalSeatCount": 75,
-          "grossRevenueUSD": 36.02,
-          "grossRevenueWithFee": 40.4,
+          "grossRevenueUSD": 72.04,
+          "grossRevenueWithFee": 80.8,
           "adultTicketPrice": 18.01,
           "fee": 2.19,
-          "occupancy": 2.67
+          "occupancy": 5.33
         }
       ],
-      "finalGrossRevenueUSD": 36.02,
-      "finalGrossRevenueWithFee": 40.4,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 72.04,
+      "finalGrossRevenueWithFee": 80.8,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 75
     },
     {
@@ -5376,18 +5376,18 @@
         {
           "showtime_id": 536767977,
           "format": "standard",
-          "totalSeatSold": 2,
+          "totalSeatSold": 3,
           "totalSeatCount": 104,
-          "grossRevenueUSD": 30.08,
-          "grossRevenueWithFee": 34.46,
+          "grossRevenueUSD": 45.12,
+          "grossRevenueWithFee": 51.69,
           "adultTicketPrice": 15.04,
           "fee": 2.19,
-          "occupancy": 1.92
+          "occupancy": 2.88
         }
       ],
-      "finalGrossRevenueUSD": 30.08,
-      "finalGrossRevenueWithFee": 34.46,
-      "finalTotalSold": 2,
+      "finalGrossRevenueUSD": 45.12,
+      "finalGrossRevenueWithFee": 51.69,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 104
     },
     {
@@ -5403,18 +5403,18 @@
         {
           "showtime_id": 536767993,
           "format": "standard",
-          "totalSeatSold": 3,
+          "totalSeatSold": 4,
           "totalSeatCount": 98,
-          "grossRevenueUSD": 43.29,
-          "grossRevenueWithFee": 49.86,
+          "grossRevenueUSD": 57.72,
+          "grossRevenueWithFee": 66.48,
           "adultTicketPrice": 14.43,
           "fee": 2.19,
-          "occupancy": 3.06
+          "occupancy": 4.08
         }
       ],
-      "finalGrossRevenueUSD": 43.29,
-      "finalGrossRevenueWithFee": 49.86,
-      "finalTotalSold": 3,
+      "finalGrossRevenueUSD": 57.72,
+      "finalGrossRevenueWithFee": 66.48,
+      "finalTotalSold": 4,
       "finalTotalCapacity": 98
     },
     {
@@ -5484,18 +5484,18 @@
         {
           "showtime_id": 536767990,
           "format": "standard",
-          "totalSeatSold": 44,
+          "totalSeatSold": 45,
           "totalSeatCount": 113,
-          "grossRevenueUSD": 638.0,
-          "grossRevenueWithFee": 734.36,
+          "grossRevenueUSD": 652.5,
+          "grossRevenueWithFee": 751.05,
           "adultTicketPrice": 14.5,
           "fee": 2.19,
-          "occupancy": 38.94
+          "occupancy": 39.82
         }
       ],
-      "finalGrossRevenueUSD": 638.0,
-      "finalGrossRevenueWithFee": 734.36,
-      "finalTotalSold": 44,
+      "finalGrossRevenueUSD": 652.5,
+      "finalGrossRevenueWithFee": 751.05,
+      "finalTotalSold": 45,
       "finalTotalCapacity": 113
     },
     {
@@ -5592,18 +5592,18 @@
         {
           "showtime_id": 536768814,
           "format": "standard",
-          "totalSeatSold": 30,
+          "totalSeatSold": 37,
           "totalSeatCount": 144,
-          "grossRevenueUSD": 432.9,
-          "grossRevenueWithFee": 498.6,
+          "grossRevenueUSD": 533.91,
+          "grossRevenueWithFee": 614.94,
           "adultTicketPrice": 14.43,
           "fee": 2.19,
-          "occupancy": 20.83
+          "occupancy": 25.69
         }
       ],
-      "finalGrossRevenueUSD": 432.9,
-      "finalGrossRevenueWithFee": 498.6,
-      "finalTotalSold": 30,
+      "finalGrossRevenueUSD": 533.91,
+      "finalGrossRevenueWithFee": 614.94,
+      "finalTotalSold": 37,
       "finalTotalCapacity": 144
     },
     {
@@ -5619,18 +5619,18 @@
         {
           "showtime_id": 536772034,
           "format": "standard",
-          "totalSeatSold": 4,
+          "totalSeatSold": 8,
           "totalSeatCount": 123,
-          "grossRevenueUSD": 68.2,
-          "grossRevenueWithFee": 76.96,
+          "grossRevenueUSD": 136.4,
+          "grossRevenueWithFee": 153.92,
           "adultTicketPrice": 17.05,
           "fee": 2.19,
-          "occupancy": 3.25
+          "occupancy": 6.5
         }
       ],
-      "finalGrossRevenueUSD": 68.2,
-      "finalGrossRevenueWithFee": 76.96,
-      "finalTotalSold": 4,
+      "finalGrossRevenueUSD": 136.4,
+      "finalGrossRevenueWithFee": 153.92,
+      "finalTotalSold": 8,
       "finalTotalCapacity": 123
     },
     {
@@ -5646,18 +5646,18 @@
         {
           "showtime_id": 536772035,
           "format": "standard",
-          "totalSeatSold": 0,
+          "totalSeatSold": 3,
           "totalSeatCount": 113,
-          "grossRevenueUSD": 0.0,
-          "grossRevenueWithFee": 0.0,
+          "grossRevenueUSD": 51.15,
+          "grossRevenueWithFee": 57.72,
           "adultTicketPrice": 17.05,
           "fee": 2.19,
-          "occupancy": 0.0
+          "occupancy": 2.65
         }
       ],
-      "finalGrossRevenueUSD": 0.0,
-      "finalGrossRevenueWithFee": 0.0,
-      "finalTotalSold": 0,
+      "finalGrossRevenueUSD": 51.15,
+      "finalGrossRevenueWithFee": 57.72,
+      "finalTotalSold": 3,
       "finalTotalCapacity": 113
     },
     {
@@ -5686,6 +5686,87 @@
       "finalGrossRevenueWithFee": 133.52,
       "finalTotalSold": 8,
       "finalTotalCapacity": 127
+    },
+    {
+      "state": "NC",
+      "city": "Cary",
+      "zip": "27518",
+      "theater_name": "Regal Crossroads & IMAX - Cary",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+19:15",
+      "language": "Hindi",
+      "formats": [
+        {
+          "showtime_id": 536773912,
+          "format": "standard",
+          "totalSeatSold": 3,
+          "totalSeatCount": 90,
+          "grossRevenueUSD": 48.21,
+          "grossRevenueWithFee": 54.78,
+          "adultTicketPrice": 16.07,
+          "fee": 2.19,
+          "occupancy": 3.33
+        }
+      ],
+      "finalGrossRevenueUSD": 48.21,
+      "finalGrossRevenueWithFee": 54.78,
+      "finalTotalSold": 3,
+      "finalTotalCapacity": 90
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "date": "2026-03-18+20:30",
+      "language": "Hindi",
+      "formats": [
+        {
+          "showtime_id": 536773039,
+          "format": "rpx",
+          "totalSeatSold": 7,
+          "totalSeatCount": 200,
+          "grossRevenueUSD": 153.58,
+          "grossRevenueWithFee": 172.41,
+          "adultTicketPrice": 21.94,
+          "fee": 2.69,
+          "occupancy": 3.5
+        }
+      ],
+      "finalGrossRevenueUSD": 153.58,
+      "finalGrossRevenueWithFee": 172.41,
+      "finalTotalSold": 7,
+      "finalTotalCapacity": 200
+    },
+    {
+      "state": "IL",
+      "city": "South Barrington",
+      "zip": "60010",
+      "theater_name": "AMC South Barrington 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "date": "2026-03-18+19:50",
+      "language": "Hindi",
+      "formats": [
+        {
+          "showtime_id": 536774041,
+          "format": "standard",
+          "totalSeatSold": 44,
+          "totalSeatCount": 137,
+          "grossRevenueUSD": 676.28,
+          "grossRevenueWithFee": 772.64,
+          "adultTicketPrice": 15.37,
+          "fee": 2.19,
+          "occupancy": 32.12
+        }
+      ],
+      "finalGrossRevenueUSD": 676.28,
+      "finalGrossRevenueWithFee": 772.64,
+      "finalTotalSold": 44,
+      "finalTotalCapacity": 137
     }
   ]
 }
